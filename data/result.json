@@ -1,0 +1,409 @@
+{
+ "branches": 429,
+ "counties": 151,
+ "msas": [
+  {
+   "cbsa_code": "10500",
+   "cbsa_title": "Albany, GA",
+   "metro_micro": "Metropolitan"
+  },
+  {
+   "cbsa_code": "10620",
+   "cbsa_title": "Albemarle, NC",
+   "metro_micro": "Micropolitan"
+  },
+  {
+   "cbsa_code": "11140",
+   "cbsa_title": "Americus, GA",
+   "metro_micro": "Micropolitan"
+  },
+  {
+   "cbsa_code": "11700",
+   "cbsa_title": "Asheville, NC",
+   "metro_micro": "Metropolitan"
+  },
+  {
+   "cbsa_code": "12020",
+   "cbsa_title": "Athens-Clarke County, GA",
+   "metro_micro": "Metropolitan"
+  },
+  {
+   "cbsa_code": "12060",
+   "cbsa_title": "Atlanta-Sandy Springs-Roswell, GA",
+   "metro_micro": "Metropolitan"
+  },
+  {
+   "cbsa_code": "12260",
+   "cbsa_title": "Augusta-Richmond County, GA-SC",
+   "metro_micro": "Metropolitan"
+  },
+  {
+   "cbsa_code": "12580",
+   "cbsa_title": "Baltimore-Columbia-Towson, MD",
+   "metro_micro": "Metropolitan"
+  },
+  {
+   "cbsa_code": "13820",
+   "cbsa_title": "Birmingham, AL",
+   "metro_micro": "Metropolitan"
+  },
+  {
+   "cbsa_code": "14540",
+   "cbsa_title": "Bowling Green, KY",
+   "metro_micro": "Metropolitan"
+  },
+  {
+   "cbsa_code": "15260",
+   "cbsa_title": "Brunswick-St. Simons, GA",
+   "metro_micro": "Metropolitan"
+  },
+  {
+   "cbsa_code": "15500",
+   "cbsa_title": "Burlington, NC",
+   "metro_micro": "Metropolitan"
+  },
+  {
+   "cbsa_code": "15660",
+   "cbsa_title": "Calhoun, GA",
+   "metro_micro": "Micropolitan"
+  },
+  {
+   "cbsa_code": "15980",
+   "cbsa_title": "Cape Coral-Fort Myers, FL",
+   "metro_micro": "Metropolitan"
+  },
+  {
+   "cbsa_code": "16700",
+   "cbsa_title": "Charleston-North Charleston, SC",
+   "metro_micro": "Metropolitan"
+  },
+  {
+   "cbsa_code": "16740",
+   "cbsa_title": "Charlotte-Concord-Gastonia, NC-SC",
+   "metro_micro": "Metropolitan"
+  },
+  {
+   "cbsa_code": "16860",
+   "cbsa_title": "Chattanooga, TN-GA",
+   "metro_micro": "Metropolitan"
+  },
+  {
+   "cbsa_code": "17420",
+   "cbsa_title": "Cleveland, TN",
+   "metro_micro": "Metropolitan"
+  },
+  {
+   "cbsa_code": "17500",
+   "cbsa_title": "Clewiston, FL",
+   "metro_micro": "Micropolitan"
+  },
+  {
+   "cbsa_code": "17900",
+   "cbsa_title": "Columbia, SC",
+   "metro_micro": "Metropolitan"
+  },
+  {
+   "cbsa_code": "17980",
+   "cbsa_title": "Columbus, GA-AL",
+   "metro_micro": "Metropolitan"
+  },
+  {
+   "cbsa_code": "18880",
+   "cbsa_title": "Crestview-Fort Walton Beach-Destin, FL",
+   "metro_micro": "Metropolitan"
+  },
+  {
+   "cbsa_code": "19100",
+   "cbsa_title": "Dallas-Fort Worth-Arlington, TX",
+   "metro_micro": "Metropolitan"
+  },
+  {
+   "cbsa_code": "19140",
+   "cbsa_title": "Dalton, GA",
+   "metro_micro": "Metropolitan"
+  },
+  {
+   "cbsa_code": "19300",
+   "cbsa_title": "Daphne-Fairhope-Foley, AL",
+   "metro_micro": "Metropolitan"
+  },
+  {
+   "cbsa_code": "19460",
+   "cbsa_title": "Decatur, AL",
+   "metro_micro": "Metropolitan"
+  },
+  {
+   "cbsa_code": "19660",
+   "cbsa_title": "Deltona-Daytona Beach-Ormond Beach, FL",
+   "metro_micro": "Metropolitan"
+  },
+  {
+   "cbsa_code": "20020",
+   "cbsa_title": "Dothan, AL",
+   "metro_micro": "Metropolitan"
+  },
+  {
+   "cbsa_code": "20500",
+   "cbsa_title": "Durham-Chapel Hill, NC",
+   "metro_micro": "Metropolitan"
+  },
+  {
+   "cbsa_code": "21460",
+   "cbsa_title": "Enterprise, AL",
+   "metro_micro": "Micropolitan"
+  },
+  {
+   "cbsa_code": "21780",
+   "cbsa_title": "Evansville, IN",
+   "metro_micro": "Metropolitan"
+  },
+  {
+   "cbsa_code": "22500",
+   "cbsa_title": "Florence, SC",
+   "metro_micro": "Metropolitan"
+  },
+  {
+   "cbsa_code": "24660",
+   "cbsa_title": "Greensboro-High Point, NC",
+   "metro_micro": "Metropolitan"
+  },
+  {
+   "cbsa_code": "24780",
+   "cbsa_title": "Greenville, NC",
+   "metro_micro": "Metropolitan"
+  },
+  {
+   "cbsa_code": "24860",
+   "cbsa_title": "Greenville-Anderson-Greer, SC",
+   "metro_micro": "Metropolitan"
+  },
+  {
+   "cbsa_code": "25940",
+   "cbsa_title": "Hilton Head Island-Bluffton-Port Royal, SC",
+   "metro_micro": "Metropolitan"
+  },
+  {
+   "cbsa_code": "26620",
+   "cbsa_title": "Huntsville, AL",
+   "metro_micro": "Metropolitan"
+  },
+  {
+   "cbsa_code": "27260",
+   "cbsa_title": "Jacksonville, FL",
+   "metro_micro": "Metropolitan"
+  },
+  {
+   "cbsa_code": "28680",
+   "cbsa_title": "Kingsland, GA",
+   "metro_micro": "Micropolitan"
+  },
+  {
+   "cbsa_code": "28940",
+   "cbsa_title": "Knoxville, TN",
+   "metro_micro": "Metropolitan"
+  },
+  {
+   "cbsa_code": "29300",
+   "cbsa_title": "LaGrange, GA-AL",
+   "metro_micro": "Micropolitan"
+  },
+  {
+   "cbsa_code": "31080",
+   "cbsa_title": "Los Angeles-Long Beach-Anaheim, CA",
+   "metro_micro": "Metropolitan"
+  },
+  {
+   "cbsa_code": "31140",
+   "cbsa_title": "Louisville/Jefferson County, KY-IN",
+   "metro_micro": "Metropolitan"
+  },
+  {
+   "cbsa_code": "31340",
+   "cbsa_title": "Lynchburg, VA",
+   "metro_micro": "Metropolitan"
+  },
+  {
+   "cbsa_code": "31420",
+   "cbsa_title": "Macon-Bibb County, GA",
+   "metro_micro": "Metropolitan"
+  },
+  {
+   "cbsa_code": "32820",
+   "cbsa_title": "Memphis, TN-MS-AR",
+   "metro_micro": "Metropolitan"
+  },
+  {
+   "cbsa_code": "33100",
+   "cbsa_title": "Miami-Fort Lauderdale-West Palm Beach, FL",
+   "metro_micro": "Metropolitan"
+  },
+  {
+   "cbsa_code": "33660",
+   "cbsa_title": "Mobile, AL",
+   "metro_micro": "Metropolitan"
+  },
+  {
+   "cbsa_code": "33860",
+   "cbsa_title": "Montgomery, AL",
+   "metro_micro": "Metropolitan"
+  },
+  {
+   "cbsa_code": "34820",
+   "cbsa_title": "Myrtle Beach-Conway-North Myrtle Beach, SC",
+   "metro_micro": "Metropolitan"
+  },
+  {
+   "cbsa_code": "34940",
+   "cbsa_title": "Naples-Marco Island, FL",
+   "metro_micro": "Metropolitan"
+  },
+  {
+   "cbsa_code": "34980",
+   "cbsa_title": "Nashville-Davidson--Murfreesboro--Franklin, TN",
+   "metro_micro": "Metropolitan"
+  },
+  {
+   "cbsa_code": "35840",
+   "cbsa_title": "North Port-Bradenton-Sarasota, FL",
+   "metro_micro": "Metropolitan"
+  },
+  {
+   "cbsa_code": "36740",
+   "cbsa_title": "Orlando-Kissimmee-Sanford, FL",
+   "metro_micro": "Metropolitan"
+  },
+  {
+   "cbsa_code": "37120",
+   "cbsa_title": "Ozark, AL",
+   "metro_micro": "Micropolitan"
+  },
+  {
+   "cbsa_code": "37340",
+   "cbsa_title": "Palm Bay-Melbourne-Titusville, FL",
+   "metro_micro": "Metropolitan"
+  },
+  {
+   "cbsa_code": "37860",
+   "cbsa_title": "Pensacola-Ferry Pass-Brent, FL",
+   "metro_micro": "Metropolitan"
+  },
+  {
+   "cbsa_code": "38940",
+   "cbsa_title": "Port St. Lucie, FL",
+   "metro_micro": "Metropolitan"
+  },
+  {
+   "cbsa_code": "39460",
+   "cbsa_title": "Punta Gorda, FL",
+   "metro_micro": "Metropolitan"
+  },
+  {
+   "cbsa_code": "39580",
+   "cbsa_title": "Raleigh-Cary, NC",
+   "metro_micro": "Metropolitan"
+  },
+  {
+   "cbsa_code": "40220",
+   "cbsa_title": "Roanoke, VA",
+   "metro_micro": "Metropolitan"
+  },
+  {
+   "cbsa_code": "40660",
+   "cbsa_title": "Rome, GA",
+   "metro_micro": "Metropolitan"
+  },
+  {
+   "cbsa_code": "42340",
+   "cbsa_title": "Savannah, GA",
+   "metro_micro": "Metropolitan"
+  },
+  {
+   "cbsa_code": "42680",
+   "cbsa_title": "Sebastian-Vero Beach-West Vero Corridor, FL",
+   "metro_micro": "Metropolitan"
+  },
+  {
+   "cbsa_code": "43180",
+   "cbsa_title": "Shelbyville, TN",
+   "metro_micro": "Micropolitan"
+  },
+  {
+   "cbsa_code": "43900",
+   "cbsa_title": "Spartanburg, SC",
+   "metro_micro": "Metropolitan"
+  },
+  {
+   "cbsa_code": "44340",
+   "cbsa_title": "Statesboro, GA",
+   "metro_micro": "Micropolitan"
+  },
+  {
+   "cbsa_code": "44940",
+   "cbsa_title": "Sumter, SC",
+   "metro_micro": "Metropolitan"
+  },
+  {
+   "cbsa_code": "45220",
+   "cbsa_title": "Tallahassee, FL",
+   "metro_micro": "Metropolitan"
+  },
+  {
+   "cbsa_code": "45300",
+   "cbsa_title": "Tampa-St. Petersburg-Clearwater, FL",
+   "metro_micro": "Metropolitan"
+  },
+  {
+   "cbsa_code": "45620",
+   "cbsa_title": "Thomasville, GA",
+   "metro_micro": "Micropolitan"
+  },
+  {
+   "cbsa_code": "45700",
+   "cbsa_title": "Tifton, GA",
+   "metro_micro": "Micropolitan"
+  },
+  {
+   "cbsa_code": "46220",
+   "cbsa_title": "Tuscaloosa, AL",
+   "metro_micro": "Metropolitan"
+  },
+  {
+   "cbsa_code": "46660",
+   "cbsa_title": "Valdosta, GA",
+   "metro_micro": "Metropolitan"
+  },
+  {
+   "cbsa_code": "47580",
+   "cbsa_title": "Warner Robins, GA",
+   "metro_micro": "Metropolitan"
+  },
+  {
+   "cbsa_code": "47900",
+   "cbsa_title": "Washington-Arlington-Alexandria, DC-VA-MD-WV",
+   "metro_micro": "Metropolitan"
+  },
+  {
+   "cbsa_code": "49180",
+   "cbsa_title": "Winston-Salem, NC",
+   "metro_micro": "Metropolitan"
+  }
+ ],
+ "rural_county_fips": [
+  "13043",
+  "13147",
+  "45027",
+  "45061"
+ ],
+ "out_of_region_states": [
+  "CA",
+  "IN",
+  "MD",
+  "MS",
+  "TX"
+ ],
+ "sod_match_rate": "87.9%",
+ "total_deposits_2025_kusd": 95314408,
+ "disagree": 5,
+ "unmatched_sod": 13,
+ "acq": 250
+}

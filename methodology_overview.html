@@ -1,0 +1,468 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Market Categorization Framework — Executive Overview</title>
+<style>
+  :root{
+    --ink:#16202e; --muted:#5a6b7e; --faint:#8a98a8; --line:#e4e9f0;
+    --bg:#ffffff; --panel:#f6f8fb;
+    --accent:#1f4e79; --accent-soft:#e9f0f8;
+    --accent-2:#2f8f8f; --accent-2-soft:#e6f3f3;
+    --good:#2f7d4f; --good-soft:#e8f3ec;
+    --warn:#b3770c; --warn-soft:#f7efdd;
+    --bad:#b5443a;  --bad-soft:#f7e7e5;
+    --cat-fin:#1f4e79;   --cat-fin-soft:#e9f0f8;
+    --cat-risk:#b5443a;  --cat-risk-soft:#f7e7e5;
+    --cat-tech:#2f8f8f;  --cat-tech-soft:#e6f3f3;
+    --cat-people:#b3770c;--cat-people-soft:#f7efdd;
+    --cat-rev:#2f7d4f;   --cat-rev-soft:#e8f3ec;
+    --cat-fund:#3b5b8c;  --cat-fund-soft:#e7eefb;
+    --radius:12px; --radius-sm:8px;
+    --shadow:0 1px 2px rgba(16,32,46,.06), 0 6px 20px rgba(16,32,46,.05);
+    --maxw:980px;
+    --font:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+  }
+  *{box-sizing:border-box}
+  html{scroll-behavior:smooth}
+  body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--font);line-height:1.6;font-size:16px;-webkit-font-smoothing:antialiased}
+  .wrap{max-width:var(--maxw);margin:0 auto;padding:0 24px 80px}
+  header.doc{padding:48px 0 28px;border-bottom:1px solid var(--line);margin-bottom:8px}
+  .eyebrow{font-size:13px;letter-spacing:.04em;text-transform:uppercase;color:var(--accent);font-weight:600;margin:0 0 10px}
+  h1{font-size:34px;line-height:1.2;font-weight:700;margin:0 0 12px;letter-spacing:-.01em}
+  .dek{font-size:18px;color:var(--muted);max-width:64ch;margin:0}
+  .meta{margin-top:16px;font-size:13px;color:var(--faint);display:flex;gap:18px;flex-wrap:wrap}
+  nav.toc{position:sticky;top:0;z-index:20;background:rgba(255,255,255,.92);backdrop-filter:saturate(1.2) blur(6px);border-bottom:1px solid var(--line);margin:0 -24px 32px;padding:10px 24px;display:flex;gap:6px;overflow-x:auto}
+  nav.toc a{font-size:13px;color:var(--muted);text-decoration:none;white-space:nowrap;padding:6px 12px;border-radius:99px;transition:.15s}
+  nav.toc a:hover{background:var(--panel);color:var(--ink)}
+  nav.toc a.active{background:var(--accent-soft);color:var(--accent);font-weight:600}
+  section{margin:44px 0;scroll-margin-top:64px}
+  .takeaway{font-size:22px;font-weight:600;line-height:1.3;margin:0 0 6px;letter-spacing:-.01em}
+  .lead{font-size:15px;color:var(--muted);margin:0 0 20px;max-width:70ch}
+  .caption{font-size:14px;color:var(--muted);margin:14px 0 0;max-width:72ch}
+  .caption strong{color:var(--ink);font-weight:600}
+  .note{font-size:12.5px;color:var(--faint);margin-top:8px}
+  .card{background:var(--bg);border:1px solid var(--line);border-radius:var(--radius);padding:18px 20px;box-shadow:var(--shadow);transition:transform .15s,box-shadow .15s}
+  .card:hover{transform:translateY(-2px);box-shadow:0 2px 4px rgba(16,32,46,.08),0 12px 30px rgba(16,32,46,.08)}
+  .panel{background:var(--panel);border-radius:var(--radius);padding:20px 22px}
+  .summary{background:var(--accent-soft);border:1px solid #d4e2f0;border-radius:var(--radius);padding:22px 24px;margin:24px 0 8px}
+  .summary h2{font-size:14px;text-transform:uppercase;letter-spacing:.04em;color:var(--accent);margin:0 0 8px;font-weight:600}
+  .summary p{margin:0 0 10px;font-size:16px;color:var(--ink);max-width:74ch}
+  .summary p:last-child{margin-bottom:0}
+  .stat-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:14px}
+  .stat{border-top:3px solid var(--c,var(--accent))}
+  .stat .top{display:flex;align-items:center;gap:9px;margin-bottom:6px}
+  .stat .num{font-size:28px;font-weight:700;color:var(--c,var(--accent));line-height:1.1}
+  .stat .lbl{font-size:13px;color:var(--muted);margin-top:6px}
+  .pill{display:inline-flex;align-items:center;gap:6px;font-size:12.5px;font-weight:600;padding:3px 10px;border-radius:99px;background:var(--panel);color:var(--muted)}
+  .pill.good{background:var(--good-soft);color:var(--good)}
+  .pill.warn{background:var(--warn-soft);color:var(--warn)}
+  .pill.bad{background:var(--bad-soft);color:var(--bad)}
+  .pill.accent{background:var(--accent-soft);color:var(--accent)}
+  .legend{display:flex;gap:16px;flex-wrap:wrap;font-size:13px;color:var(--muted);margin:10px 0 0}
+  .legend span{display:inline-flex;align-items:center;gap:7px}
+  .dot{width:11px;height:11px;border-radius:3px;display:inline-block}
+  .ic{width:1em;height:1em;display:inline-block;vertical-align:-.125em;fill:none;stroke:currentColor;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round}
+  .ichip{width:36px;height:36px;border-radius:10px;display:inline-flex;align-items:center;justify-content:center;font-size:20px;flex:none}
+  .ichip.fin{background:var(--cat-fin-soft);color:var(--cat-fin)}
+  .ichip.risk{background:var(--cat-risk-soft);color:var(--cat-risk)}
+  .ichip.tech{background:var(--cat-tech-soft);color:var(--cat-tech)}
+  .ichip.people{background:var(--cat-people-soft);color:var(--cat-people)}
+  .ichip.rev{background:var(--cat-rev-soft);color:var(--cat-rev)}
+  .ichip.fund{background:var(--cat-fund-soft);color:var(--cat-fund)}
+  details.more{margin-top:12px;border-top:1px dashed var(--line);padding-top:10px}
+  details.more>summary{cursor:pointer;font-size:13.5px;font-weight:600;color:var(--accent);list-style:none;display:inline-flex;align-items:center;gap:6px}
+  details.more>summary::-webkit-details-marker{display:none}
+  details.more>summary::before{content:"+";font-size:15px;line-height:1}
+  details.more[open]>summary::before{content:"–"}
+  details.more .body{margin-top:12px}
+  svg{display:block;max-width:100%;height:auto}
+  .scroller{overflow-x:auto}
+  .rel{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+  .rnode{display:inline-flex;align-items:center;gap:9px;background:var(--bg);border:1px solid var(--line);border-radius:10px;padding:7px 12px;font-size:13.5px;font-weight:600;box-shadow:var(--shadow)}
+  .rnode .ichip{width:26px;height:26px;border-radius:7px;font-size:15px}
+  .redge{display:inline-flex;flex-direction:column;align-items:center;justify-content:center;flex:0 1 92px;min-width:58px;align-self:center}
+  .redge::before{content:attr(data-verb);font-size:10.5px;font-weight:700;letter-spacing:.05em;text-transform:uppercase;color:var(--accent);white-space:nowrap;margin-bottom:2px}
+  .redge .shaft{position:relative;display:block;width:100%;height:2px;background:var(--accent)}
+  .redge .shaft::after{content:"";position:absolute;right:-1px;top:-4px;border:5px solid transparent;border-left:7px solid var(--accent)}
+  .e-seq{stroke:var(--faint);stroke-width:1.6;fill:none}
+  .e-dep{stroke:var(--accent);stroke-width:2.4;fill:none}
+  .edge-lbl{font-size:11px;font-weight:700;letter-spacing:.04em;text-transform:uppercase;fill:var(--muted)}
+  .edge-lbl.dep{fill:var(--accent)}
+  .reveal{opacity:0;transform:translateY(14px);transition:opacity .5s ease,transform .5s ease}
+  .reveal.in{opacity:1;transform:none}
+  [data-stagger]>*{opacity:0;transform:translateY(12px);transition:opacity .45s ease,transform .45s ease}
+  [data-stagger].in>*{opacity:1;transform:none}
+  .draw{stroke-dasharray:var(--len,600);stroke-dashoffset:var(--len,600);transition:stroke-dashoffset 1.1s ease}
+  .draw.in{stroke-dashoffset:0}
+  .flow-dot{fill:var(--accent);opacity:0}
+  .flow-dot.on{opacity:1}
+
+  /* ---- dimension cards (three questions) ---- */
+  .dims{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:14px}
+  .dim{border-top:3px solid var(--c)}
+  .dim h3{margin:0 0 2px;font-size:16px}
+  .dim .q{font-size:13.5px;color:var(--muted);font-style:italic;margin:0 0 10px}
+  .dim ul{margin:0;padding-left:0;list-style:none;font-size:13.5px;color:var(--muted)}
+  .dim li{padding:3px 0;border-top:1px dashed var(--line)}
+  .dim li:first-child{border-top:none}
+  .dim li b{color:var(--ink);font-weight:600}
+  .dim .src{margin-top:10px;font-size:12px;color:var(--faint)}
+
+  /* ---- decision bands ---- */
+  .bands{display:flex;border-radius:10px;overflow:hidden;border:1px solid var(--line)}
+  .band{flex:1;padding:12px 10px;text-align:center}
+  .band .bt{font-weight:700;font-size:14px}
+  .band .br{font-size:12px;color:var(--muted);margin-top:2px}
+  .band.hi{background:var(--good-soft)} .band.hi .bt{color:var(--good)}
+  .band.med{background:var(--panel)} .band.med .bt{color:var(--muted)}
+  .band.lo{background:var(--bad-soft)} .band.lo .bt{color:var(--bad)}
+
+  /* ---- gate track (stage waterfall) ---- */
+  .gates{display:flex;flex-direction:column;gap:0;max-width:760px}
+  .gate{display:grid;grid-template-columns:44px 1fr;gap:14px;align-items:start;position:relative;padding:10px 0}
+  .gate .gn{width:34px;height:34px;border-radius:50%;background:var(--accent-soft);color:var(--accent);display:flex;align-items:center;justify-content:center;font-weight:700;font-size:14px;border:2px solid var(--accent);z-index:1}
+  .gate:not(:last-child)::before{content:"";position:absolute;left:16px;top:46px;bottom:-8px;width:2px;background:var(--line)}
+  .gate .gbody{background:var(--bg);border:1px solid var(--line);border-radius:10px;padding:10px 14px;box-shadow:var(--shadow)}
+  .gate .gname{font-weight:700;font-size:14.5px;display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+  .gate .grule{font-size:13px;color:var(--muted);margin-top:2px}
+  .gate .gcount{margin-left:auto}
+  .gate.fall::before{background:repeating-linear-gradient(180deg,var(--faint) 0 5px,transparent 5px 10px)}
+  .gate .fallnote{font-size:11px;font-weight:700;letter-spacing:.05em;text-transform:uppercase;color:var(--faint);margin:4px 0 0 2px}
+
+  /* ---- result bars ---- */
+  .bars{display:flex;flex-direction:column;gap:9px;max-width:720px}
+  .bar{display:grid;grid-template-columns:200px 1fr 42px;gap:10px;align-items:center;font-size:13.5px}
+  .bar .bl{text-align:right;color:var(--ink);font-weight:600}
+  .bar .track{background:var(--panel);border-radius:6px;height:22px;position:relative}
+  .bar .fill{position:absolute;left:0;top:0;bottom:0;border-radius:6px;background:var(--c,var(--accent))}
+  .bar .bv{font-weight:700;color:var(--muted)}
+  @media (prefers-reduced-motion:reduce){
+    html{scroll-behavior:auto}
+    .reveal,[data-stagger]>*{opacity:1!important;transform:none!important;transition:none!important}
+    .draw{stroke-dashoffset:0!important;transition:none!important}
+    .flow-dot{display:none}
+  }
+  @media print{
+    nav.toc{display:none}
+    .card,.summary{box-shadow:none}
+    section{break-inside:avoid}
+    body{font-size:12pt}
+    .reveal,[data-stagger]>*{opacity:1!important;transform:none!important}
+    .draw{stroke-dashoffset:0!important}
+    .flow-dot{display:none}
+  }
+  @media (max-width:640px){ h1{font-size:27px} .takeaway{font-size:19px} nav.toc{margin-bottom:20px} .bar{grid-template-columns:130px 1fr 38px} }
+</style>
+</head>
+<body>
+
+<svg width="0" height="0" style="position:absolute" aria-hidden="true" focusable="false"><defs>
+<symbol id="ic-bank" viewBox="0 0 24 24"><path d="M4 9.5 12 4l8 5.5"/><path d="M5.5 10v8M9.5 10v8M14.5 10v8M18.5 10v8"/><path d="M3.5 20.5h17"/></symbol>
+<symbol id="ic-users" viewBox="0 0 24 24"><circle cx="9" cy="8" r="3"/><path d="M3.5 18.8c0-2.9 2.5-4.8 5.5-4.8s5.5 1.9 5.5 4.8"/><path d="M16 5.4a3 3 0 0 1 0 5.8"/><path d="M17.5 14.2c2.3.5 3.9 2 3.9 4.4"/></symbol>
+<symbol id="ic-trend" viewBox="0 0 24 24"><path d="M4 16l5-5 3 3 7.5-7.5"/><path d="M15.5 6.5H20v4.5"/></symbol>
+<symbol id="ic-coins" viewBox="0 0 24 24"><circle cx="9" cy="9" r="5"/><path d="M14.4 4.6a5 5 0 0 1 0 9.4"/><path d="M7 14.6c.6 2.3 2.8 3.4 5.5 3.4"/></symbol>
+<symbol id="ic-gauge" viewBox="0 0 24 24"><path d="M4.5 18a8 8 0 1 1 15 0"/><path d="M12 14.5l4-3"/><circle cx="12" cy="14.5" r="1.2"/></symbol>
+<symbol id="ic-flag" viewBox="0 0 24 24"><path d="M6 21V4M6 4.5h11l-2 3 2 3H6"/></symbol>
+<symbol id="ic-alert" viewBox="0 0 24 24"><path d="M12 4 2.8 20h18.4L12 4z"/><path d="M12 10v4.5M12 17.4h.01"/></symbol>
+<symbol id="ic-file" viewBox="0 0 24 24"><path d="M7 3.5h7l4 4V20a1 1 0 0 1-1 1H7a1 1 0 0 1-1-1V4.5a1 1 0 0 1 1-1z"/><path d="M14 3.5V8h4"/></symbol>
+<symbol id="ic-target" viewBox="0 0 24 24"><circle cx="12" cy="12" r="8"/><circle cx="12" cy="12" r="4.4"/><circle cx="12" cy="12" r="1"/></symbol>
+</defs></svg>
+
+<div class="wrap">
+
+  <header class="doc">
+    <p class="eyebrow">Pinnacle Bank · Market Strategy</p>
+    <h1>How we classified all 81 of our markets</h1>
+    <p class="dek">Every market the combined bank operates in gets three labels — how big it is, how fast it's growing, and where our franchise stands — built entirely from free public data, with every number traceable to its source.</p>
+    <div class="meta"><span>Source: market_categorizer.py methodology (Aug 2026)</span><span>Data: Census · BEA · BLS · FDIC · OMB</span></div>
+  </header>
+
+  <nav class="toc" aria-label="Sections">
+    <a href="#summary" class="active">Summary</a>
+    <a href="#s1">Three questions</a>
+    <a href="#s2">Growth score</a>
+    <a href="#s3">Size tiers</a>
+    <a href="#s4">Franchise stage</a>
+    <a href="#s5">Read with care</a>
+    <a href="#s6">Results</a>
+  </nav>
+
+  <section id="summary">
+    <div class="summary reveal">
+      <h2>The bottom line</h2>
+      <p>We sorted every market the post-merger bank operates in — 77 metro areas and 4 rural counties — by answering three plain questions: <strong>Is the market big? Is it growing? What is our position in it?</strong> Size comes from official Census population counts. Growth comes from five hard indicators (people, migration, economic output, jobs, income), each compared against every metro area in America — so "High growth" means growing faster than the nation, not just faster than our own footprint. Franchise stage comes from 30 years of FDIC branch and deposit records for both legacy banks, treated as one combined history.</p>
+      <p>The result: roughly half our deposit base sits in markets where we're an entrenched leader, and the labels flag exactly where we're expanding, where we're new, and the three markets where we're pulling back.</p>
+    </div>
+    <div class="stat-grid reveal" data-stagger style="margin-top:16px">
+      <div class="card stat" style="--c:var(--cat-fin)"><div class="top"><span class="ichip fin"><svg class="ic"><use href="#ic-target"/></svg></span><div class="num"><span data-count="81">81</span></div></div><div class="lbl">Markets classified</div></div>
+      <div class="card stat" style="--c:var(--cat-fund)"><div class="top"><span class="ichip fund"><svg class="ic"><use href="#ic-bank"/></svg></span><div class="num"><span data-count="429">429</span></div></div><div class="lbl">Offices (379 full-service branches)</div></div>
+      <div class="card stat" style="--c:var(--cat-rev)"><div class="top"><span class="ichip rev"><svg class="ic"><use href="#ic-coins"/></svg></span><div class="num">$<span data-count="96">96</span>B</div></div><div class="lbl">Pro-forma deposits (June 2025 SOD)</div></div>
+      <div class="card stat" style="--c:var(--cat-tech)"><div class="top"><span class="ichip tech"><svg class="ic"><use href="#ic-file"/></svg></span><div class="num"><span data-count="5">5</span></div></div><div class="lbl">Public data sources, all free</div></div>
+    </div>
+    <p class="note">Deposit total is the pro-forma June-2025 FDIC Summary of Deposits basis (certs 35583 + 873); see the methodology for the two deposit bases.</p>
+  </section>
+
+  <section id="s1">
+    <h2 class="takeaway">Three independent labels answer three different questions</h2>
+    <p class="lead">Each dimension is scored on its own — a slow-growth market can hold a dominant franchise, and a booming market can be one where we just arrived.</p>
+    <div class="dims reveal" data-stagger>
+      <div class="card dim" style="--c:var(--cat-fin)">
+        <h3><span class="ichip fin" style="width:28px;height:28px;font-size:16px"><svg class="ic"><use href="#ic-users"/></svg></span> Size tier</h3>
+        <p class="q">"How big is this market?"</p>
+        <ul>
+          <li><b>16</b> Major Metro (1M+ people)</li>
+          <li><b>30</b> Secondary Metro (250k–1M)</li>
+          <li><b>19</b> Small Metro (&lt;250k)</li>
+          <li><b>12</b> Micropolitan</li>
+          <li><b>4</b> Rural county</li>
+        </ul>
+        <div class="src">Census 2025 population · OMB market definitions</div>
+      </div>
+      <div class="card dim" style="--c:var(--cat-rev)">
+        <h3><span class="ichip rev" style="width:28px;height:28px;font-size:16px"><svg class="ic"><use href="#ic-trend"/></svg></span> Growth tier</h3>
+        <p class="q">"Is it growing faster than America?"</p>
+        <ul>
+          <li><b>47</b> High growth</li>
+          <li><b>24</b> Medium growth</li>
+          <li><b>10</b> Low growth</li>
+        </ul>
+        <div class="src">5 indicators vs. all 925 US metro areas — Census, BEA, BLS</div>
+      </div>
+      <div class="card dim" style="--c:var(--cat-fund)">
+        <h3><span class="ichip fund" style="width:28px;height:28px;font-size:16px"><svg class="ic"><use href="#ic-flag"/></svg></span> Franchise stage</h3>
+        <p class="q">"Where are we on our journey here?"</p>
+        <ul>
+          <li><b>39</b> Entrenched Leader (incl. 10 consolidating)</li>
+          <li><b>17</b> Established – Mature</li>
+          <li><b>10</b> Expanding · <b>8</b> New Entrant</li>
+          <li><b>3</b> Pulling Back · <b>4</b> Foothold only</li>
+        </ul>
+        <div class="src">FDIC deposit &amp; branch records, 1994–2025, both legacy banks combined</div>
+      </div>
+    </div>
+    <p class="caption"><strong>What to notice:</strong> most of our high-growth markets skew Southeast because the whole region outgrows the nation — that's a real advantage, not a scoring quirk. The interesting cells are the mismatches: entrenched franchises in slow markets (defend and harvest) and thin footholds in fast ones (invest or exit).</p>
+  </section>
+
+  <section id="s2">
+    <h2 class="takeaway">The growth score: five public indicators, one national yardstick</h2>
+    <p class="lead">Each market's five growth readings are converted to "how unusual is this vs. every US metro area?", then blended with fixed weights into one score.</p>
+    <div class="reveal scroller">
+      <svg viewBox="0 0 900 330" role="img" aria-label="Five growth indicators from three federal sources combine into a weighted composite score, which is banded into High, Medium, and Low growth tiers">
+        <title>Growth scoring pipeline</title>
+        <!-- source column -->
+        <g font-family="inherit">
+          <rect x="10" y="22" width="182" height="46" rx="9" fill="var(--accent-soft)" stroke="var(--accent)"/>
+          <text x="101" y="41" text-anchor="middle" font-size="12.5" font-weight="700" fill="var(--ink)">Population growth</text>
+          <text x="101" y="57" text-anchor="middle" font-size="10.5" fill="var(--muted)">Census · 2020–25 · 22.5%</text>
+
+          <rect x="10" y="80" width="182" height="46" rx="9" fill="var(--accent-soft)" stroke="var(--accent)"/>
+          <text x="101" y="99" text-anchor="middle" font-size="12.5" font-weight="700" fill="var(--ink)">Net domestic migration</text>
+          <text x="101" y="115" text-anchor="middle" font-size="10.5" fill="var(--muted)">Census · 2021–25 · 22.5%</text>
+
+          <rect x="10" y="138" width="182" height="46" rx="9" fill="var(--accent-soft)" stroke="var(--accent)"/>
+          <text x="101" y="157" text-anchor="middle" font-size="12.5" font-weight="700" fill="var(--ink)">Real GDP growth</text>
+          <text x="101" y="173" text-anchor="middle" font-size="10.5" fill="var(--muted)">BEA · 2019–24 · 22.5%</text>
+
+          <rect x="10" y="196" width="182" height="46" rx="9" fill="var(--accent-soft)" stroke="var(--accent)"/>
+          <text x="101" y="215" text-anchor="middle" font-size="12.5" font-weight="700" fill="var(--ink)">Income per person</text>
+          <text x="101" y="231" text-anchor="middle" font-size="10.5" fill="var(--muted)">BEA · 2019–24 · 22.5%</text>
+
+          <rect x="10" y="254" width="182" height="46" rx="9" fill="var(--panel)" stroke="var(--faint)"/>
+          <text x="101" y="273" text-anchor="middle" font-size="12.5" font-weight="700" fill="var(--ink)">Job growth</text>
+          <text x="101" y="289" text-anchor="middle" font-size="10.5" fill="var(--muted)">BLS · 2019–24 · 10% weight</text>
+        </g>
+        <!-- converging edges -->
+        <path id="gp1" class="e-dep draw" d="M192 45 C 300 45, 330 150, 415 158"/>
+        <path class="e-dep draw" d="M192 103 C 290 103, 320 152, 415 160"/>
+        <path class="e-dep draw" d="M192 161 L 415 163"/>
+        <path class="e-dep draw" d="M192 219 C 290 219, 320 174, 415 166"/>
+        <path class="e-seq draw" d="M192 277 C 300 277, 330 176, 415 168"/>
+        <circle class="flow-dot" data-follow="#gp1" r="3.5"/>
+        <text class="edge-lbl dep" x="230" y="118">scored vs 925 US metros</text>
+        <!-- composite node -->
+        <rect x="418" y="128" width="168" height="72" rx="10" fill="var(--bg)" stroke="var(--accent)" stroke-width="2.2"/>
+        <text x="502" y="156" text-anchor="middle" font-size="13.5" font-weight="700" fill="var(--ink)">Composite score</text>
+        <text x="502" y="174" text-anchor="middle" font-size="11" fill="var(--muted)">one weighted number</text>
+        <text x="502" y="189" text-anchor="middle" font-size="11" fill="var(--muted)">per market</text>
+        <!-- band edge -->
+        <path id="gp2" class="e-dep draw" d="M586 164 L 662 164"/>
+        <text class="edge-lbl dep" x="596" y="154">bands into</text>
+        <!-- decision bands -->
+        <g>
+          <rect x="665" y="60" width="220" height="60" rx="9" fill="var(--good-soft)" stroke="var(--good)"/>
+          <text x="775" y="85" text-anchor="middle" font-size="13" font-weight="700" fill="var(--good)">HIGH — 47 markets</text>
+          <text x="775" y="103" text-anchor="middle" font-size="10.5" fill="var(--muted)">clearly above national pace</text>
+          <rect x="665" y="134" width="220" height="60" rx="9" fill="var(--panel)" stroke="var(--faint)"/>
+          <text x="775" y="159" text-anchor="middle" font-size="13" font-weight="700" fill="var(--muted)">MEDIUM — 24 markets</text>
+          <text x="775" y="177" text-anchor="middle" font-size="10.5" fill="var(--muted)">around the national pace</text>
+          <rect x="665" y="208" width="220" height="60" rx="9" fill="var(--bad-soft)" stroke="var(--bad)"/>
+          <text x="775" y="233" text-anchor="middle" font-size="13" font-weight="700" fill="var(--bad)">LOW — 10 markets</text>
+          <text x="775" y="251" text-anchor="middle" font-size="10.5" fill="var(--muted)">clearly below national pace</text>
+        </g>
+        <path class="e-seq draw" d="M662 164 C 660 120, 660 95, 665 90"/>
+        <path class="e-seq draw" d="M662 164 C 660 210, 660 232, 665 236"/>
+      </svg>
+    </div>
+    <p class="caption"><strong>What to notice:</strong> the yardstick is national, not internal. A "High" here means the market outpaces the typical American metro area — which is why 47 of 81 qualify: the Southeast genuinely is where America is moving. Job growth carries a lighter 10% weight because its benchmark is weaker (explained in the methodology, §5).</p>
+    <details class="more"><summary>How the standardization works</summary>
+      <div class="body"><p class="caption" style="margin-top:0">Each indicator is a 5-year compound growth rate, converted to a z-score against all 925 US metropolitan and micropolitan areas (trimmed of extreme outliers before setting the scale). The cutoffs are ±0.33 standard deviations — a deliberately modest line, so "Medium" means genuinely middle-of-the-pack. Rural counties are scored against all 3,144 US counties instead, so a rural market is judged against its true peers.</p></div>
+    </details>
+  </section>
+
+  <section id="s3">
+    <h2 class="takeaway">Size tiers come straight off official population counts</h2>
+    <p class="lead">No judgment calls: the federal government defines the market boundaries, the Census counts the people, and fixed cutoffs assign the tier.</p>
+    <div class="reveal">
+      <div class="bands" role="img" aria-label="Population ranges map to size tiers: 1 million plus is Major Metro, 250 thousand to 1 million is Secondary Metro, under 250 thousand is Small Metro, micropolitan areas and non-metro counties are their own tiers">
+        <div class="band hi" style="background:var(--accent-soft)"><div class="bt" style="color:var(--accent)">Major Metro</div><div class="br">1M+ people · 16 markets</div></div>
+        <div class="band" style="background:var(--accent-2-soft)"><div class="bt" style="color:var(--accent-2)">Secondary Metro</div><div class="br">250k–1M · 30 markets</div></div>
+        <div class="band med"><div class="bt">Small Metro</div><div class="br">&lt;250k · 19 markets</div></div>
+        <div class="band" style="background:var(--warn-soft)"><div class="bt" style="color:var(--warn)">Micropolitan</div><div class="br">town-centered · 12</div></div>
+        <div class="band" style="background:var(--good-soft)"><div class="bt" style="color:var(--good)">Rural</div><div class="br">non-metro county · 4</div></div>
+      </div>
+    </div>
+    <p class="caption"><strong>What to notice:</strong> one surprise hides here — under the current federal definitions <strong>Birmingham is a Major Metro</strong> (1.20M people once Talladega-side counties were folded in by the 2023 boundary update), not the secondary market it's often assumed to be. Most of what feels like "rural Georgia" is technically micropolitan — small town-centered markets with their own tier.</p>
+  </section>
+
+  <section id="s4">
+    <h2 class="takeaway">Franchise stage: seven gates, checked in order, first match wins</h2>
+    <p class="lead">Each market drops through the gates below. The first rule it matches is its label — deterministic, auditable, and every input is printed on the market's row so a reader can overrule the label without re-running anything.</p>
+    <div class="gates reveal" data-stagger>
+      <div class="gate fall"><div class="gn">1</div><div class="gbody"><div class="gname">Limited-Service Foothold <span class="pill gcount">4 markets</span></div><div class="grule">No deposit-taking branch at all — just a loan office. Deposit rules below don't apply.</div><div class="fallnote">not matched ↓</div></div></div>
+      <div class="gate fall"><div class="gn">2</div><div class="gbody"><div class="gname">New Entrant <span class="pill gcount">8 markets</span></div><div class="grule">First branch within the last 5 years, or young (&lt;8 yrs) with ≤2 branches and under 2% share.</div><div class="fallnote">not matched ↓</div></div></div>
+      <div class="gate fall"><div class="gn">3</div><div class="gbody"><div class="gname">Entrenched Leader (consolidating) <span class="pill warn gcount">10 markets</span></div><div class="grule">Both true at once: ≥8% deposit share <em>and</em> shrinking branches/share — a dominant franchise thinning overlap, checked before "Pulling Back" so it's never mislabeled a retreat.</div><div class="fallnote">not matched ↓</div></div></div>
+      <div class="gate fall"><div class="gn">4</div><div class="gbody"><div class="gname">Pulling Back <span class="pill bad gcount">3 markets</span></div><div class="grule">Physical retreat and share loss together: closed 2+ branches with falling share, or lost ≥25% of branches with no share gain.</div><div class="fallnote">not matched ↓</div></div></div>
+      <div class="gate fall"><div class="gn">5</div><div class="gbody"><div class="gname">Entrenched Leader <span class="pill good gcount">29 markets</span></div><div class="grule">≥8% of all deposits in the market — a structural incumbent. (8% is a screening convention; a sensitivity table in the methodology shows what ±2 points changes.)</div><div class="fallnote">not matched ↓</div></div></div>
+      <div class="gate fall"><div class="gn">6</div><div class="gbody"><div class="gname">Expanding <span class="pill accent gcount">10 markets</span></div><div class="grule">Added 2+ branches, or gained ≥50bps of share, or a young market growing on both counts.</div><div class="fallnote">not matched ↓</div></div></div>
+      <div class="gate"><div class="gn">7</div><div class="gbody"><div class="gname">Established – Mature <span class="pill gcount">17 markets</span></div><div class="grule">Everything else: long presence, stable share and branches, below the leadership cutoff.</div></div></div>
+    </div>
+    <p class="caption"><strong>What to notice:</strong> the inputs are 30 years of FDIC records for <em>both</em> legacy banks combined — so a market Synovus has anchored since the 1990s counts as a decades-old franchise, not a 2026 arrival. A separate flag marks the 44 markets whose presence came entirely through the merger.</p>
+  </section>
+
+  <section id="s5">
+    <h2 class="takeaway">Read three things with care before quoting a number</h2>
+    <p class="lead">The engine flags its own known distortions on each affected row rather than hiding them.</p>
+    <div class="reveal" style="display:grid;gap:14px">
+      <div class="card" style="border-left:4px solid var(--warn)">
+        <div style="display:flex;gap:12px;align-items:flex-start">
+          <span class="ichip people"><svg class="ic"><use href="#ic-alert"/></svg></span>
+          <div>
+            <b>Big deposit books sometimes move between offices on paper.</b>
+            <div class="rel" style="margin:10px 0 6px">
+              <span class="rnode">Corporate book of record</span>
+              <span class="redge" data-verb="relocates"><i class="shaft"></i></span>
+              <span class="rnode">Another office / market</span>
+              <span class="redge" data-verb="distorts"><i class="shaft"></i></span>
+              <span class="rnode">Share trend → stage label</span>
+            </div>
+            <p class="caption" style="margin-top:4px">The clearest case: Synovus moved its multi-billion-dollar corporate book from Columbus GA toward Atlanta between 2020 and 2021 — a booking change, not customers moving. A detector now flags both sides of every large move (8 markets carry the flag), and the affected labels say so inline.</p>
+          </div>
+        </div>
+      </div>
+      <div class="card" style="border-left:4px solid var(--warn)">
+        <div style="display:flex;gap:12px;align-items:flex-start">
+          <span class="ichip people"><svg class="ic"><use href="#ic-gauge"/></svg></span>
+          <div>
+            <b>Shares are "share where we operate," not full-metro shares.</b>
+            <p class="caption" style="margin-top:4px">Numerator and denominator cover the same counties we bank in — the right operating question, but not comparable to a published whole-MSA share. And legacy-Synovus tenure is a floor: its sister charters merged into one FDIC number in 2010, so "entered 2010" often means "at least 2010, likely older."</p>
+          </div>
+        </div>
+      </div>
+      <div class="card" style="border-left:4px solid var(--warn)">
+        <div style="display:flex;gap:12px;align-items:flex-start">
+          <span class="ichip people"><svg class="ic"><use href="#ic-flag"/></svg></span>
+          <div>
+            <b>Labels near a cutoff are labels, not verdicts.</b>
+            <p class="caption" style="margin-top:4px">Nine markets sit within 2 points of the 8% leadership line (Birmingham at 8.3%, Memphis at 7.8%, Atlanta at 6.5%…), and two stage labels sit on a knife edge (Naples, Orlando). Every row prints its raw inputs precisely so a reader can overrule the label by hand.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="s6">
+    <h2 class="takeaway">Where the book stands: half the franchise is entrenched, the growth edge is real</h2>
+    <div class="reveal" style="margin-bottom:22px">
+      <div class="bars" role="img" aria-label="Franchise stage distribution across 81 markets: 29 Entrenched Leader, 17 Established Mature, 10 consolidating leaders, 10 Expanding, 8 New Entrant, 4 Foothold only, 3 Pulling Back">
+        <div class="bar"><div class="bl">Entrenched Leader</div><div class="track"><div class="fill" style="--c:var(--good);width:100%"></div></div><div class="bv">29</div></div>
+        <div class="bar"><div class="bl">Established – Mature</div><div class="track"><div class="fill" style="--c:var(--accent);width:58.6%"></div></div><div class="bv">17</div></div>
+        <div class="bar"><div class="bl">Entrenched (consolidating)</div><div class="track"><div class="fill" style="--c:var(--warn);width:34.5%"></div></div><div class="bv">10</div></div>
+        <div class="bar"><div class="bl">Expanding</div><div class="track"><div class="fill" style="--c:var(--accent-2);width:34.5%"></div></div><div class="bv">10</div></div>
+        <div class="bar"><div class="bl">New Entrant</div><div class="track"><div class="fill" style="--c:var(--cat-fund);width:27.6%"></div></div><div class="bv">8</div></div>
+        <div class="bar"><div class="bl">Foothold only (loan offices)</div><div class="track"><div class="fill" style="--c:var(--faint);width:13.8%"></div></div><div class="bv">4</div></div>
+        <div class="bar"><div class="bl">Pulling Back</div><div class="track"><div class="fill" style="--c:var(--bad);width:10.3%"></div></div><div class="bv">3</div></div>
+      </div>
+      <div class="legend"><span><span class="dot" style="background:var(--good)"></span>strength</span><span><span class="dot" style="background:var(--accent-2)"></span>growth motion</span><span><span class="dot" style="background:var(--warn)"></span>watch the story behind the label</span><span><span class="dot" style="background:var(--bad)"></span>retreat</span></div>
+    </div>
+    <p class="caption"><strong>What to notice:</strong> the anchors behave like anchors — Nashville holds 23.4% deposit share and is still gaining (+488bps over five years); Columbus GA holds 60.9%. The motion is where you'd want it: the Expanding list is Charlotte, Raleigh, Jacksonville, Durham, Columbia SC and peers. The three Pulling Back markets (Miami, Naples, Savannah) are all legacy-Synovus coastal positions. And Charlotte is the standout execution-gap: 11 branches but only 0.4% share — a big footprint that hasn't converted yet.</p>
+  </section>
+
+  <footer style="margin-top:56px;padding-top:18px;border-top:1px solid var(--line);font-size:12.5px;color:var(--faint)">
+    Generated from the market categorization methodology (market_categorizer.py, Aug 2026). Sources: Census Population Estimates (Vintage 2025) · BEA Regional GDP &amp; income · BLS QCEW employment · FDIC Summary of Deposits 1994–2025 · OMB 2023 market delineations. All figures shown appear in the source document; nothing is estimated here.
+  </footer>
+
+</div>
+
+<script>
+  (function(){
+    var RM = window.matchMedia && matchMedia('(prefers-reduced-motion: reduce)').matches;
+    var links=[].slice.call(document.querySelectorAll('nav.toc a'));
+    var secs=links.map(function(a){return document.querySelector(a.getAttribute('href'));}).filter(Boolean);
+    if('IntersectionObserver' in window && secs.length){
+      var nav=new IntersectionObserver(function(es){
+        es.forEach(function(e){ if(e.isIntersecting){
+          var id='#'+e.target.id;
+          links.forEach(function(a){a.classList.toggle('active',a.getAttribute('href')===id);});
+        }});
+      },{rootMargin:'-45% 0px -50% 0px'});
+      secs.forEach(function(s){nav.observe(s);});
+    }
+    var rev=[].slice.call(document.querySelectorAll('.reveal,[data-stagger]'));
+    if(RM || !('IntersectionObserver' in window)){
+      rev.forEach(function(e){e.classList.add('in');});
+    } else {
+      var ro=new IntersectionObserver(function(es){es.forEach(function(e){ if(e.isIntersecting){
+        var el=e.target;
+        if(el.hasAttribute('data-stagger')){
+          [].slice.call(el.children).forEach(function(c,i){c.style.transitionDelay=(i*80)+'ms';});
+        }
+        el.classList.add('in'); ro.unobserve(el);
+      }});},{rootMargin:'0px 0px -10% 0px'});
+      rev.forEach(function(e){ro.observe(e);});
+    }
+    var dp=[].slice.call(document.querySelectorAll('.draw'));
+    dp.forEach(function(p){ try{ if(p.getTotalLength){p.style.setProperty('--len',Math.ceil(p.getTotalLength()));} }catch(e){} });
+    if(RM || !('IntersectionObserver' in window)){ dp.forEach(function(p){p.classList.add('in');}); }
+    else { var dio=new IntersectionObserver(function(es){es.forEach(function(e){ if(e.isIntersecting){e.target.classList.add('in');dio.unobserve(e.target);} });},{rootMargin:'0px 0px -10% 0px'});
+      dp.forEach(function(p){dio.observe(p);}); }
+    var nums=[].slice.call(document.querySelectorAll('[data-count]'));
+    var run=function(el){var t=parseFloat(el.getAttribute('data-count'))||0,d=900,s=null;
+      var step=function(ts){if(!s)s=ts;var p=Math.min((ts-s)/d,1);
+        el.textContent=(t%1?(p*t).toFixed(1):Math.round(p*t));
+        if(p<1)requestAnimationFrame(step);};requestAnimationFrame(step);};
+    if(RM || !('IntersectionObserver' in window)){ nums.forEach(function(e){e.textContent=e.getAttribute('data-count');}); }
+    else { var cio=new IntersectionObserver(function(es){es.forEach(function(e){ if(e.isIntersecting){run(e.target);cio.unobserve(e.target);} });});
+      nums.forEach(function(e){e.textContent='0';cio.observe(e);}); }
+    var dots=[].slice.call(document.querySelectorAll('.flow-dot[data-follow]'));
+    if(!RM && 'IntersectionObserver' in window){
+      dots.forEach(function(dot){
+        var path=document.querySelector(dot.getAttribute('data-follow'));
+        if(!path || !path.getTotalLength) return;
+        var len=path.getTotalLength(), dur=2800, raf=null;
+        var loop=function(t0){ return function(ts){
+          var p=((ts-t0)%dur)/dur, pt=path.getPointAtLength(p*len);
+          dot.setAttribute('cx',pt.x); dot.setAttribute('cy',pt.y);
+          raf=requestAnimationFrame(loop(t0)); };};
+        var io=new IntersectionObserver(function(es){es.forEach(function(e){
+          if(e.isIntersecting){ if(!raf){dot.classList.add('on');requestAnimationFrame(function(ts){loop(ts)(ts);});} }
+          else if(raf){cancelAnimationFrame(raf);raf=null;dot.classList.remove('on');}
+        });});
+        io.observe(path.closest('svg')||path);
+      });
+    }
+  })();
+</script>
+</body>
+</html>

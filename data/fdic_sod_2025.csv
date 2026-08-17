@@ -1,0 +1,146 @@
+year,state,county_name,county_fips,deposits_kusd,address,city
+2025,TN,Davidson,47037,0,"21 Platform Way S, Suite 2300",Nashville
+2025,TN,Williamson,47187,698127,128 Franklin Rd,Brentwood
+2025,TN,Bedford,47003,172443,604 N Main St,Shelbyville
+2025,SC,Charleston,45019,116747,1503 Old Towne Rd,Charleston
+2025,SC,Charleston,45019,43582,329 Folly Rd,Charleston
+2025,NC,Forsyth,37067,42970,215 Harvey St,Winston Salem
+2025,VA,Roanoke (City),51770,638689,202 Campbell Ave Se,Roanoke
+2025,VA,Roanoke,51161,66474,4467 Starkey Rd,Roanoke
+2025,VA,Roanoke (City),51770,56099,2203 Crystal Spring Ave Sw,Roanoke
+2025,VA,Salem (City),51775,46114,8 E Main St,Salem
+2025,VA,Roanoke (City),51770,21670,1518 Hershberger Rd Nw,Roanoke
+2025,VA,Roanoke,51161,26757,1003 Hardy Rd,Vinton
+2025,VA,Roanoke (City),51770,88,1327 Grandin Rd Sw,Roanoke
+2025,VA,Roanoke,51161,34867,4003 Challenger Ave,Roanoke
+2025,SC,Greenville,45045,28686,787h E Butler Rd,Mauldin
+2025,SC,Spartanburg,45083,119184,531 E Main St,Spartanburg
+2025,SC,Greenville,45045,17632,2415 Laurens Rd,Greenville
+2025,SC,Greenville,45045,59015,3900 Pelham Rd,Greenville
+2025,SC,Pickens,45077,63058,6602 Calhoun Memorial Hwy,Easley
+2025,TN,Rutherford,47149,13434,1645 Nw Broad St,Murfreesboro
+2025,SC,Charleston,45019,171937,530 Johnnie Dodds Blvd,Mount Pleasant
+2025,SC,Charleston,45019,49569,2753 Maybank Hwy,Johns Island
+2025,SC,Charleston,45019,30746,802 Savannah Hwy,Charleston
+2025,SC,Dorchester,45035,103788,203 N Main St,Summerville
+2025,SC,Berkeley,45015,27074,597 Old MT. Holly Road,Goose Creek
+2025,SC,Dorchester,45035,18740,8420 Dorchester Rd,Charleston
+2025,SC,Charleston,45019,67256,3305 S Morgans Point Rd,Mount Pleasant
+2025,TN,Rutherford,47149,79984,1745 Memorial Blvd,Murfreesboro
+2025,NC,Union,37179,138794,1700 Dickerson Blvd,Monroe
+2025,NC,Guilford,37081,718382,300 N Main St,High Point
+2025,NC,Guilford,37081,85164,2800 S Main St,High Point
+2025,NC,Guilford,37081,0,220 N Wrenn St,High Point
+2025,NC,Guilford,37081,0,1585 N University Pkwy,High Point
+2025,NC,Guilford,37081,43780,1431 New Garden Rd,Greensboro
+2025,TN,Rutherford,47149,139893,123 Cason Ln,Murfreesboro
+2025,TN,Hamilton,47065,58885,6180 Shallowford Rd,Chattanooga
+2025,NC,Guilford,37081,76806,1813 Westchester Dr,High Point
+2025,NC,Guilford,37081,45802,1028 Eastchester Dr,High Point
+2025,NC,Wake,37183,671946,3515 Glenwood Ave,Raleigh
+2025,TN,Davidson,47037,13613,425 11th Ave N,Nashville
+2025,TN,Shelby,47157,2101174,949 Shady Grove Rd S,Memphis
+2025,NC,Mecklenburg,37119,194007,15025 Ballancroft Pkwy,Charlotte
+2025,TN,Rutherford,47149,97271,2035 Se Broad St,Murfreesboro
+2025,TN,Rutherford,47149,70773,2604 S Church St,Murfreesboro
+2025,TN,Shelby,47157,29783,155 Rozelle Street,Memphis
+2025,TN,Hamilton,47065,49137,5544 Little Debbie Pkwy,Ooltewah
+2025,GA,Cobb,13067,0,"3333 Riverwood Pkwy Se, Ste 100",Atlanta
+2025,GA,Cobb,13067,974474,"3333 Riverwood Pkwy Se, Ste 110",Atlanta
+2025,VA,Lynchburg (City),51680,0,"1610 Graves Mill Rd, Ste B",Lynchburg
+2025,TN,Rutherford,47149,0,214 W College St,Murfreesboro
+2025,TN,Rutherford,47149,34462,2209 Medical Center Pkwy,Murfreesboro
+2025,TN,Shelby,47157,122945,3070 Kirby Whitten Rd,Bartlett
+2025,TN,Rutherford,47149,54867,467 W Sam Ridley Pkwy,Smyrna
+2025,GA,Fulton,13121,18358,"3379 Peachtree Rd Ne, Ste 100",Atlanta
+2025,TN,Sumner,47165,245942,1534 Noah Ln,Gallatin
+2025,NC,Mecklenburg,37119,170249,16633 Birkdale Commons Pkwy Ste D-400,Huntersville
+2025,TN,Rutherford,47149,1644622,114 College Street,Murfreesboro
+2025,TN,Davidson,47037,199829,424 Donelson Pike,Nashville
+2025,TN,Shelby,47157,21068,4403 Elvis Presley Blvd,Memphis
+2025,AL,Madison,01089,451823,409 Madison St Se,Huntsville
+2025,VA,Fairfax,51059,2140358,"1800 Tysons Blvd, Ste 50",Mclean
+2025,AL,Jefferson,01073,482452,569 Brookwood Vlg Ste 700,Birmingham
+2025,TN,Davidson,47037,6101,113 Platform Way N,Nashville
+2025,GA,Fulton,13121,55978,"3050 Northwinds Parkway, Suites 100",Alpharetta
+2025,NC,Wake,37183,52782,13341 Falls of Neuse Road,Raleigh
+2025,TN,Knox,47093,2243706,"1111 N Northshore Dr, Ste S130",Knoxville
+2025,SC,Charleston,45019,611454,"850 Morrison Drive, Suite 101",Charleston
+2025,KY,Warren,21227,172876,"360 E. 8th Avenue, Suite 305",Bowling Green
+2025,TN,Davidson,47037,6771,"1402 Buchanan Street, Suite 105",Nashville
+2025,VA,Bedford,51019,85498,18804 Forest Road,Lynchburg
+2025,MD,Montgomery,24031,4820,7272 Wisconsin Avenue,Bethesda
+2025,AL,Limestone,01083,72714,112 N. Jefferson St.,Athens
+2025,AL,Jefferson,01073,2744,2020 Cahaba Rd,Mountain Brook
+2025,FL,Duval,12031,76748,"501 Riverside Ave, Suite 116",Jacksonville
+2025,FL,St. Johns,12109,34,"100 Corridor Road, Suite 101",Ponte Vedra
+2025,MD,Howard,24027,55524,"6000 Merriweather Dr, Suite B-105",Columbia
+2025,NC,Wake,37183,75916,307 Oberlin Rd,Raleigh
+2025,KY,Jefferson,21111,262666,286 North Hubbards Lane,Louisville
+2025,VA,Arlington,51013,46163,4075Wilson Boulevard,Arlington
+2025,NC,Mecklenburg,37119,227,"1108 N. Graham Street, Suite D",Charlotte
+2025,GA,Fulton,13121,11439,"384 Northyards Blvd. NW, Ste. 150",Atlanta
+2025,GA,Gwinnett,13135,998,"1960 Satellite Blvd, Suite 1300",Duluth
+2025,NC,Cabarrus,37025,137720,871 Church Street N.,Concord
+2025,TN,Wilson,47189,193484,551 N Mount Juliet Rd,Mount Juliet
+2025,TN,Davidson,47037,612,150 3rd Ave S,Nashville
+2025,TN,Wilson,47189,51460,1412 W Baddour Pkwy,Lebanon
+2025,TN,Rutherford,47149,102020,69 S Lowry St,Smyrna
+2025,TN,Wilson,47189,334490,411 S Cumberland St,Lebanon
+2025,TN,Cheatham,47021,250373,524 S Main St,Ashland City
+2025,TN,Davidson,47037,519577,847 Conference Dr,Goodlettsville
+2025,TN,Dickson,47043,101750,501 Highway 46 S,Dickson
+2025,TN,Williamson,47187,327267,1717 Mallory Ln,Brentwood
+2025,TN,Davidson,47037,169959,7651 Highway 70 S,Nashville
+2025,TN,Knox,47093,128064,5019 N Broadway St,Knoxville
+2025,TN,Davidson,47037,116632,4328 Harding Pike,Nashville
+2025,TN,Knox,47093,341420,241 Brooklawn St,Knoxville
+2025,TN,Davidson,47037,159333,2833 Bransford Ave,Nashville
+2025,TN,Williamson,47187,927652,7040 Carothers Pkwy,Franklin
+2025,TN,Knox,47093,79979,9603 Kingston Pike,Knoxville
+2025,TN,Knox,47093,56037,1520 E Emory Rd,Knoxville
+2025,TN,Hamilton,47065,2242556,1350 Broad St,Chattanooga
+2025,TN,Bradley,47011,512307,10 Church St Ne,Cleveland
+2025,TN,Anderson,47001,262759,231 Jackson Sq,Oak Ridge
+2025,TN,Davidson,47037,408845,2300 West End Ave,Nashville
+2025,TN,Shelby,47157,73793,1264 S Germantown Rd,Germantown
+2025,TN,Shelby,47157,57591,4445 Poplar Ave,Memphis
+2025,TN,Shelby,47157,61780,9057 Poplar Ave,Germantown
+2025,TN,Davidson,47037,13659117,"25 Platform Way S, Ste 100",Nashville
+2025,TN,Davidson,47037,180146,3823 Cleghorn Ave,Nashville
+2025,TN,Blount,47009,251856,837 W Lamar Alexander Pkwy,Maryville
+2025,TN,Williamson,47187,263020,216 S Royal Oaks Blvd,Franklin
+2025,NC,Davidson,37057,270995,831 Julian Ave,Thomasville
+2025,NC,Randolph,37151,123611,113 Trindale Rd,Archdale
+2025,NC,Davidson,37057,176820,115 E Center St,Lexington
+2025,NC,Forsyth,37067,505334,211 Broad St,Kernersville
+2025,NC,Cabarrus,37025,87600,"4351 Main St, Ste 105",Harrisburg
+2025,NC,Rowan,37159,87735,415 Jake Alexander Blvd W,Salisbury
+2025,NC,Davidson,37057,70553,6355 Old Us Highway 52,Lexington
+2025,NC,Guilford,37081,491340,707 Green Valley Rd,Greensboro
+2025,NC,Forsyth,37067,43849,1810 N Peace Haven Rd,Winston Salem
+2025,NC,Guilford,37081,132144,2630 Eastchester Dr,High Point
+2025,NC,Cabarrus,37025,0,271 Copperfield Blvd Ne,Concord
+2025,SC,Horry,45051,320648,"3751 Robert M Grissom Pkwy, Ste 100",Myrtle Beach
+2025,SC,Horry,45051,43175,3064 Dick Pond Rd,Myrtle Beach
+2025,SC,Horry,45051,112609,710 Highway 17 N,North Myrtle Beach
+2025,SC,Beaufort,45013,63487,1000 William Hilton Pkwy,Hilton Head Island
+2025,NC,Wake,37183,42604,4525 Falls Of Neuse Rd,Raleigh
+2025,NC,Mecklenburg,37119,593580,5980 Fairview Rd,Charlotte
+2025,SC,Greenville,45045,232807,550 E Mcbee Ave,Greenville
+2025,TN,Sumner,47165,270838,270 E Main St,Hendersonville
+2025,NC,Guilford,37081,110765,2201 N Elm St,Greensboro
+2025,NC,Durham,37063,130725,"280 S Mangum St, Ste 140",Durham
+2025,NC,Wake,37183,55835,4725 Sw Cary Pkwy,Cary
+2025,NC,Mecklenburg,37119,323438,1420 E 3rd St,Charlotte
+2025,NC,Iredell,37097,252503,"108 Gateway Blvd, Ste 101",Mooresville
+2025,NC,Buncombe,37021,62425,1999 Hendersonville Rd,Asheville
+2025,NC,Randolph,37151,225572,175 N Fayetteville St,Asheboro
+2025,NC,Randolph,37151,91449,854 E Dixie Dr,Asheboro
+2025,TN,Rutherford,47149,0,114 W College St,Murfreesboro
+2025,NC,Alamance,37001,143305,3239 S Church St,Burlington
+2025,NC,Wake,37183,29243,2312 Bridgeport Dr,Raleigh
+2025,NC,Stanly,37167,140646,103 N 2nd St,Albemarle
+2025,NC,Stanly,37167,94289,102 South Street,Locust
+2025,NC,Chatham,37037,125665,5925 Farrington Rd,Chapel Hill
+2025,NC,Orange,37135,69379,1203 Martin Luther King Jr Blvd,Chapel Hill

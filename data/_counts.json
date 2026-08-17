@@ -1,0 +1,10 @@
+{
+ "data/gdp_county.csv": 18762,
+ "data/gdp_us.csv": 6,
+ "data/pcpi_county.csv": 18894,
+ "data/pcpi_us.csv": 6,
+ "data/_pi_county.csv": 18894,
+ "data/_pop_county_bea.csv": 18894,
+ "data/gdp_msa.csv": 5550,
+ "data/pcpi_msa.csv": 5550
+}

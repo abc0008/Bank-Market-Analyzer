@@ -1,0 +1,115 @@
+year,state,county_name,county_fips,deposits_kusd,address,city
+2020,TN,Davidson,47037,8269186,150 3rd Avenue South,Nashville
+2020,TN,Williamson,47187,422826,128 Franklin Road,Brentwood
+2020,TN,Bedford,47003,97854,604 N Main St,Shelbyville
+2020,SC,Charleston,45019,74615,1503 Old Towne Road,Charleston
+2020,SC,Charleston,45019,45349,"134 Meeting Street, Suite 201",Charleston
+2020,SC,Charleston,45019,29877,329 Folly Road,Charleston
+2020,NC,Forsyth,37067,289081,215 Harvey Street,Winston Salem
+2020,VA,Roanoke,51161,440500,"202 Campbell Ave., Se",Roanoke
+2020,VA,Roanoke,51161,78457,4467 Starkey Road Southwest,Roanoke
+2020,VA,Roanoke (City),51770,35093,"2203 Crystal Spring Avenue, S.W.",Roanoke
+2020,VA,Salem (City),51775,99163,8 East Main Street,Salem
+2020,VA,Roanoke (City),51770,22148,1518 Hershberger Road,Roanoke
+2020,VA,Roanoke,51161,27630,1003 Hardy Road,Vinton
+2020,VA,Roanoke,51161,19889,1327 Grandin Road,Roanoke
+2020,VA,Roanoke,51161,29390,4003 Challenger Avenue,Roanoke
+2020,SC,Greenville,45045,24043,787-H East Butler Road,Mauldin
+2020,SC,Spartanburg,45083,61488,531 East Main Street,Spartanburg
+2020,SC,Greenville,45045,22963,2415 Laurens Road,Greenville
+2020,SC,Greenville,45045,21844,3900 Pelham Road,Greenville
+2020,SC,Pickens,45077,51772,6602 Calhoun Memorial Highway,Easley
+2020,TN,Rutherford,47149,13499,1645 Northwest Broad Street,Murfreesboro
+2020,SC,Charleston,45019,349735,530 Johnnie Dodds Boulevard,Mount Pleasant
+2020,SC,Charleston,45019,39075,2753 Maybank Highway,Johns Island
+2020,SC,Charleston,45019,33388,802 Savannah Highway,Charleston
+2020,SC,Berkeley,45015,65365,203 N. Main Street,Summerville
+2020,SC,Berkeley,45015,26643,597 Old Mt. Holly Road,Goose Creek
+2020,SC,Dorchester,45035,20037,8420 Dorchester Road,Charleston
+2020,SC,Charleston,45019,43930,3305 South Morgan's Point,Mount Pleasant
+2020,TN,Rutherford,47149,58203,1745 Memorial Blvd,Murfreesboro
+2020,NC,Union,37179,77702,1700 Dickerson Blvd,Monroe
+2020,NC,Guilford,37081,598665,300 North Main Street,High Point
+2020,NC,Guilford,37081,66564,2800 South Main Street,High Point
+2020,NC,Guilford,37081,0,220 North Wrenn Street,High Point
+2020,NC,Guilford,37081,0,1300 East Hartley Drive,High Point
+2020,NC,Guilford,37081,30245,1431 New Garden Road,Greensboro
+2020,TN,Rutherford,47149,101405,123 Cason Lane,Murfreesboro
+2020,TN,Hamilton,47065,32628,6180 Shallowford Road,Chattanooga
+2020,NC,Guilford,37081,74684,1813 Westchester Drive,High Point
+2020,NC,Guilford,37081,39810,1028 Eastchester Dr,High Point
+2020,NC,Wake,37183,385925,3515 Glenwood Ave,Raleigh
+2020,TN,Davidson,47037,351674,425 11th Ave. North,Nashville
+2020,TN,Shelby,47157,1014731,949 Shady Grove Road,Memphis
+2020,NC,Mecklenburg,37119,122786,15025 Ballancroft Pkwy,Charlotte
+2020,TN,Rutherford,47149,75798,2035 Se Broad,Murfreesboro
+2020,TN,Rutherford,47149,52861,2604 South Church Street,Murfreesboro
+2020,TN,Shelby,47157,4569,155 Rozelle Street,Memphis
+2020,TN,Hamilton,47065,5636,5544 Little Debbie Parkway,Ooltewah
+2020,GA,Cobb,13067,29041,"3333 Riverwood Parkway, Suite 110",Atlanta
+2020,VA,Bedford,51019,12060,"1610 Graves Mill Road, Suite B",Lynchburg
+2020,TN,Rutherford,47149,53256,467 Sam Ridley Pkwy,Smyrna
+2020,TN,Davidson,47037,132321,424 Donelson Pike,Nashville
+2020,TN,Knox,47093,1490705,1111 Northshore Dr. Ste S130,Knoxville
+2020,TN,Wilson,47189,136833,551 North Mt. Juliet Road,Mount Juliet
+2020,TN,Wilson,47189,39482,1412 West Baddour Parkway,Lebanon
+2020,TN,Rutherford,47149,66978,69 South Lowry,Smyrna
+2020,TN,Wilson,47189,255556,411 South Cumberland Street,Lebanon
+2020,TN,Cheatham,47021,156793,524 South Main Street,Ashland City
+2020,TN,Davidson,47037,386193,847 Conference Drive,Goodlettsville
+2020,TN,Dickson,47043,80148,501 Hwy 46 South,Dickson
+2020,TN,Williamson,47187,198121,1717 Mallory Lane,Brentwood
+2020,TN,Davidson,47037,166891,7651 Highway 70 South,Nashville
+2020,TN,Knox,47093,111304,5019 North Broadway Street,Knoxville
+2020,TN,Davidson,47037,213172,4328 Harding Pike,Nashville
+2020,TN,Knox,47093,152297,241 Brooklawn Street,Knoxville
+2020,TN,Davidson,47037,75893,2833 Bransford Avenue,Nashville
+2020,TN,Williamson,47187,295677,7040 Carothers Parkway,Franklin
+2020,TN,Knox,47093,61162,9603 Kingston Pike,Knoxville
+2020,TN,Knox,47093,59229,1520 East Emory Road,Knoxville
+2020,TN,Hamilton,47065,1248756,801 Broad Street,Chattanooga
+2020,TN,Bradley,47011,168104,10 Church Street,Cleveland
+2020,TN,Anderson,47001,134886,231 Jackson Square,Oak Ridge
+2020,TN,Shelby,47157,43848,"894 Germantown Pkwy, Suite 4",Cordova
+2020,TN,Davidson,47037,400340,2300 West End Avenue,Nashville
+2020,TN,Shelby,47157,60219,1264 Germantown Road,Germantown
+2020,TN,Shelby,47157,55408,4445 Poplar Ave,Memphis
+2020,TN,Shelby,47157,47083,9057 Poplar Avenue,Germantown
+2020,TN,Davidson,47037,42947,111 Tenth Avenue South,Nashville
+2020,TN,Davidson,47037,413524,3823 Cleghorn Avenue,Nashville
+2020,TN,Blount,47009,125331,837 West Lamar Alexander Parkway,Maryville
+2020,TN,Williamson,47187,158066,216 South Royal Oaks Boulevard,Franklin
+2020,NC,Davidson,37057,543523,831 Julian Avenue,Thomasville
+2020,NC,Randolph,37151,81803,113 Trindale Road,Archdale
+2020,NC,Davidson,37057,48120,115 E Center St,Lexington
+2020,NC,Forsyth,37067,58317,211 Broad Street,Kernersville
+2020,NC,Cabarrus,37025,67445,"4351 Main Street, Suite 105",Harrisburg
+2020,NC,Rowan,37159,65210,415 Jake Alexander Boulevard,Salisbury
+2020,NC,Davidson,37057,58582,6355 Old Us Hwy 52,Lexington
+2020,NC,Guilford,37081,280819,707 Green Valley Rd,Greensboro
+2020,NC,Forsyth,37067,13462,1810 North Peace Haven Road,Winston Salem
+2020,NC,Guilford,37081,125458,2630 Eastchester Drive,High Point
+2020,NC,Cabarrus,37025,116353,271 Copperfield Blvd,Concord
+2020,SC,Horry,45051,168245,3751 Robert M. Grissom Parkway Suite 100,Myrtle Beach
+2020,SC,Horry,45051,46300,3064 Dick Pond Road,Myrtle Beach
+2020,SC,Horry,45051,36975,710 Highway 17 North,North Myrtle Beach
+2020,SC,Beaufort,45013,57634,1000 William Hilton Parkway,Hilton Head Island
+2020,NC,Wake,37183,53614,4525 Falls Of Neuse Road,Raleigh
+2020,NC,Mecklenburg,37119,362221,5980 Fairview Road,Charlotte
+2020,SC,Greenville,45045,185111,550 E Mcbee Avenue,Greenville
+2020,TN,Sumner,47165,203251,270 East Main Street,Hendersonville
+2020,NC,Guilford,37081,172018,2201 North Elm Street,Greensboro
+2020,NC,Durham,37063,87214,"280 South Mangum Street, Suite 140",Durham
+2020,NC,Wake,37183,23852,4725 Sw Cary Parkway,Cary
+2020,NC,Mecklenburg,37119,195990,1420 East Third Street,Charlotte
+2020,NC,Iredell,37097,191807,"108 Gateway Boulevard, Suite 101",Mooresville
+2020,NC,Buncombe,37021,39058,1999 Hendersonville Road,Asheville
+2020,NC,Randolph,37151,155816,175 North Fayetteville Street,Asheboro
+2020,NC,Randolph,37151,64432,854 East Dixie Drive,Asheboro
+2020,TN,Rutherford,47149,908556,114 West College Street,Murfreesboro
+2020,NC,Alamance,37001,70424,3239 South Church Street,Burlington
+2020,NC,Wake,37183,22419,2312 Bridgeport Drive,Raleigh
+2020,NC,Stanly,37167,172219,103 North Second Street,Albemarle
+2020,NC,Stanly,37167,79245,102 South Street,Locust
+2020,NC,Durham,37063,97664,5925 Farrington Road,Chapel Hill
+2020,NC,Orange,37135,74688,"1203 Martin Luther King, Jr. Blvd",Chapel Hill

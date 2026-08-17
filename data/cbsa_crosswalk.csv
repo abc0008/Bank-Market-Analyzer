@@ -1,0 +1,1916 @@
+county_fips,cbsa_code,cbsa_title,metro_micro,central_outlying
+46013,10100,"Aberdeen, SD",Micropolitan Statistical Area,Central
+46045,10100,"Aberdeen, SD",Micropolitan Statistical Area,Outlying
+53027,10140,"Aberdeen, WA",Micropolitan Statistical Area,Central
+48059,10180,"Abilene, TX",Metropolitan Statistical Area,Outlying
+48253,10180,"Abilene, TX",Metropolitan Statistical Area,Outlying
+48441,10180,"Abilene, TX",Metropolitan Statistical Area,Central
+40123,10220,"Ada, OK",Micropolitan Statistical Area,Central
+26091,10300,"Adrian, MI",Micropolitan Statistical Area,Central
+72003,10380,"Aguadilla, PR",Metropolitan Statistical Area,Central
+72005,10380,"Aguadilla, PR",Metropolitan Statistical Area,Central
+72011,10380,"Aguadilla, PR",Metropolitan Statistical Area,Central
+72071,10380,"Aguadilla, PR",Metropolitan Statistical Area,Central
+72099,10380,"Aguadilla, PR",Metropolitan Statistical Area,Central
+72117,10380,"Aguadilla, PR",Metropolitan Statistical Area,Central
+72131,10380,"Aguadilla, PR",Metropolitan Statistical Area,Central
+39133,10420,"Akron, OH",Metropolitan Statistical Area,Central
+39153,10420,"Akron, OH",Metropolitan Statistical Area,Central
+35035,10460,"Alamogordo, NM",Micropolitan Statistical Area,Central
+08003,10480,"Alamosa, CO",Micropolitan Statistical Area,Central
+08021,10480,"Alamosa, CO",Micropolitan Statistical Area,Outlying
+08023,10480,"Alamosa, CO",Micropolitan Statistical Area,Outlying
+13095,10500,"Albany, GA",Metropolitan Statistical Area,Central
+13177,10500,"Albany, GA",Metropolitan Statistical Area,Central
+13273,10500,"Albany, GA",Metropolitan Statistical Area,Outlying
+13321,10500,"Albany, GA",Metropolitan Statistical Area,Outlying
+41043,10540,"Albany, OR",Metropolitan Statistical Area,Central
+36001,10580,"Albany-Schenectady-Troy, NY",Metropolitan Statistical Area,Central
+36083,10580,"Albany-Schenectady-Troy, NY",Metropolitan Statistical Area,Central
+36091,10580,"Albany-Schenectady-Troy, NY",Metropolitan Statistical Area,Outlying
+36093,10580,"Albany-Schenectady-Troy, NY",Metropolitan Statistical Area,Central
+36095,10580,"Albany-Schenectady-Troy, NY",Metropolitan Statistical Area,Outlying
+37167,10620,"Albemarle, NC",Micropolitan Statistical Area,Central
+27047,10660,"Albert Lea, MN",Micropolitan Statistical Area,Central
+01095,10700,"Albertville, AL",Micropolitan Statistical Area,Central
+35001,10740,"Albuquerque, NM",Metropolitan Statistical Area,Central
+35043,10740,"Albuquerque, NM",Metropolitan Statistical Area,Central
+35057,10740,"Albuquerque, NM",Metropolitan Statistical Area,Outlying
+35061,10740,"Albuquerque, NM",Metropolitan Statistical Area,Outlying
+01123,10760,"Alexander City, AL",Micropolitan Statistical Area,Central
+22043,10780,"Alexandria, LA",Metropolitan Statistical Area,Outlying
+22079,10780,"Alexandria, LA",Metropolitan Statistical Area,Central
+27041,10820,"Alexandria, MN",Micropolitan Statistical Area,Central
+48047,10860,"Alice, TX",Micropolitan Statistical Area,Outlying
+48249,10860,"Alice, TX",Micropolitan Statistical Area,Central
+34041,10900,"Allentown-Bethlehem-Easton, PA-NJ",Metropolitan Statistical Area,Central
+42025,10900,"Allentown-Bethlehem-Easton, PA-NJ",Metropolitan Statistical Area,Outlying
+42077,10900,"Allentown-Bethlehem-Easton, PA-NJ",Metropolitan Statistical Area,Central
+42095,10900,"Allentown-Bethlehem-Easton, PA-NJ",Metropolitan Statistical Area,Central
+26057,10940,"Alma, MI",Micropolitan Statistical Area,Central
+26007,10980,"Alpena, MI",Micropolitan Statistical Area,Central
+42013,11020,"Altoona, PA",Metropolitan Statistical Area,Central
+40065,11060,"Altus, OK",Micropolitan Statistical Area,Central
+48011,11100,"Amarillo, TX",Metropolitan Statistical Area,Outlying
+48065,11100,"Amarillo, TX",Metropolitan Statistical Area,Outlying
+48359,11100,"Amarillo, TX",Metropolitan Statistical Area,Outlying
+48375,11100,"Amarillo, TX",Metropolitan Statistical Area,Central
+48381,11100,"Amarillo, TX",Metropolitan Statistical Area,Central
+13249,11140,"Americus, GA",Micropolitan Statistical Area,Outlying
+13261,11140,"Americus, GA",Micropolitan Statistical Area,Central
+19015,11180,"Ames, IA",Metropolitan Statistical Area,Outlying
+19169,11180,"Ames, IA",Metropolitan Statistical Area,Central
+25015,11200,"Amherst Town-Northampton, MA",Metropolitan Statistical Area,Central
+36057,11220,"Amsterdam, NY",Micropolitan Statistical Area,Central
+02020,11260,"Anchorage, AK",Metropolitan Statistical Area,Central
+02170,11260,"Anchorage, AK",Metropolitan Statistical Area,Outlying
+37085,11360,"Anderson Creek, NC",Micropolitan Statistical Area,Central
+48003,11380,"Andrews, TX",Micropolitan Statistical Area,Central
+18151,11420,"Angola, IN",Micropolitan Statistical Area,Central
+26161,11460,"Ann Arbor, MI",Metropolitan Statistical Area,Central
+01015,11500,"Anniston-Oxford, AL",Metropolitan Statistical Area,Central
+55015,11540,"Appleton, WI",Metropolitan Statistical Area,Central
+55087,11540,"Appleton, WI",Metropolitan Statistical Area,Central
+12027,11580,"Arcadia, FL",Micropolitan Statistical Area,Central
+40019,11620,"Ardmore, OK",Micropolitan Statistical Area,Central
+72013,11640,"Arecibo, PR",Metropolitan Statistical Area,Central
+72027,11640,"Arecibo, PR",Metropolitan Statistical Area,Central
+72065,11640,"Arecibo, PR",Metropolitan Statistical Area,Central
+72115,11640,"Arecibo, PR",Metropolitan Statistical Area,Central
+05019,11660,"Arkadelphia, AR",Micropolitan Statistical Area,Central
+20035,11680,"Arkansas City-Winfield, KS",Micropolitan Statistical Area,Central
+37021,11700,"Asheville, NC",Metropolitan Statistical Area,Central
+37089,11700,"Asheville, NC",Metropolitan Statistical Area,Central
+37115,11700,"Asheville, NC",Metropolitan Statistical Area,Outlying
+39005,11740,"Ashland, OH",Micropolitan Statistical Area,Central
+41007,11820,"Astoria, OR",Micropolitan Statistical Area,Central
+20005,11860,"Atchison, KS",Micropolitan Statistical Area,Central
+39009,11900,"Athens, OH",Micropolitan Statistical Area,Central
+47107,11940,"Athens, TN",Micropolitan Statistical Area,Central
+47121,11940,"Athens, TN",Micropolitan Statistical Area,Outlying
+48213,11980,"Athens, TX",Micropolitan Statistical Area,Central
+13059,12020,"Athens-Clarke County, GA",Metropolitan Statistical Area,Central
+13195,12020,"Athens-Clarke County, GA",Metropolitan Statistical Area,Outlying
+13219,12020,"Athens-Clarke County, GA",Metropolitan Statistical Area,Central
+13221,12020,"Athens-Clarke County, GA",Metropolitan Statistical Area,Outlying
+13013,12060,"Atlanta-Sandy Springs-Roswell, GA",Metropolitan Statistical Area,Outlying
+13035,12060,"Atlanta-Sandy Springs-Roswell, GA",Metropolitan Statistical Area,Outlying
+13045,12060,"Atlanta-Sandy Springs-Roswell, GA",Metropolitan Statistical Area,Outlying
+13063,12060,"Atlanta-Sandy Springs-Roswell, GA",Metropolitan Statistical Area,Central
+13077,12060,"Atlanta-Sandy Springs-Roswell, GA",Metropolitan Statistical Area,Central
+13085,12060,"Atlanta-Sandy Springs-Roswell, GA",Metropolitan Statistical Area,Central
+13089,12060,"Atlanta-Sandy Springs-Roswell, GA",Metropolitan Statistical Area,Central
+13097,12060,"Atlanta-Sandy Springs-Roswell, GA",Metropolitan Statistical Area,Central
+13113,12060,"Atlanta-Sandy Springs-Roswell, GA",Metropolitan Statistical Area,Central
+13117,12060,"Atlanta-Sandy Springs-Roswell, GA",Metropolitan Statistical Area,Central
+13121,12060,"Atlanta-Sandy Springs-Roswell, GA",Metropolitan Statistical Area,Central
+13135,12060,"Atlanta-Sandy Springs-Roswell, GA",Metropolitan Statistical Area,Central
+13149,12060,"Atlanta-Sandy Springs-Roswell, GA",Metropolitan Statistical Area,Outlying
+13151,12060,"Atlanta-Sandy Springs-Roswell, GA",Metropolitan Statistical Area,Central
+13159,12060,"Atlanta-Sandy Springs-Roswell, GA",Metropolitan Statistical Area,Outlying
+13187,12060,"Atlanta-Sandy Springs-Roswell, GA",Metropolitan Statistical Area,Outlying
+13199,12060,"Atlanta-Sandy Springs-Roswell, GA",Metropolitan Statistical Area,Outlying
+13211,12060,"Atlanta-Sandy Springs-Roswell, GA",Metropolitan Statistical Area,Outlying
+13217,12060,"Atlanta-Sandy Springs-Roswell, GA",Metropolitan Statistical Area,Central
+13227,12060,"Atlanta-Sandy Springs-Roswell, GA",Metropolitan Statistical Area,Outlying
+13231,12060,"Atlanta-Sandy Springs-Roswell, GA",Metropolitan Statistical Area,Outlying
+13247,12060,"Atlanta-Sandy Springs-Roswell, GA",Metropolitan Statistical Area,Central
+13255,12060,"Atlanta-Sandy Springs-Roswell, GA",Metropolitan Statistical Area,Outlying
+13297,12060,"Atlanta-Sandy Springs-Roswell, GA",Metropolitan Statistical Area,Central
+13015,12060,"Atlanta-Sandy Springs-Roswell, GA",Metropolitan Statistical Area,Outlying
+13057,12060,"Atlanta-Sandy Springs-Roswell, GA",Metropolitan Statistical Area,Central
+13067,12060,"Atlanta-Sandy Springs-Roswell, GA",Metropolitan Statistical Area,Central
+13143,12060,"Atlanta-Sandy Springs-Roswell, GA",Metropolitan Statistical Area,Outlying
+13223,12060,"Atlanta-Sandy Springs-Roswell, GA",Metropolitan Statistical Area,Central
+34001,12100,"Atlantic City-Hammonton, NJ",Metropolitan Statistical Area,Central
+34009,12100,"Atlantic City-Hammonton, NJ",Metropolitan Statistical Area,Central
+18033,12140,"Auburn, IN",Micropolitan Statistical Area,Central
+36011,12180,"Auburn, NY",Micropolitan Statistical Area,Central
+01081,12220,"Auburn-Opelika, AL",Metropolitan Statistical Area,Central
+01087,12220,"Auburn-Opelika, AL",Metropolitan Statistical Area,Outlying
+13033,12260,"Augusta-Richmond County, GA-SC",Metropolitan Statistical Area,Outlying
+13073,12260,"Augusta-Richmond County, GA-SC",Metropolitan Statistical Area,Central
+13181,12260,"Augusta-Richmond County, GA-SC",Metropolitan Statistical Area,Outlying
+13189,12260,"Augusta-Richmond County, GA-SC",Metropolitan Statistical Area,Outlying
+13245,12260,"Augusta-Richmond County, GA-SC",Metropolitan Statistical Area,Central
+45003,12260,"Augusta-Richmond County, GA-SC",Metropolitan Statistical Area,Central
+45037,12260,"Augusta-Richmond County, GA-SC",Metropolitan Statistical Area,Outlying
+23011,12300,"Augusta-Waterville, ME",Micropolitan Statistical Area,Central
+27099,12380,"Austin, MN",Micropolitan Statistical Area,Central
+48021,12420,"Austin-Round Rock-San Marcos, TX",Metropolitan Statistical Area,Outlying
+48055,12420,"Austin-Round Rock-San Marcos, TX",Metropolitan Statistical Area,Outlying
+48209,12420,"Austin-Round Rock-San Marcos, TX",Metropolitan Statistical Area,Central
+48453,12420,"Austin-Round Rock-San Marcos, TX",Metropolitan Statistical Area,Central
+48491,12420,"Austin-Round Rock-San Marcos, TX",Metropolitan Statistical Area,Central
+13087,12460,"Bainbridge, GA",Micropolitan Statistical Area,Central
+41001,12520,"Baker City, OR",Micropolitan Statistical Area,Central
+06029,12540,"Bakersfield-Delano, CA",Metropolitan Statistical Area,Central
+24003,12580,"Baltimore-Columbia-Towson, MD",Metropolitan Statistical Area,Central
+24005,12580,"Baltimore-Columbia-Towson, MD",Metropolitan Statistical Area,Central
+24013,12580,"Baltimore-Columbia-Towson, MD",Metropolitan Statistical Area,Outlying
+24025,12580,"Baltimore-Columbia-Towson, MD",Metropolitan Statistical Area,Outlying
+24027,12580,"Baltimore-Columbia-Towson, MD",Metropolitan Statistical Area,Central
+24035,12580,"Baltimore-Columbia-Towson, MD",Metropolitan Statistical Area,Outlying
+24510,12580,"Baltimore-Columbia-Towson, MD",Metropolitan Statistical Area,Central
+23019,12620,"Bangor, ME",Metropolitan Statistical Area,Central
+55111,12660,"Baraboo, WI",Micropolitan Statistical Area,Central
+25001,12700,"Barnstable Town, MA",Metropolitan Statistical Area,Central
+50023,12740,"Barre, VT",Micropolitan Statistical Area,Central
+40147,12780,"Bartlesville, OK",Micropolitan Statistical Area,Central
+36037,12860,"Batavia, NY",Micropolitan Statistical Area,Central
+05063,12900,"Batesville, AR",Micropolitan Statistical Area,Central
+22005,12940,"Baton Rouge, LA",Metropolitan Statistical Area,Central
+22007,12940,"Baton Rouge, LA",Metropolitan Statistical Area,Outlying
+22033,12940,"Baton Rouge, LA",Metropolitan Statistical Area,Central
+22037,12940,"Baton Rouge, LA",Metropolitan Statistical Area,Outlying
+22047,12940,"Baton Rouge, LA",Metropolitan Statistical Area,Central
+22063,12940,"Baton Rouge, LA",Metropolitan Statistical Area,Central
+22077,12940,"Baton Rouge, LA",Metropolitan Statistical Area,Outlying
+22091,12940,"Baton Rouge, LA",Metropolitan Statistical Area,Outlying
+22121,12940,"Baton Rouge, LA",Metropolitan Statistical Area,Central
+22125,12940,"Baton Rouge, LA",Metropolitan Statistical Area,Outlying
+26025,12980,"Battle Creek, MI",Metropolitan Statistical Area,Central
+26017,13020,"Bay City, MI",Metropolitan Statistical Area,Central
+48321,13060,"Bay City, TX",Micropolitan Statistical Area,Central
+31067,13100,"Beatrice, NE",Micropolitan Statistical Area,Central
+48199,13140,"Beaumont-Port Arthur, TX",Metropolitan Statistical Area,Outlying
+48245,13140,"Beaumont-Port Arthur, TX",Metropolitan Statistical Area,Central
+48361,13140,"Beaumont-Port Arthur, TX",Metropolitan Statistical Area,Outlying
+55027,13180,"Beaver Dam, WI",Micropolitan Statistical Area,Central
+54019,13220,"Beckley, WV",Metropolitan Statistical Area,Central
+54081,13220,"Beckley, WV",Metropolitan Statistical Area,Central
+18093,13260,"Bedford, IN",Micropolitan Statistical Area,Central
+48025,13300,"Beeville, TX",Micropolitan Statistical Area,Central
+39091,13340,"Bellefontaine, OH",Micropolitan Statistical Area,Central
+53073,13380,"Bellingham, WA",Metropolitan Statistical Area,Central
+27007,13420,"Bemidji, MN",Micropolitan Statistical Area,Central
+41013,13460,"Bend, OR",Metropolitan Statistical Area,Outlying
+41017,13460,"Bend, OR",Metropolitan Statistical Area,Central
+41031,13460,"Bend, OR",Metropolitan Statistical Area,Outlying
+50003,13540,"Bennington, VT",Micropolitan Statistical Area,Central
+26107,13660,"Big Rapids, MI",Micropolitan Statistical Area,Central
+48227,13700,"Big Spring, TX",Micropolitan Statistical Area,Central
+30009,13740,"Billings, MT",Metropolitan Statistical Area,Outlying
+30095,13740,"Billings, MT",Metropolitan Statistical Area,Outlying
+30111,13740,"Billings, MT",Metropolitan Statistical Area,Central
+36007,13780,"Binghamton, NY",Metropolitan Statistical Area,Central
+36107,13780,"Binghamton, NY",Metropolitan Statistical Area,Central
+01007,13820,"Birmingham, AL",Metropolitan Statistical Area,Outlying
+01009,13820,"Birmingham, AL",Metropolitan Statistical Area,Outlying
+01021,13820,"Birmingham, AL",Metropolitan Statistical Area,Outlying
+01073,13820,"Birmingham, AL",Metropolitan Statistical Area,Central
+01115,13820,"Birmingham, AL",Metropolitan Statistical Area,Central
+01117,13820,"Birmingham, AL",Metropolitan Statistical Area,Central
+01127,13820,"Birmingham, AL",Metropolitan Statistical Area,Outlying
+06027,13860,"Bishop, CA",Micropolitan Statistical Area,Central
+38015,13900,"Bismarck, ND",Metropolitan Statistical Area,Central
+38059,13900,"Bismarck, ND",Metropolitan Statistical Area,Central
+38065,13900,"Bismarck, ND",Metropolitan Statistical Area,Outlying
+16011,13940,"Blackfoot, ID",Micropolitan Statistical Area,Central
+51063,13980,"Blacksburg-Christiansburg-Radford, VA",Metropolitan Statistical Area,Outlying
+51071,13980,"Blacksburg-Christiansburg-Radford, VA",Metropolitan Statistical Area,Outlying
+51121,13980,"Blacksburg-Christiansburg-Radford, VA",Metropolitan Statistical Area,Central
+51155,13980,"Blacksburg-Christiansburg-Radford, VA",Metropolitan Statistical Area,Outlying
+51750,13980,"Blacksburg-Christiansburg-Radford, VA",Metropolitan Statistical Area,Central
+17113,14010,"Bloomington, IL",Metropolitan Statistical Area,Central
+18105,14020,"Bloomington, IN",Metropolitan Statistical Area,Central
+18119,14020,"Bloomington, IN",Metropolitan Statistical Area,Outlying
+42037,14100,"Bloomsburg-Berwick, PA",Micropolitan Statistical Area,Central
+51185,14140,"Bluefield, WV-VA",Micropolitan Statistical Area,Central
+54055,14140,"Bluefield, WV-VA",Micropolitan Statistical Area,Central
+05093,14180,"Blytheville, AR",Micropolitan Statistical Area,Central
+22117,14220,"Bogalusa, LA",Micropolitan Statistical Area,Central
+16001,14260,"Boise City, ID",Metropolitan Statistical Area,Central
+16015,14260,"Boise City, ID",Metropolitan Statistical Area,Outlying
+16027,14260,"Boise City, ID",Metropolitan Statistical Area,Outlying
+16045,14260,"Boise City, ID",Metropolitan Statistical Area,Outlying
+16073,14260,"Boise City, ID",Metropolitan Statistical Area,Outlying
+48147,14300,"Bonham, TX",Micropolitan Statistical Area,Central
+37189,14380,"Boone, NC",Micropolitan Statistical Area,Central
+48233,14420,"Borger, TX",Micropolitan Statistical Area,Central
+25021,14460,"Boston-Cambridge-Newton, MA-NH",Metropolitan Statistical Area,Central
+25023,14460,"Boston-Cambridge-Newton, MA-NH",Metropolitan Statistical Area,Central
+25025,14460,"Boston-Cambridge-Newton, MA-NH",Metropolitan Statistical Area,Central
+25009,14460,"Boston-Cambridge-Newton, MA-NH",Metropolitan Statistical Area,Central
+25017,14460,"Boston-Cambridge-Newton, MA-NH",Metropolitan Statistical Area,Central
+33015,14460,"Boston-Cambridge-Newton, MA-NH",Metropolitan Statistical Area,Central
+33017,14460,"Boston-Cambridge-Newton, MA-NH",Metropolitan Statistical Area,Outlying
+08013,14500,"Boulder, CO",Metropolitan Statistical Area,Central
+21003,14540,"Bowling Green, KY",Metropolitan Statistical Area,Outlying
+21031,14540,"Bowling Green, KY",Metropolitan Statistical Area,Outlying
+21061,14540,"Bowling Green, KY",Metropolitan Statistical Area,Outlying
+21227,14540,"Bowling Green, KY",Metropolitan Statistical Area,Central
+30031,14580,"Bozeman, MT",Metropolitan Statistical Area,Central
+42083,14620,"Bradford, PA",Micropolitan Statistical Area,Central
+27021,14660,"Brainerd, MN",Micropolitan Statistical Area,Outlying
+27035,14660,"Brainerd, MN",Micropolitan Statistical Area,Central
+29213,14700,"Branson, MO",Micropolitan Statistical Area,Central
+50025,14710,"Brattleboro, VT",Micropolitan Statistical Area,Central
+08065,14720,"Breckenridge, CO",Micropolitan Statistical Area,Outlying
+08117,14720,"Breckenridge, CO",Micropolitan Statistical Area,Central
+53035,14740,"Bremerton-Silverdale-Port Orchard, WA",Metropolitan Statistical Area,Central
+48477,14780,"Brenham, TX",Micropolitan Statistical Area,Central
+37175,14820,"Brevard, NC",Micropolitan Statistical Area,Central
+09120,14860,"Bridgeport-Stamford-Danbury, CT",Metropolitan Statistical Area,Central
+09190,14860,"Bridgeport-Stamford-Danbury, CT",Metropolitan Statistical Area,Central
+16071,14940,"Brigham City, UT-ID",Micropolitan Statistical Area,Outlying
+49003,14940,"Brigham City, UT-ID",Micropolitan Statistical Area,Central
+28085,15020,"Brookhaven, MS",Micropolitan Statistical Area,Central
+41015,15060,"Brookings, OR",Micropolitan Statistical Area,Central
+46011,15100,"Brookings, SD",Micropolitan Statistical Area,Central
+48061,15180,"Brownsville-Harlingen, TX",Metropolitan Statistical Area,Central
+48049,15220,"Brownwood, TX",Micropolitan Statistical Area,Central
+13025,15260,"Brunswick-St. Simons, GA",Metropolitan Statistical Area,Outlying
+13127,15260,"Brunswick-St. Simons, GA",Metropolitan Statistical Area,Central
+13191,15260,"Brunswick-St. Simons, GA",Metropolitan Statistical Area,Outlying
+39033,15340,"Bucyrus, OH",Micropolitan Statistical Area,Central
+36029,15380,"Buffalo-Cheektowaga, NY",Metropolitan Statistical Area,Central
+36063,15380,"Buffalo-Cheektowaga, NY",Metropolitan Statistical Area,Central
+16031,15420,"Burley, ID",Micropolitan Statistical Area,Central
+16067,15420,"Burley, ID",Micropolitan Statistical Area,Central
+17071,15460,"Burlington, IA-IL",Micropolitan Statistical Area,Outlying
+19057,15460,"Burlington, IA-IL",Micropolitan Statistical Area,Central
+37001,15500,"Burlington, NC",Metropolitan Statistical Area,Central
+50007,15540,"Burlington-South Burlington, VT",Metropolitan Statistical Area,Central
+50011,15540,"Burlington-South Burlington, VT",Metropolitan Statistical Area,Outlying
+50013,15540,"Burlington-South Burlington, VT",Metropolitan Statistical Area,Outlying
+30093,15580,"Butte-Silver Bow, MT",Micropolitan Statistical Area,Central
+26113,15620,"Cadillac, MI",Micropolitan Statistical Area,Outlying
+26165,15620,"Cadillac, MI",Micropolitan Statistical Area,Central
+13129,15660,"Calhoun, GA",Micropolitan Statistical Area,Central
+24019,15700,"Cambridge, MD",Micropolitan Statistical Area,Central
+39059,15740,"Cambridge, OH",Micropolitan Statistical Area,Central
+05013,15780,"Camden, AR",Micropolitan Statistical Area,Outlying
+05103,15780,"Camden, AR",Micropolitan Statistical Area,Central
+21087,15820,"Campbellsville, KY",Micropolitan Statistical Area,Outlying
+21217,15820,"Campbellsville, KY",Micropolitan Statistical Area,Central
+08043,15860,"Cañon City, CO",Micropolitan Statistical Area,Central
+17057,15900,"Canton, IL",Micropolitan Statistical Area,Central
+39019,15940,"Canton-Massillon, OH",Metropolitan Statistical Area,Outlying
+39151,15940,"Canton-Massillon, OH",Metropolitan Statistical Area,Central
+12071,15980,"Cape Coral-Fort Myers, FL",Metropolitan Statistical Area,Central
+17003,16020,"Cape Girardeau, MO-IL",Metropolitan Statistical Area,Outlying
+29017,16020,"Cape Girardeau, MO-IL",Metropolitan Statistical Area,Outlying
+29031,16020,"Cape Girardeau, MO-IL",Metropolitan Statistical Area,Central
+17077,16060,"Carbondale, IL",Micropolitan Statistical Area,Central
+35015,16100,"Carlsbad-Artesia, NM",Micropolitan Statistical Area,Central
+19027,16140,"Carroll, IA",Micropolitan Statistical Area,Central
+32510,16180,"Carson City, NV",Metropolitan Statistical Area,Central
+56025,16220,"Casper, WY",Metropolitan Statistical Area,Central
+49021,16260,"Cedar City, UT",Micropolitan Statistical Area,Central
+19011,16300,"Cedar Rapids, IA",Metropolitan Statistical Area,Outlying
+19105,16300,"Cedar Rapids, IA",Metropolitan Statistical Area,Outlying
+19113,16300,"Cedar Rapids, IA",Metropolitan Statistical Area,Central
+13233,16340,"Cedartown, GA",Micropolitan Statistical Area,Central
+39107,16380,"Celina, OH",Micropolitan Statistical Area,Central
+17121,16460,"Centralia, IL",Micropolitan Statistical Area,Central
+53041,16500,"Centralia, WA",Micropolitan Statistical Area,Central
+42055,16540,"Chambersburg, PA",Metropolitan Statistical Area,Central
+17019,16580,"Champaign-Urbana, IL",Metropolitan Statistical Area,Central
+17053,16580,"Champaign-Urbana, IL",Metropolitan Statistical Area,Outlying
+17147,16580,"Champaign-Urbana, IL",Metropolitan Statistical Area,Outlying
+54005,16620,"Charleston, WV",Metropolitan Statistical Area,Outlying
+54015,16620,"Charleston, WV",Metropolitan Statistical Area,Outlying
+54039,16620,"Charleston, WV",Metropolitan Statistical Area,Central
+17029,16660,"Charleston-Mattoon, IL",Micropolitan Statistical Area,Central
+45015,16700,"Charleston-North Charleston, SC",Metropolitan Statistical Area,Central
+45019,16700,"Charleston-North Charleston, SC",Metropolitan Statistical Area,Central
+45035,16700,"Charleston-North Charleston, SC",Metropolitan Statistical Area,Central
+37007,16740,"Charlotte-Concord-Gastonia, NC-SC",Metropolitan Statistical Area,Outlying
+37025,16740,"Charlotte-Concord-Gastonia, NC-SC",Metropolitan Statistical Area,Outlying
+37071,16740,"Charlotte-Concord-Gastonia, NC-SC",Metropolitan Statistical Area,Outlying
+37097,16740,"Charlotte-Concord-Gastonia, NC-SC",Metropolitan Statistical Area,Central
+37109,16740,"Charlotte-Concord-Gastonia, NC-SC",Metropolitan Statistical Area,Outlying
+37119,16740,"Charlotte-Concord-Gastonia, NC-SC",Metropolitan Statistical Area,Central
+37159,16740,"Charlotte-Concord-Gastonia, NC-SC",Metropolitan Statistical Area,Outlying
+37179,16740,"Charlotte-Concord-Gastonia, NC-SC",Metropolitan Statistical Area,Central
+45023,16740,"Charlotte-Concord-Gastonia, NC-SC",Metropolitan Statistical Area,Outlying
+45057,16740,"Charlotte-Concord-Gastonia, NC-SC",Metropolitan Statistical Area,Outlying
+45091,16740,"Charlotte-Concord-Gastonia, NC-SC",Metropolitan Statistical Area,Outlying
+51003,16820,"Charlottesville, VA",Metropolitan Statistical Area,Central
+51065,16820,"Charlottesville, VA",Metropolitan Statistical Area,Outlying
+51079,16820,"Charlottesville, VA",Metropolitan Statistical Area,Outlying
+51125,16820,"Charlottesville, VA",Metropolitan Statistical Area,Outlying
+51540,16820,"Charlottesville, VA",Metropolitan Statistical Area,Central
+13047,16860,"Chattanooga, TN-GA",Metropolitan Statistical Area,Central
+13083,16860,"Chattanooga, TN-GA",Metropolitan Statistical Area,Outlying
+13295,16860,"Chattanooga, TN-GA",Metropolitan Statistical Area,Central
+47065,16860,"Chattanooga, TN-GA",Metropolitan Statistical Area,Central
+47115,16860,"Chattanooga, TN-GA",Metropolitan Statistical Area,Outlying
+47153,16860,"Chattanooga, TN-GA",Metropolitan Statistical Area,Outlying
+56021,16940,"Cheyenne, WY",Metropolitan Statistical Area,Central
+17031,16980,"Chicago-Naperville-Elgin, IL-IN",Metropolitan Statistical Area,Central
+17043,16980,"Chicago-Naperville-Elgin, IL-IN",Metropolitan Statistical Area,Central
+17063,16980,"Chicago-Naperville-Elgin, IL-IN",Metropolitan Statistical Area,Outlying
+17111,16980,"Chicago-Naperville-Elgin, IL-IN",Metropolitan Statistical Area,Central
+17197,16980,"Chicago-Naperville-Elgin, IL-IN",Metropolitan Statistical Area,Central
+17037,16980,"Chicago-Naperville-Elgin, IL-IN",Metropolitan Statistical Area,Outlying
+17089,16980,"Chicago-Naperville-Elgin, IL-IN",Metropolitan Statistical Area,Central
+17093,16980,"Chicago-Naperville-Elgin, IL-IN",Metropolitan Statistical Area,Central
+17097,16980,"Chicago-Naperville-Elgin, IL-IN",Metropolitan Statistical Area,Central
+18073,16980,"Chicago-Naperville-Elgin, IL-IN",Metropolitan Statistical Area,Outlying
+18089,16980,"Chicago-Naperville-Elgin, IL-IN",Metropolitan Statistical Area,Central
+18111,16980,"Chicago-Naperville-Elgin, IL-IN",Metropolitan Statistical Area,Outlying
+18127,16980,"Chicago-Naperville-Elgin, IL-IN",Metropolitan Statistical Area,Central
+06007,17020,"Chico, CA",Metropolitan Statistical Area,Central
+39141,17060,"Chillicothe, OH",Micropolitan Statistical Area,Central
+18029,17140,"Cincinnati, OH-KY-IN",Metropolitan Statistical Area,Outlying
+18047,17140,"Cincinnati, OH-KY-IN",Metropolitan Statistical Area,Outlying
+18115,17140,"Cincinnati, OH-KY-IN",Metropolitan Statistical Area,Outlying
+21015,17140,"Cincinnati, OH-KY-IN",Metropolitan Statistical Area,Central
+21023,17140,"Cincinnati, OH-KY-IN",Metropolitan Statistical Area,Outlying
+21037,17140,"Cincinnati, OH-KY-IN",Metropolitan Statistical Area,Central
+21077,17140,"Cincinnati, OH-KY-IN",Metropolitan Statistical Area,Outlying
+21081,17140,"Cincinnati, OH-KY-IN",Metropolitan Statistical Area,Outlying
+21117,17140,"Cincinnati, OH-KY-IN",Metropolitan Statistical Area,Central
+21191,17140,"Cincinnati, OH-KY-IN",Metropolitan Statistical Area,Outlying
+39015,17140,"Cincinnati, OH-KY-IN",Metropolitan Statistical Area,Outlying
+39017,17140,"Cincinnati, OH-KY-IN",Metropolitan Statistical Area,Central
+39025,17140,"Cincinnati, OH-KY-IN",Metropolitan Statistical Area,Central
+39061,17140,"Cincinnati, OH-KY-IN",Metropolitan Statistical Area,Central
+39165,17140,"Cincinnati, OH-KY-IN",Metropolitan Statistical Area,Central
+54017,17220,"Clarksburg, WV",Micropolitan Statistical Area,Outlying
+54033,17220,"Clarksburg, WV",Micropolitan Statistical Area,Central
+54091,17220,"Clarksburg, WV",Micropolitan Statistical Area,Outlying
+28027,17260,"Clarksdale, MS",Micropolitan Statistical Area,Central
+21047,17300,"Clarksville, TN-KY",Metropolitan Statistical Area,Outlying
+21221,17300,"Clarksville, TN-KY",Metropolitan Statistical Area,Outlying
+47125,17300,"Clarksville, TN-KY",Metropolitan Statistical Area,Central
+47161,17300,"Clarksville, TN-KY",Metropolitan Statistical Area,Outlying
+06033,17340,"Clearlake, CA",Micropolitan Statistical Area,Central
+28011,17380,"Cleveland, MS",Micropolitan Statistical Area,Central
+39007,17410,"Cleveland, OH",Metropolitan Statistical Area,Outlying
+39035,17410,"Cleveland, OH",Metropolitan Statistical Area,Central
+39055,17410,"Cleveland, OH",Metropolitan Statistical Area,Central
+39085,17410,"Cleveland, OH",Metropolitan Statistical Area,Central
+39093,17410,"Cleveland, OH",Metropolitan Statistical Area,Outlying
+39103,17410,"Cleveland, OH",Metropolitan Statistical Area,Central
+47011,17420,"Cleveland, TN",Metropolitan Statistical Area,Central
+47139,17420,"Cleveland, TN",Metropolitan Statistical Area,Outlying
+12043,17500,"Clewiston, FL",Micropolitan Statistical Area,Outlying
+12051,17500,"Clewiston, FL",Micropolitan Statistical Area,Central
+19045,17540,"Clinton, IA",Micropolitan Statistical Area,Central
+35009,17580,"Clovis, NM",Micropolitan Statistical Area,Central
+35041,17580,"Clovis, NM",Micropolitan Statistical Area,Outlying
+72043,17620,"Coamo, PR",Micropolitan Statistical Area,Central
+72133,17620,"Coamo, PR",Micropolitan Statistical Area,Central
+72123,17640,"Coco, PR",Micropolitan Statistical Area,Central
+56029,17650,"Cody, WY",Micropolitan Statistical Area,Central
+16055,17660,"Coeur d'Alene, ID",Metropolitan Statistical Area,Central
+26023,17740,"Coldwater, MI",Micropolitan Statistical Area,Central
+48041,17780,"College Station-Bryan, TX",Metropolitan Statistical Area,Central
+48051,17780,"College Station-Bryan, TX",Metropolitan Statistical Area,Outlying
+48395,17780,"College Station-Bryan, TX",Metropolitan Statistical Area,Outlying
+08041,17820,"Colorado Springs, CO",Metropolitan Statistical Area,Central
+08119,17820,"Colorado Springs, CO",Metropolitan Statistical Area,Outlying
+29019,17860,"Columbia, MO",Metropolitan Statistical Area,Central
+29053,17860,"Columbia, MO",Metropolitan Statistical Area,Outlying
+29089,17860,"Columbia, MO",Metropolitan Statistical Area,Outlying
+45017,17900,"Columbia, SC",Metropolitan Statistical Area,Outlying
+45039,17900,"Columbia, SC",Metropolitan Statistical Area,Outlying
+45055,17900,"Columbia, SC",Metropolitan Statistical Area,Outlying
+45063,17900,"Columbia, SC",Metropolitan Statistical Area,Central
+45079,17900,"Columbia, SC",Metropolitan Statistical Area,Central
+45081,17900,"Columbia, SC",Metropolitan Statistical Area,Outlying
+01113,17980,"Columbus, GA-AL",Metropolitan Statistical Area,Central
+13053,17980,"Columbus, GA-AL",Metropolitan Statistical Area,Central
+13145,17980,"Columbus, GA-AL",Metropolitan Statistical Area,Outlying
+13197,17980,"Columbus, GA-AL",Metropolitan Statistical Area,Outlying
+13215,17980,"Columbus, GA-AL",Metropolitan Statistical Area,Central
+13259,17980,"Columbus, GA-AL",Metropolitan Statistical Area,Outlying
+13263,17980,"Columbus, GA-AL",Metropolitan Statistical Area,Outlying
+18005,18020,"Columbus, IN",Metropolitan Statistical Area,Central
+28087,18060,"Columbus, MS",Micropolitan Statistical Area,Central
+28103,18060,"Columbus, MS",Micropolitan Statistical Area,Outlying
+31037,18100,"Columbus, NE",Micropolitan Statistical Area,Outlying
+31141,18100,"Columbus, NE",Micropolitan Statistical Area,Central
+39041,18140,"Columbus, OH",Metropolitan Statistical Area,Central
+39045,18140,"Columbus, OH",Metropolitan Statistical Area,Central
+39049,18140,"Columbus, OH",Metropolitan Statistical Area,Central
+39073,18140,"Columbus, OH",Metropolitan Statistical Area,Outlying
+39089,18140,"Columbus, OH",Metropolitan Statistical Area,Outlying
+39097,18140,"Columbus, OH",Metropolitan Statistical Area,Outlying
+39117,18140,"Columbus, OH",Metropolitan Statistical Area,Outlying
+39127,18140,"Columbus, OH",Metropolitan Statistical Area,Outlying
+39129,18140,"Columbus, OH",Metropolitan Statistical Area,Outlying
+39159,18140,"Columbus, OH",Metropolitan Statistical Area,Outlying
+33013,18180,"Concord, NH",Micropolitan Statistical Area,Central
+18041,18220,"Connersville, IN",Micropolitan Statistical Area,Central
+47087,18260,"Cookeville, TN",Micropolitan Statistical Area,Outlying
+47133,18260,"Cookeville, TN",Micropolitan Statistical Area,Outlying
+47141,18260,"Cookeville, TN",Micropolitan Statistical Area,Central
+47185,18260,"Cookeville, TN",Micropolitan Statistical Area,Outlying
+41011,18300,"Coos Bay-North Bend, OR",Micropolitan Statistical Area,Central
+21051,18340,"Corbin, KY",Micropolitan Statistical Area,Outlying
+21121,18340,"Corbin, KY",Micropolitan Statistical Area,Central
+21125,18340,"Corbin, KY",Micropolitan Statistical Area,Central
+21235,18340,"Corbin, KY",Micropolitan Statistical Area,Central
+13081,18380,"Cordele, GA",Micropolitan Statistical Area,Central
+28003,18420,"Corinth, MS",Micropolitan Statistical Area,Central
+13137,18460,"Cornelia, GA",Micropolitan Statistical Area,Central
+36101,18500,"Corning, NY",Micropolitan Statistical Area,Central
+48007,18580,"Corpus Christi, TX",Metropolitan Statistical Area,Outlying
+48355,18580,"Corpus Christi, TX",Metropolitan Statistical Area,Central
+48409,18580,"Corpus Christi, TX",Metropolitan Statistical Area,Central
+48349,18620,"Corsicana, TX",Micropolitan Statistical Area,Central
+36023,18660,"Cortland, NY",Micropolitan Statistical Area,Central
+41003,18700,"Corvallis, OR",Metropolitan Statistical Area,Central
+39031,18740,"Coshocton, OH",Micropolitan Statistical Area,Central
+18107,18820,"Crawfordsville, IN",Micropolitan Statistical Area,Central
+06015,18860,"Crescent City, CA",Micropolitan Statistical Area,Central
+12091,18880,"Crestview-Fort Walton Beach-Destin, FL",Metropolitan Statistical Area,Central
+12131,18880,"Crestview-Fort Walton Beach-Destin, FL",Metropolitan Statistical Area,Central
+47035,18900,"Crossville, TN",Micropolitan Statistical Area,Central
+01043,18980,"Cullman, AL",Micropolitan Statistical Area,Central
+24001,19060,"Cumberland, MD-WV",Micropolitan Statistical Area,Central
+54057,19060,"Cumberland, MD-WV",Micropolitan Statistical Area,Outlying
+48085,19100,"Dallas-Fort Worth-Arlington, TX",Metropolitan Statistical Area,Central
+48113,19100,"Dallas-Fort Worth-Arlington, TX",Metropolitan Statistical Area,Central
+48121,19100,"Dallas-Fort Worth-Arlington, TX",Metropolitan Statistical Area,Outlying
+48139,19100,"Dallas-Fort Worth-Arlington, TX",Metropolitan Statistical Area,Central
+48231,19100,"Dallas-Fort Worth-Arlington, TX",Metropolitan Statistical Area,Outlying
+48257,19100,"Dallas-Fort Worth-Arlington, TX",Metropolitan Statistical Area,Outlying
+48397,19100,"Dallas-Fort Worth-Arlington, TX",Metropolitan Statistical Area,Central
+48251,19100,"Dallas-Fort Worth-Arlington, TX",Metropolitan Statistical Area,Central
+48367,19100,"Dallas-Fort Worth-Arlington, TX",Metropolitan Statistical Area,Outlying
+48439,19100,"Dallas-Fort Worth-Arlington, TX",Metropolitan Statistical Area,Central
+48497,19100,"Dallas-Fort Worth-Arlington, TX",Metropolitan Statistical Area,Outlying
+13213,19140,"Dalton, GA",Metropolitan Statistical Area,Outlying
+13313,19140,"Dalton, GA",Metropolitan Statistical Area,Central
+17183,19180,"Danville, IL",Micropolitan Statistical Area,Central
+21021,19220,"Danville, KY",Micropolitan Statistical Area,Central
+21137,19220,"Danville, KY",Micropolitan Statistical Area,Outlying
+51143,19260,"Danville, VA",Micropolitan Statistical Area,Central
+51590,19260,"Danville, VA",Micropolitan Statistical Area,Central
+01003,19300,"Daphne-Fairhope-Foley, AL",Metropolitan Statistical Area,Central
+17073,19340,"Davenport-Moline-Rock Island, IA-IL",Metropolitan Statistical Area,Outlying
+17131,19340,"Davenport-Moline-Rock Island, IA-IL",Metropolitan Statistical Area,Outlying
+17161,19340,"Davenport-Moline-Rock Island, IA-IL",Metropolitan Statistical Area,Central
+19163,19340,"Davenport-Moline-Rock Island, IA-IL",Metropolitan Statistical Area,Central
+39057,19430,"Dayton-Kettering-Beavercreek, OH",Metropolitan Statistical Area,Central
+39109,19430,"Dayton-Kettering-Beavercreek, OH",Metropolitan Statistical Area,Outlying
+39113,19430,"Dayton-Kettering-Beavercreek, OH",Metropolitan Statistical Area,Central
+01079,19460,"Decatur, AL",Metropolitan Statistical Area,Outlying
+01103,19460,"Decatur, AL",Metropolitan Statistical Area,Central
+17115,19500,"Decatur, IL",Metropolitan Statistical Area,Central
+18001,19540,"Decatur, IN",Micropolitan Statistical Area,Central
+39039,19580,"Defiance, OH",Micropolitan Statistical Area,Central
+48465,19620,"Del Rio, TX",Micropolitan Statistical Area,Central
+12035,19660,"Deltona-Daytona Beach-Ormond Beach, FL",Metropolitan Statistical Area,Central
+12127,19660,"Deltona-Daytona Beach-Ormond Beach, FL",Metropolitan Statistical Area,Central
+35029,19700,"Deming, NM",Micropolitan Statistical Area,Central
+08001,19740,"Denver-Aurora-Centennial, CO",Metropolitan Statistical Area,Central
+08005,19740,"Denver-Aurora-Centennial, CO",Metropolitan Statistical Area,Central
+08014,19740,"Denver-Aurora-Centennial, CO",Metropolitan Statistical Area,Central
+08019,19740,"Denver-Aurora-Centennial, CO",Metropolitan Statistical Area,Outlying
+08031,19740,"Denver-Aurora-Centennial, CO",Metropolitan Statistical Area,Central
+08035,19740,"Denver-Aurora-Centennial, CO",Metropolitan Statistical Area,Central
+08039,19740,"Denver-Aurora-Centennial, CO",Metropolitan Statistical Area,Outlying
+08047,19740,"Denver-Aurora-Centennial, CO",Metropolitan Statistical Area,Outlying
+08059,19740,"Denver-Aurora-Centennial, CO",Metropolitan Statistical Area,Central
+08093,19740,"Denver-Aurora-Centennial, CO",Metropolitan Statistical Area,Outlying
+22011,19760,"DeRidder, LA",Micropolitan Statistical Area,Central
+19049,19780,"Des Moines-West Des Moines, IA",Metropolitan Statistical Area,Central
+19077,19780,"Des Moines-West Des Moines, IA",Metropolitan Statistical Area,Outlying
+19099,19780,"Des Moines-West Des Moines, IA",Metropolitan Statistical Area,Outlying
+19121,19780,"Des Moines-West Des Moines, IA",Metropolitan Statistical Area,Outlying
+19153,19780,"Des Moines-West Des Moines, IA",Metropolitan Statistical Area,Central
+19181,19780,"Des Moines-West Des Moines, IA",Metropolitan Statistical Area,Outlying
+27005,19810,"Detroit Lakes, MN",Micropolitan Statistical Area,Central
+26163,19820,"Detroit-Warren-Dearborn, MI",Metropolitan Statistical Area,Central
+26087,19820,"Detroit-Warren-Dearborn, MI",Metropolitan Statistical Area,Outlying
+26093,19820,"Detroit-Warren-Dearborn, MI",Metropolitan Statistical Area,Outlying
+26099,19820,"Detroit-Warren-Dearborn, MI",Metropolitan Statistical Area,Central
+26125,19820,"Detroit-Warren-Dearborn, MI",Metropolitan Statistical Area,Central
+26147,19820,"Detroit-Warren-Dearborn, MI",Metropolitan Statistical Area,Outlying
+38007,19860,"Dickinson, ND",Micropolitan Statistical Area,Outlying
+38025,19860,"Dickinson, ND",Micropolitan Statistical Area,Outlying
+38089,19860,"Dickinson, ND",Micropolitan Statistical Area,Central
+17103,19940,"Dixon, IL",Micropolitan Statistical Area,Central
+20057,19980,"Dodge City, KS",Micropolitan Statistical Area,Central
+01061,20020,"Dothan, AL",Metropolitan Statistical Area,Outlying
+01067,20020,"Dothan, AL",Metropolitan Statistical Area,Outlying
+01069,20020,"Dothan, AL",Metropolitan Statistical Area,Central
+13003,20060,"Douglas, GA",Micropolitan Statistical Area,Outlying
+13069,20060,"Douglas, GA",Micropolitan Statistical Area,Central
+10001,20100,"Dover, DE",Metropolitan Statistical Area,Central
+13167,20140,"Dublin, GA",Micropolitan Statistical Area,Outlying
+13175,20140,"Dublin, GA",Micropolitan Statistical Area,Central
+42033,20180,"DuBois, PA",Micropolitan Statistical Area,Central
+19061,20220,"Dubuque, IA",Metropolitan Statistical Area,Central
+27017,20260,"Duluth, MN-WI",Metropolitan Statistical Area,Outlying
+27137,20260,"Duluth, MN-WI",Metropolitan Statistical Area,Central
+55031,20260,"Duluth, MN-WI",Metropolitan Statistical Area,Central
+48341,20300,"Dumas, TX",Micropolitan Statistical Area,Central
+40137,20340,"Duncan, OK",Micropolitan Statistical Area,Central
+08067,20420,"Durango, CO",Micropolitan Statistical Area,Central
+40013,20460,"Durant, OK",Micropolitan Statistical Area,Central
+37037,20500,"Durham-Chapel Hill, NC",Metropolitan Statistical Area,Central
+37063,20500,"Durham-Chapel Hill, NC",Metropolitan Statistical Area,Central
+37135,20500,"Durham-Chapel Hill, NC",Metropolitan Statistical Area,Central
+37145,20500,"Durham-Chapel Hill, NC",Metropolitan Statistical Area,Outlying
+47045,20540,"Dyersburg, TN",Micropolitan Statistical Area,Central
+48323,20580,"Eagle Pass, TX",Metropolitan Statistical Area,Central
+24041,20660,"Easton, MD",Micropolitan Statistical Area,Central
+42089,20700,"East Stroudsburg, PA",Micropolitan Statistical Area,Central
+55017,20740,"Eau Claire, WI",Metropolitan Statistical Area,Central
+55035,20740,"Eau Claire, WI",Metropolitan Statistical Area,Central
+08037,20780,"Edwards, CO",Micropolitan Statistical Area,Central
+17035,20820,"Effingham, IL",Micropolitan Statistical Area,Outlying
+17049,20820,"Effingham, IL",Micropolitan Statistical Area,Central
+48481,20900,"El Campo, TX",Micropolitan Statistical Area,Central
+06025,20940,"El Centro, CA",Metropolitan Statistical Area,Central
+05139,20980,"El Dorado, AR",Micropolitan Statistical Area,Central
+37139,21020,"Elizabeth City, NC",Micropolitan Statistical Area,Central
+21093,21060,"Elizabethtown, KY",Metropolitan Statistical Area,Central
+21123,21060,"Elizabethtown, KY",Metropolitan Statistical Area,Outlying
+40009,21120,"Elk City, OK",Micropolitan Statistical Area,Central
+18039,21140,"Elkhart-Goshen, IN",Metropolitan Statistical Area,Central
+54083,21180,"Elkins, WV",Micropolitan Statistical Area,Central
+32007,21220,"Elko, NV",Micropolitan Statistical Area,Central
+32011,21220,"Elko, NV",Micropolitan Statistical Area,Outlying
+53037,21260,"Ellensburg, WA",Micropolitan Statistical Area,Central
+36015,21300,"Elmira, NY",Metropolitan Statistical Area,Central
+48141,21340,"El Paso, TX",Metropolitan Statistical Area,Central
+48229,21340,"El Paso, TX",Metropolitan Statistical Area,Outlying
+20017,21380,"Emporia, KS",Micropolitan Statistical Area,Outlying
+20111,21380,"Emporia, KS",Micropolitan Statistical Area,Central
+40047,21420,"Enid, OK",Metropolitan Statistical Area,Central
+01031,21460,"Enterprise, AL",Micropolitan Statistical Area,Central
+42049,21500,"Erie, PA",Metropolitan Statistical Area,Central
+26041,21540,"Escanaba, MI",Micropolitan Statistical Area,Central
+35039,21580,"Española, NM",Micropolitan Statistical Area,Central
+01005,21640,"Eufaula, AL-GA",Micropolitan Statistical Area,Central
+13239,21640,"Eufaula, AL-GA",Micropolitan Statistical Area,Outlying
+41039,21660,"Eugene-Springfield, OR",Metropolitan Statistical Area,Central
+06023,21700,"Eureka-Arcata, CA",Micropolitan Statistical Area,Central
+49033,21740,"Evanston, WY-UT",Micropolitan Statistical Area,Outlying
+56041,21740,"Evanston, WY-UT",Micropolitan Statistical Area,Central
+18129,21780,"Evansville, IN",Metropolitan Statistical Area,Outlying
+18163,21780,"Evansville, IN",Metropolitan Statistical Area,Central
+18173,21780,"Evansville, IN",Metropolitan Statistical Area,Central
+02090,21820,"Fairbanks-College, AK",Metropolitan Statistical Area,Central
+27091,21860,"Fairmont, MN",Micropolitan Statistical Area,Central
+54049,21900,"Fairmont, WV",Micropolitan Statistical Area,Central
+32001,21980,"Fallon, NV",Micropolitan Statistical Area,Central
+27027,22020,"Fargo, ND-MN",Metropolitan Statistical Area,Central
+38017,22020,"Fargo, ND-MN",Metropolitan Statistical Area,Central
+27131,22060,"Faribault-Northfield, MN",Micropolitan Statistical Area,Central
+29187,22100,"Farmington, MO",Micropolitan Statistical Area,Central
+35045,22140,"Farmington, NM",Metropolitan Statistical Area,Central
+37051,22180,"Fayetteville, NC",Metropolitan Statistical Area,Central
+37093,22180,"Fayetteville, NC",Metropolitan Statistical Area,Central
+47103,22190,"Fayetteville, TN",Micropolitan Statistical Area,Central
+05007,22220,"Fayetteville-Springdale-Rogers, AR",Metropolitan Statistical Area,Central
+05087,22220,"Fayetteville-Springdale-Rogers, AR",Metropolitan Statistical Area,Outlying
+05143,22220,"Fayetteville-Springdale-Rogers, AR",Metropolitan Statistical Area,Central
+27111,22260,"Fergus Falls, MN",Micropolitan Statistical Area,Central
+39063,22300,"Findlay, OH",Micropolitan Statistical Area,Central
+13017,22340,"Fitzgerald, GA",Micropolitan Statistical Area,Central
+04005,22380,"Flagstaff, AZ",Metropolitan Statistical Area,Central
+26049,22420,"Flint, MI",Metropolitan Statistical Area,Central
+45031,22500,"Florence, SC",Metropolitan Statistical Area,Outlying
+45041,22500,"Florence, SC",Metropolitan Statistical Area,Central
+01033,22520,"Florence-Muscle Shoals, AL",Metropolitan Statistical Area,Central
+01077,22520,"Florence-Muscle Shoals, AL",Metropolitan Statistical Area,Central
+55039,22540,"Fond du Lac, WI",Metropolitan Statistical Area,Central
+37161,22580,"Forest City, NC",Micropolitan Statistical Area,Central
+05123,22620,"Forrest City, AR",Micropolitan Statistical Area,Central
+08069,22660,"Fort Collins-Loveland, CO",Metropolitan Statistical Area,Central
+19187,22700,"Fort Dodge, IA",Micropolitan Statistical Area,Central
+29169,22780,"Fort Leonard Wood, MO",Micropolitan Statistical Area,Central
+19111,22800,"Fort Madison, IA",Micropolitan Statistical Area,Central
+08087,22820,"Fort Morgan, CO",Micropolitan Statistical Area,Central
+01049,22840,"Fort Payne, AL",Micropolitan Statistical Area,Central
+05033,22900,"Fort Smith, AR-OK",Metropolitan Statistical Area,Central
+05131,22900,"Fort Smith, AR-OK",Metropolitan Statistical Area,Central
+40135,22900,"Fort Smith, AR-OK",Metropolitan Statistical Area,Outlying
+18003,23060,"Fort Wayne, IN",Metropolitan Statistical Area,Central
+18179,23060,"Fort Wayne, IN",Metropolitan Statistical Area,Outlying
+18183,23060,"Fort Wayne, IN",Metropolitan Statistical Area,Outlying
+18023,23140,"Frankfort, IN",Micropolitan Statistical Area,Central
+21005,23180,"Frankfort, KY",Micropolitan Statistical Area,Outlying
+21073,23180,"Frankfort, KY",Micropolitan Statistical Area,Central
+21213,23190,"Franklin, KY",Micropolitan Statistical Area,Central
+48171,23240,"Fredericksburg, TX",Micropolitan Statistical Area,Central
+17177,23300,"Freeport, IL",Micropolitan Statistical Area,Central
+31053,23340,"Fremont, NE",Micropolitan Statistical Area,Central
+39143,23380,"Fremont, OH",Micropolitan Statistical Area,Central
+06019,23420,"Fresno, CA",Metropolitan Statistical Area,Central
+06039,23420,"Fresno, CA",Metropolitan Statistical Area,Outlying
+01055,23460,"Gadsden, AL",Metropolitan Statistical Area,Central
+45021,23500,"Gaffney, SC",Micropolitan Statistical Area,Central
+12001,23540,"Gainesville, FL",Metropolitan Statistical Area,Central
+12041,23540,"Gainesville, FL",Metropolitan Statistical Area,Outlying
+12075,23540,"Gainesville, FL",Metropolitan Statistical Area,Outlying
+13139,23580,"Gainesville, GA",Metropolitan Statistical Area,Central
+48097,23620,"Gainesville, TX",Micropolitan Statistical Area,Central
+17095,23660,"Galesburg, IL",Micropolitan Statistical Area,Central
+39053,23680,"Gallipolis, OH",Micropolitan Statistical Area,Central
+35031,23700,"Gallup, NM",Micropolitan Statistical Area,Central
+20055,23780,"Garden City, KS",Micropolitan Statistical Area,Central
+06003,23820,"Gardnerville Ranchos, NV-CA",Micropolitan Statistical Area,Outlying
+32005,23820,"Gardnerville Ranchos, NV-CA",Micropolitan Statistical Area,Central
+42001,23900,"Gettysburg, PA",Metropolitan Statistical Area,Central
+56005,23940,"Gillette, WY",Micropolitan Statistical Area,Central
+21009,23980,"Glasgow, KY",Micropolitan Statistical Area,Central
+21169,23980,"Glasgow, KY",Micropolitan Statistical Area,Outlying
+36113,24020,"Glens Falls, NY",Metropolitan Statistical Area,Central
+36115,24020,"Glens Falls, NY",Metropolitan Statistical Area,Central
+36035,24100,"Gloversville, NY",Micropolitan Statistical Area,Central
+37191,24140,"Goldsboro, NC",Metropolitan Statistical Area,Central
+48221,24180,"Granbury, TX",Micropolitan Statistical Area,Central
+27119,24220,"Grand Forks, ND-MN",Metropolitan Statistical Area,Central
+38035,24220,"Grand Forks, ND-MN",Metropolitan Statistical Area,Central
+31079,24260,"Grand Island, NE",Metropolitan Statistical Area,Central
+31093,24260,"Grand Island, NE",Metropolitan Statistical Area,Outlying
+31121,24260,"Grand Island, NE",Metropolitan Statistical Area,Outlying
+08077,24300,"Grand Junction, CO",Metropolitan Statistical Area,Central
+27061,24330,"Grand Rapids, MN",Micropolitan Statistical Area,Central
+26015,24340,"Grand Rapids-Wyoming-Kentwood, MI",Metropolitan Statistical Area,Outlying
+26067,24340,"Grand Rapids-Wyoming-Kentwood, MI",Metropolitan Statistical Area,Outlying
+26081,24340,"Grand Rapids-Wyoming-Kentwood, MI",Metropolitan Statistical Area,Central
+26117,24340,"Grand Rapids-Wyoming-Kentwood, MI",Metropolitan Statistical Area,Outlying
+26139,24340,"Grand Rapids-Wyoming-Kentwood, MI",Metropolitan Statistical Area,Outlying
+41033,24420,"Grants Pass, OR",Metropolitan Statistical Area,Central
+20009,24460,"Great Bend, KS",Micropolitan Statistical Area,Central
+30013,24500,"Great Falls, MT",Metropolitan Statistical Area,Central
+08123,24540,"Greeley, CO",Metropolitan Statistical Area,Central
+55009,24580,"Green Bay, WI",Metropolitan Statistical Area,Central
+55061,24580,"Green Bay, WI",Metropolitan Statistical Area,Outlying
+55083,24580,"Green Bay, WI",Metropolitan Statistical Area,Outlying
+18133,24600,"Greencastle, IN",Micropolitan Statistical Area,Central
+47059,24620,"Greeneville, TN",Micropolitan Statistical Area,Central
+25011,24640,"Greenfield, MA",Micropolitan Statistical Area,Central
+37081,24660,"Greensboro-High Point, NC",Metropolitan Statistical Area,Central
+37151,24660,"Greensboro-High Point, NC",Metropolitan Statistical Area,Outlying
+37157,24660,"Greensboro-High Point, NC",Metropolitan Statistical Area,Outlying
+18031,24700,"Greensburg, IN",Micropolitan Statistical Area,Central
+28151,24740,"Greenville, MS",Micropolitan Statistical Area,Central
+37147,24780,"Greenville, NC",Metropolitan Statistical Area,Central
+39037,24820,"Greenville, OH",Micropolitan Statistical Area,Central
+45007,24860,"Greenville-Anderson-Greer, SC",Metropolitan Statistical Area,Outlying
+45045,24860,"Greenville-Anderson-Greer, SC",Metropolitan Statistical Area,Central
+45059,24860,"Greenville-Anderson-Greer, SC",Metropolitan Statistical Area,Outlying
+45077,24860,"Greenville-Anderson-Greer, SC",Metropolitan Statistical Area,Central
+28015,24900,"Greenwood, MS",Micropolitan Statistical Area,Outlying
+28083,24900,"Greenwood, MS",Micropolitan Statistical Area,Central
+45001,24940,"Greenwood, SC",Micropolitan Statistical Area,Outlying
+45047,24940,"Greenwood, SC",Micropolitan Statistical Area,Central
+28043,24980,"Grenada, MS",Micropolitan Statistical Area,Central
+28097,24980,"Grenada, MS",Micropolitan Statistical Area,Outlying
+72015,25020,"Guayama, PR",Metropolitan Statistical Area,Central
+72057,25020,"Guayama, PR",Metropolitan Statistical Area,Central
+72109,25020,"Guayama, PR",Metropolitan Statistical Area,Central
+28045,25060,"Gulfport-Biloxi, MS",Metropolitan Statistical Area,Central
+28047,25060,"Gulfport-Biloxi, MS",Metropolitan Statistical Area,Central
+28059,25060,"Gulfport-Biloxi, MS",Metropolitan Statistical Area,Outlying
+28131,25060,"Gulfport-Biloxi, MS",Metropolitan Statistical Area,Outlying
+40139,25100,"Guymon, OK",Micropolitan Statistical Area,Central
+24043,25180,"Hagerstown-Martinsburg, MD-WV",Metropolitan Statistical Area,Central
+54003,25180,"Hagerstown-Martinsburg, MD-WV",Metropolitan Statistical Area,Central
+54065,25180,"Hagerstown-Martinsburg, MD-WV",Metropolitan Statistical Area,Outlying
+16013,25200,"Hailey, ID",Micropolitan Statistical Area,Central
+16025,25200,"Hailey, ID",Micropolitan Statistical Area,Outlying
+16063,25200,"Hailey, ID",Micropolitan Statistical Area,Outlying
+22105,25220,"Hammond, LA",Metropolitan Statistical Area,Central
+06031,25260,"Hanford-Corcoran, CA",Metropolitan Statistical Area,Central
+29127,25300,"Hannibal, MO",Micropolitan Statistical Area,Central
+29173,25300,"Hannibal, MO",Micropolitan Statistical Area,Outlying
+42041,25420,"Harrisburg-Carlisle, PA",Metropolitan Statistical Area,Central
+42043,25420,"Harrisburg-Carlisle, PA",Metropolitan Statistical Area,Central
+42099,25420,"Harrisburg-Carlisle, PA",Metropolitan Statistical Area,Outlying
+05009,25460,"Harrison, AR",Micropolitan Statistical Area,Central
+05101,25460,"Harrison, AR",Micropolitan Statistical Area,Outlying
+51165,25500,"Harrisonburg, VA",Metropolitan Statistical Area,Central
+51660,25500,"Harrisonburg, VA",Metropolitan Statistical Area,Central
+09110,25540,"Hartford-West Hartford-East Hartford, CT",Metropolitan Statistical Area,Central
+09130,25540,"Hartford-West Hartford-East Hartford, CT",Metropolitan Statistical Area,Central
+31001,25580,"Hastings, NE",Micropolitan Statistical Area,Central
+31035,25580,"Hastings, NE",Micropolitan Statistical Area,Outlying
+31181,25580,"Hastings, NE",Micropolitan Statistical Area,Outlying
+28035,25620,"Hattiesburg, MS",Metropolitan Statistical Area,Central
+28073,25620,"Hattiesburg, MS",Metropolitan Statistical Area,Central
+28111,25620,"Hattiesburg, MS",Metropolitan Statistical Area,Outlying
+20051,25700,"Hays, KS",Micropolitan Statistical Area,Central
+49043,25720,"Heber, UT",Micropolitan Statistical Area,Central
+49051,25720,"Heber, UT",Micropolitan Statistical Area,Outlying
+30007,25740,"Helena, MT",Metropolitan Statistical Area,Outlying
+30043,25740,"Helena, MT",Metropolitan Statistical Area,Outlying
+30049,25740,"Helena, MT",Metropolitan Statistical Area,Central
+42103,25770,"Hemlock Farms, PA",Micropolitan Statistical Area,Central
+21101,25775,"Henderson, KY",Micropolitan Statistical Area,Central
+21233,25775,"Henderson, KY",Micropolitan Statistical Area,Outlying
+37181,25780,"Henderson, NC",Micropolitan Statistical Area,Central
+48117,25820,"Hereford, TX",Micropolitan Statistical Area,Central
+41049,25840,"Hermiston-Pendleton, OR",Micropolitan Statistical Area,Outlying
+41059,25840,"Hermiston-Pendleton, OR",Micropolitan Statistical Area,Central
+42085,25850,"Hermitage, PA",Micropolitan Statistical Area,Central
+37003,25860,"Hickory-Lenoir-Morganton, NC",Metropolitan Statistical Area,Outlying
+37023,25860,"Hickory-Lenoir-Morganton, NC",Metropolitan Statistical Area,Central
+37027,25860,"Hickory-Lenoir-Morganton, NC",Metropolitan Statistical Area,Central
+37035,25860,"Hickory-Lenoir-Morganton, NC",Metropolitan Statistical Area,Central
+26059,25880,"Hillsdale, MI",Micropolitan Statistical Area,Central
+15001,25900,"Hilo-Kailua, HI",Micropolitan Statistical Area,Central
+45013,25940,"Hilton Head Island-Bluffton-Port Royal, SC",Metropolitan Statistical Area,Central
+45053,25940,"Hilton Head Island-Bluffton-Port Royal, SC",Metropolitan Statistical Area,Outlying
+13179,25980,"Hinesville, GA",Metropolitan Statistical Area,Central
+13183,25980,"Hinesville, GA",Metropolitan Statistical Area,Outlying
+35025,26020,"Hobbs, NM",Micropolitan Statistical Area,Central
+26005,26090,"Holland, MI",Micropolitan Statistical Area,Central
+12017,26140,"Homosassa Springs, FL",Metropolitan Statistical Area,Central
+41027,26220,"Hood River, OR",Micropolitan Statistical Area,Central
+05051,26300,"Hot Springs, AR",Metropolitan Statistical Area,Central
+26061,26340,"Houghton, MI",Micropolitan Statistical Area,Central
+26083,26340,"Houghton, MI",Micropolitan Statistical Area,Outlying
+22057,26380,"Houma-Bayou Cane-Thibodaux, LA",Metropolitan Statistical Area,Central
+22109,26380,"Houma-Bayou Cane-Thibodaux, LA",Metropolitan Statistical Area,Central
+48015,26420,"Houston-Pasadena-The Woodlands, TX",Metropolitan Statistical Area,Outlying
+48039,26420,"Houston-Pasadena-The Woodlands, TX",Metropolitan Statistical Area,Central
+48071,26420,"Houston-Pasadena-The Woodlands, TX",Metropolitan Statistical Area,Outlying
+48157,26420,"Houston-Pasadena-The Woodlands, TX",Metropolitan Statistical Area,Central
+48167,26420,"Houston-Pasadena-The Woodlands, TX",Metropolitan Statistical Area,Outlying
+48201,26420,"Houston-Pasadena-The Woodlands, TX",Metropolitan Statistical Area,Central
+48291,26420,"Houston-Pasadena-The Woodlands, TX",Metropolitan Statistical Area,Outlying
+48339,26420,"Houston-Pasadena-The Woodlands, TX",Metropolitan Statistical Area,Outlying
+48407,26420,"Houston-Pasadena-The Woodlands, TX",Metropolitan Statistical Area,Outlying
+48473,26420,"Houston-Pasadena-The Woodlands, TX",Metropolitan Statistical Area,Central
+36021,26460,"Hudson, NY",Micropolitan Statistical Area,Central
+42061,26500,"Huntingdon, PA",Micropolitan Statistical Area,Central
+18069,26540,"Huntington, IN",Micropolitan Statistical Area,Central
+21019,26580,"Huntington-Ashland, WV-KY-OH",Metropolitan Statistical Area,Central
+21043,26580,"Huntington-Ashland, WV-KY-OH",Metropolitan Statistical Area,Outlying
+21089,26580,"Huntington-Ashland, WV-KY-OH",Metropolitan Statistical Area,Central
+21127,26580,"Huntington-Ashland, WV-KY-OH",Metropolitan Statistical Area,Outlying
+39087,26580,"Huntington-Ashland, WV-KY-OH",Metropolitan Statistical Area,Central
+54011,26580,"Huntington-Ashland, WV-KY-OH",Metropolitan Statistical Area,Central
+54079,26580,"Huntington-Ashland, WV-KY-OH",Metropolitan Statistical Area,Central
+54099,26580,"Huntington-Ashland, WV-KY-OH",Metropolitan Statistical Area,Central
+01083,26620,"Huntsville, AL",Metropolitan Statistical Area,Central
+01089,26620,"Huntsville, AL",Metropolitan Statistical Area,Central
+48471,26660,"Huntsville, TX",Micropolitan Statistical Area,Central
+46005,26700,"Huron, SD",Micropolitan Statistical Area,Central
+20155,26740,"Hutchinson, KS",Micropolitan Statistical Area,Central
+27085,26780,"Hutchinson, MN",Micropolitan Statistical Area,Central
+16019,26820,"Idaho Falls, ID",Metropolitan Statistical Area,Central
+16023,26820,"Idaho Falls, ID",Metropolitan Statistical Area,Outlying
+16051,26820,"Idaho Falls, ID",Metropolitan Statistical Area,Outlying
+42063,26860,"Indiana, PA",Micropolitan Statistical Area,Central
+18011,26900,"Indianapolis-Carmel-Greenwood, IN",Metropolitan Statistical Area,Central
+18013,26900,"Indianapolis-Carmel-Greenwood, IN",Metropolitan Statistical Area,Outlying
+18057,26900,"Indianapolis-Carmel-Greenwood, IN",Metropolitan Statistical Area,Central
+18059,26900,"Indianapolis-Carmel-Greenwood, IN",Metropolitan Statistical Area,Central
+18063,26900,"Indianapolis-Carmel-Greenwood, IN",Metropolitan Statistical Area,Central
+18081,26900,"Indianapolis-Carmel-Greenwood, IN",Metropolitan Statistical Area,Central
+18095,26900,"Indianapolis-Carmel-Greenwood, IN",Metropolitan Statistical Area,Outlying
+18097,26900,"Indianapolis-Carmel-Greenwood, IN",Metropolitan Statistical Area,Central
+18109,26900,"Indianapolis-Carmel-Greenwood, IN",Metropolitan Statistical Area,Central
+18145,26900,"Indianapolis-Carmel-Greenwood, IN",Metropolitan Statistical Area,Outlying
+18159,26900,"Indianapolis-Carmel-Greenwood, IN",Metropolitan Statistical Area,Outlying
+19103,26980,"Iowa City, IA",Metropolitan Statistical Area,Central
+19183,26980,"Iowa City, IA",Metropolitan Statistical Area,Outlying
+26043,27020,"Iron Mountain, MI-WI",Micropolitan Statistical Area,Central
+55037,27020,"Iron Mountain, MI-WI",Micropolitan Statistical Area,Outlying
+36109,27060,"Ithaca, NY",Metropolitan Statistical Area,Central
+26075,27100,"Jackson, MI",Metropolitan Statistical Area,Central
+28029,27140,"Jackson, MS",Metropolitan Statistical Area,Outlying
+28049,27140,"Jackson, MS",Metropolitan Statistical Area,Central
+28051,27140,"Jackson, MS",Metropolitan Statistical Area,Outlying
+28089,27140,"Jackson, MS",Metropolitan Statistical Area,Central
+28121,27140,"Jackson, MS",Metropolitan Statistical Area,Central
+28123,27140,"Jackson, MS",Metropolitan Statistical Area,Outlying
+28127,27140,"Jackson, MS",Metropolitan Statistical Area,Outlying
+28163,27140,"Jackson, MS",Metropolitan Statistical Area,Outlying
+47023,27180,"Jackson, TN",Metropolitan Statistical Area,Outlying
+47033,27180,"Jackson, TN",Metropolitan Statistical Area,Outlying
+47053,27180,"Jackson, TN",Metropolitan Statistical Area,Outlying
+47113,27180,"Jackson, TN",Metropolitan Statistical Area,Central
+16081,27220,"Jackson, WY-ID",Micropolitan Statistical Area,Outlying
+56039,27220,"Jackson, WY-ID",Micropolitan Statistical Area,Central
+12003,27260,"Jacksonville, FL",Metropolitan Statistical Area,Outlying
+12019,27260,"Jacksonville, FL",Metropolitan Statistical Area,Central
+12031,27260,"Jacksonville, FL",Metropolitan Statistical Area,Central
+12089,27260,"Jacksonville, FL",Metropolitan Statistical Area,Outlying
+12109,27260,"Jacksonville, FL",Metropolitan Statistical Area,Central
+17137,27300,"Jacksonville, IL",Micropolitan Statistical Area,Central
+17171,27300,"Jacksonville, IL",Micropolitan Statistical Area,Outlying
+37133,27340,"Jacksonville, NC",Metropolitan Statistical Area,Central
+48073,27380,"Jacksonville, TX",Micropolitan Statistical Area,Central
+38093,27420,"Jamestown, ND",Micropolitan Statistical Area,Central
+36013,27460,"Jamestown-Dunkirk, NY",Micropolitan Statistical Area,Central
+55105,27500,"Janesville-Beloit, WI",Metropolitan Statistical Area,Central
+18037,27540,"Jasper, IN",Micropolitan Statistical Area,Central
+13157,27600,"Jefferson, GA",Micropolitan Statistical Area,Central
+29027,27620,"Jefferson City, MO",Metropolitan Statistical Area,Outlying
+29051,27620,"Jefferson City, MO",Metropolitan Statistical Area,Central
+29135,27620,"Jefferson City, MO",Metropolitan Statistical Area,Outlying
+29151,27620,"Jefferson City, MO",Metropolitan Statistical Area,Outlying
+13305,27700,"Jesup, GA",Micropolitan Statistical Area,Central
+47019,27740,"Johnson City, TN",Metropolitan Statistical Area,Central
+47171,27740,"Johnson City, TN",Metropolitan Statistical Area,Outlying
+47179,27740,"Johnson City, TN",Metropolitan Statistical Area,Central
+42021,27780,"Johnstown, PA",Metropolitan Statistical Area,Central
+05031,27860,"Jonesboro, AR",Metropolitan Statistical Area,Central
+05111,27860,"Jonesboro, AR",Metropolitan Statistical Area,Outlying
+20021,27900,"Joplin, MO-KS",Metropolitan Statistical Area,Outlying
+29097,27900,"Joplin, MO-KS",Metropolitan Statistical Area,Central
+29145,27900,"Joplin, MO-KS",Metropolitan Statistical Area,Outlying
+02110,27940,"Juneau, AK",Micropolitan Statistical Area,Central
+15005,27980,"Kahului-Wailuku, HI",Metropolitan Statistical Area,Outlying
+15009,27980,"Kahului-Wailuku, HI",Metropolitan Statistical Area,Central
+26077,28020,"Kalamazoo-Portage, MI",Metropolitan Statistical Area,Central
+30029,28060,"Kalispell, MT",Micropolitan Statistical Area,Central
+17091,28100,"Kankakee, IL",Metropolitan Statistical Area,Central
+20091,28140,"Kansas City, MO-KS",Metropolitan Statistical Area,Central
+20103,28140,"Kansas City, MO-KS",Metropolitan Statistical Area,Outlying
+20107,28140,"Kansas City, MO-KS",Metropolitan Statistical Area,Outlying
+20121,28140,"Kansas City, MO-KS",Metropolitan Statistical Area,Outlying
+20209,28140,"Kansas City, MO-KS",Metropolitan Statistical Area,Central
+29013,28140,"Kansas City, MO-KS",Metropolitan Statistical Area,Outlying
+29025,28140,"Kansas City, MO-KS",Metropolitan Statistical Area,Outlying
+29037,28140,"Kansas City, MO-KS",Metropolitan Statistical Area,Central
+29047,28140,"Kansas City, MO-KS",Metropolitan Statistical Area,Central
+29049,28140,"Kansas City, MO-KS",Metropolitan Statistical Area,Outlying
+29095,28140,"Kansas City, MO-KS",Metropolitan Statistical Area,Central
+29107,28140,"Kansas City, MO-KS",Metropolitan Statistical Area,Outlying
+29165,28140,"Kansas City, MO-KS",Metropolitan Statistical Area,Central
+29177,28140,"Kansas City, MO-KS",Metropolitan Statistical Area,Outlying
+15007,28180,"Kapaa, HI",Micropolitan Statistical Area,Central
+31019,28260,"Kearney, NE",Micropolitan Statistical Area,Central
+31099,28260,"Kearney, NE",Micropolitan Statistical Area,Outlying
+33005,28300,"Keene, NH",Micropolitan Statistical Area,Central
+18113,28340,"Kendallville, IN",Micropolitan Statistical Area,Central
+29069,28380,"Kennett, MO",Micropolitan Statistical Area,Central
+53005,28420,"Kennewick-Richland, WA",Metropolitan Statistical Area,Central
+53021,28420,"Kennewick-Richland, WA",Metropolitan Statistical Area,Central
+55059,28450,"Kenosha, WI",Metropolitan Statistical Area,Central
+48265,28500,"Kerrville, TX",Micropolitan Statistical Area,Central
+02130,28540,"Ketchikan, AK",Micropolitan Statistical Area,Central
+12087,28580,"Key West-Key Largo, FL",Micropolitan Statistical Area,Central
+37055,28620,"Kill Devil Hills, NC",Micropolitan Statistical Area,Central
+48027,28660,"Killeen-Temple, TX",Metropolitan Statistical Area,Central
+48099,28660,"Killeen-Temple, TX",Metropolitan Statistical Area,Central
+48281,28660,"Killeen-Temple, TX",Metropolitan Statistical Area,Outlying
+13039,28680,"Kingsland, GA",Micropolitan Statistical Area,Central
+47073,28700,"Kingsport-Bristol, TN-VA",Metropolitan Statistical Area,Central
+47163,28700,"Kingsport-Bristol, TN-VA",Metropolitan Statistical Area,Central
+51169,28700,"Kingsport-Bristol, TN-VA",Metropolitan Statistical Area,Outlying
+51191,28700,"Kingsport-Bristol, TN-VA",Metropolitan Statistical Area,Outlying
+51520,28700,"Kingsport-Bristol, TN-VA",Metropolitan Statistical Area,Outlying
+36111,28740,"Kingston, NY",Metropolitan Statistical Area,Central
+48273,28780,"Kingsville, TX",Micropolitan Statistical Area,Central
+37107,28820,"Kinston, NC",Micropolitan Statistical Area,Central
+29001,28860,"Kirksville, MO",Micropolitan Statistical Area,Central
+29197,28860,"Kirksville, MO",Micropolitan Statistical Area,Outlying
+36027,28880,"Kiryas Joel-Poughkeepsie-Newburgh, NY",Metropolitan Statistical Area,Central
+36071,28880,"Kiryas Joel-Poughkeepsie-Newburgh, NY",Metropolitan Statistical Area,Central
+41035,28900,"Klamath Falls, OR",Micropolitan Statistical Area,Central
+47001,28940,"Knoxville, TN",Metropolitan Statistical Area,Central
+47009,28940,"Knoxville, TN",Metropolitan Statistical Area,Central
+47013,28940,"Knoxville, TN",Metropolitan Statistical Area,Outlying
+47057,28940,"Knoxville, TN",Metropolitan Statistical Area,Outlying
+47093,28940,"Knoxville, TN",Metropolitan Statistical Area,Central
+47105,28940,"Knoxville, TN",Metropolitan Statistical Area,Central
+47129,28940,"Knoxville, TN",Metropolitan Statistical Area,Outlying
+47145,28940,"Knoxville, TN",Metropolitan Statistical Area,Outlying
+47173,28940,"Knoxville, TN",Metropolitan Statistical Area,Outlying
+18067,29020,"Kokomo, IN",Metropolitan Statistical Area,Central
+33001,29060,"Laconia, NH",Micropolitan Statistical Area,Central
+27055,29100,"La Crosse-Onalaska, WI-MN",Metropolitan Statistical Area,Central
+55063,29100,"La Crosse-Onalaska, WI-MN",Metropolitan Statistical Area,Central
+55123,29100,"La Crosse-Onalaska, WI-MN",Metropolitan Statistical Area,Outlying
+22001,29180,"Lafayette, LA",Metropolitan Statistical Area,Outlying
+22055,29180,"Lafayette, LA",Metropolitan Statistical Area,Central
+22099,29180,"Lafayette, LA",Metropolitan Statistical Area,Outlying
+22113,29180,"Lafayette, LA",Metropolitan Statistical Area,Outlying
+18007,29200,"Lafayette-West Lafayette, IN",Metropolitan Statistical Area,Outlying
+18015,29200,"Lafayette-West Lafayette, IN",Metropolitan Statistical Area,Outlying
+18157,29200,"Lafayette-West Lafayette, IN",Metropolitan Statistical Area,Central
+18171,29200,"Lafayette-West Lafayette, IN",Metropolitan Statistical Area,Outlying
+41061,29260,"La Grande, OR",Micropolitan Statistical Area,Central
+01017,29300,"LaGrange, GA-AL",Micropolitan Statistical Area,Outlying
+13285,29300,"LaGrange, GA-AL",Micropolitan Statistical Area,Central
+22019,29340,"Lake Charles, LA",Metropolitan Statistical Area,Central
+22023,29340,"Lake Charles, LA",Metropolitan Statistical Area,Outlying
+22053,29340,"Lake Charles, LA",Metropolitan Statistical Area,Outlying
+12023,29380,"Lake City, FL",Micropolitan Statistical Area,Central
+04015,29420,"Lake Havasu City-Kingman, AZ",Metropolitan Statistical Area,Central
+12105,29460,"Lakeland-Winter Haven, FL",Metropolitan Statistical Area,Central
+51137,29470,"Lake of the Woods, VA",Micropolitan Statistical Area,Central
+42071,29540,"Lancaster, PA",Metropolitan Statistical Area,Central
+26037,29620,"Lansing-East Lansing, MI",Metropolitan Statistical Area,Central
+26045,29620,"Lansing-East Lansing, MI",Metropolitan Statistical Area,Central
+26065,29620,"Lansing-East Lansing, MI",Metropolitan Statistical Area,Central
+56001,29660,"Laramie, WY",Micropolitan Statistical Area,Central
+48479,29700,"Laredo, TX",Metropolitan Statistical Area,Central
+72081,29720,"Lares, PR",Micropolitan Statistical Area,Central
+35013,29740,"Las Cruces, NM",Metropolitan Statistical Area,Central
+35033,29780,"Las Vegas, NM",Micropolitan Statistical Area,Outlying
+35047,29780,"Las Vegas, NM",Micropolitan Statistical Area,Central
+32003,29820,"Las Vegas-Henderson-North Las Vegas, NV",Metropolitan Statistical Area,Central
+28061,29860,"Laurel, MS",Micropolitan Statistical Area,Outlying
+28067,29860,"Laurel, MS",Micropolitan Statistical Area,Central
+37165,29900,"Laurinburg, NC",Micropolitan Statistical Area,Central
+20045,29940,"Lawrence, KS",Metropolitan Statistical Area,Central
+47099,29980,"Lawrenceburg, TN",Micropolitan Statistical Area,Central
+40031,30020,"Lawton, OK",Metropolitan Statistical Area,Central
+40033,30020,"Lawton, OK",Metropolitan Statistical Area,Outlying
+29105,30060,"Lebanon, MO",Micropolitan Statistical Area,Central
+42075,30140,"Lebanon, PA",Metropolitan Statistical Area,Central
+33009,30150,"Lebanon-Claremont, NH-VT",Micropolitan Statistical Area,Central
+33019,30150,"Lebanon-Claremont, NH-VT",Micropolitan Statistical Area,Outlying
+50017,30150,"Lebanon-Claremont, NH-VT",Micropolitan Statistical Area,Outlying
+50027,30150,"Lebanon-Claremont, NH-VT",Micropolitan Statistical Area,Central
+19149,30180,"Le Mars, IA",Micropolitan Statistical Area,Central
+42119,30260,"Lewisburg, PA",Micropolitan Statistical Area,Central
+47117,30280,"Lewisburg, TN",Micropolitan Statistical Area,Central
+16069,30300,"Lewiston, ID-WA",Metropolitan Statistical Area,Central
+53003,30300,"Lewiston, ID-WA",Metropolitan Statistical Area,Central
+23001,30340,"Lewiston-Auburn, ME",Metropolitan Statistical Area,Central
+42087,30380,"Lewistown, PA",Micropolitan Statistical Area,Central
+31047,30420,"Lexington, NE",Micropolitan Statistical Area,Central
+31073,30420,"Lexington, NE",Micropolitan Statistical Area,Outlying
+21017,30460,"Lexington-Fayette, KY",Metropolitan Statistical Area,Outlying
+21049,30460,"Lexington-Fayette, KY",Metropolitan Statistical Area,Outlying
+21067,30460,"Lexington-Fayette, KY",Metropolitan Statistical Area,Central
+21113,30460,"Lexington-Fayette, KY",Metropolitan Statistical Area,Outlying
+21209,30460,"Lexington-Fayette, KY",Metropolitan Statistical Area,Outlying
+21239,30460,"Lexington-Fayette, KY",Metropolitan Statistical Area,Outlying
+24009,30500,"Lexington Park, MD",Metropolitan Statistical Area,Central
+24037,30500,"Lexington Park, MD",Metropolitan Statistical Area,Central
+20175,30580,"Liberal, KS",Micropolitan Statistical Area,Central
+39003,30620,"Lima, OH",Metropolitan Statistical Area,Central
+17107,30660,"Lincoln, IL",Micropolitan Statistical Area,Central
+31109,30700,"Lincoln, NE",Metropolitan Statistical Area,Central
+31159,30700,"Lincoln, NE",Metropolitan Statistical Area,Outlying
+05045,30780,"Little Rock-North Little Rock-Conway, AR",Metropolitan Statistical Area,Outlying
+05053,30780,"Little Rock-North Little Rock-Conway, AR",Metropolitan Statistical Area,Outlying
+05085,30780,"Little Rock-North Little Rock-Conway, AR",Metropolitan Statistical Area,Central
+05105,30780,"Little Rock-North Little Rock-Conway, AR",Metropolitan Statistical Area,Outlying
+05119,30780,"Little Rock-North Little Rock-Conway, AR",Metropolitan Statistical Area,Central
+05125,30780,"Little Rock-North Little Rock-Conway, AR",Metropolitan Statistical Area,Central
+42035,30820,"Lock Haven, PA",Micropolitan Statistical Area,Central
+16041,30860,"Logan, UT-ID",Metropolitan Statistical Area,Outlying
+49005,30860,"Logan, UT-ID",Metropolitan Statistical Area,Central
+18017,30900,"Logansport, IN",Micropolitan Statistical Area,Central
+48183,30980,"Longview, TX",Metropolitan Statistical Area,Central
+48203,30980,"Longview, TX",Metropolitan Statistical Area,Outlying
+48401,30980,"Longview, TX",Metropolitan Statistical Area,Outlying
+48459,30980,"Longview, TX",Metropolitan Statistical Area,Outlying
+53015,31020,"Longview-Kelso, WA",Metropolitan Statistical Area,Central
+35028,31060,"Los Alamos, NM",Micropolitan Statistical Area,Central
+06059,31080,"Los Angeles-Long Beach-Anaheim, CA",Metropolitan Statistical Area,Central
+06037,31080,"Los Angeles-Long Beach-Anaheim, CA",Metropolitan Statistical Area,Central
+18019,31140,"Louisville/Jefferson County, KY-IN",Metropolitan Statistical Area,Central
+18043,31140,"Louisville/Jefferson County, KY-IN",Metropolitan Statistical Area,Central
+18061,31140,"Louisville/Jefferson County, KY-IN",Metropolitan Statistical Area,Outlying
+18175,31140,"Louisville/Jefferson County, KY-IN",Metropolitan Statistical Area,Outlying
+21029,31140,"Louisville/Jefferson County, KY-IN",Metropolitan Statistical Area,Central
+21103,31140,"Louisville/Jefferson County, KY-IN",Metropolitan Statistical Area,Outlying
+21111,31140,"Louisville/Jefferson County, KY-IN",Metropolitan Statistical Area,Central
+21163,31140,"Louisville/Jefferson County, KY-IN",Metropolitan Statistical Area,Outlying
+21179,31140,"Louisville/Jefferson County, KY-IN",Metropolitan Statistical Area,Outlying
+21185,31140,"Louisville/Jefferson County, KY-IN",Metropolitan Statistical Area,Central
+21211,31140,"Louisville/Jefferson County, KY-IN",Metropolitan Statistical Area,Outlying
+21215,31140,"Louisville/Jefferson County, KY-IN",Metropolitan Statistical Area,Outlying
+48079,31180,"Lubbock, TX",Metropolitan Statistical Area,Outlying
+48107,31180,"Lubbock, TX",Metropolitan Statistical Area,Outlying
+48169,31180,"Lubbock, TX",Metropolitan Statistical Area,Outlying
+48219,31180,"Lubbock, TX",Metropolitan Statistical Area,Outlying
+48303,31180,"Lubbock, TX",Metropolitan Statistical Area,Central
+48305,31180,"Lubbock, TX",Metropolitan Statistical Area,Outlying
+26105,31220,"Ludington, MI",Micropolitan Statistical Area,Central
+48005,31260,"Lufkin, TX",Micropolitan Statistical Area,Central
+37155,31300,"Lumberton, NC",Micropolitan Statistical Area,Central
+51009,31340,"Lynchburg, VA",Metropolitan Statistical Area,Central
+51011,31340,"Lynchburg, VA",Metropolitan Statistical Area,Outlying
+51019,31340,"Lynchburg, VA",Metropolitan Statistical Area,Central
+51031,31340,"Lynchburg, VA",Metropolitan Statistical Area,Central
+51680,31340,"Lynchburg, VA",Metropolitan Statistical Area,Central
+17109,31380,"Macomb, IL",Micropolitan Statistical Area,Central
+13021,31420,"Macon-Bibb County, GA",Metropolitan Statistical Area,Central
+13079,31420,"Macon-Bibb County, GA",Metropolitan Statistical Area,Outlying
+13169,31420,"Macon-Bibb County, GA",Metropolitan Statistical Area,Outlying
+13207,31420,"Macon-Bibb County, GA",Metropolitan Statistical Area,Outlying
+13289,31420,"Macon-Bibb County, GA",Metropolitan Statistical Area,Outlying
+18077,31500,"Madison, IN",Micropolitan Statistical Area,Central
+55021,31540,"Madison, WI",Metropolitan Statistical Area,Outlying
+55025,31540,"Madison, WI",Metropolitan Statistical Area,Central
+55045,31540,"Madison, WI",Metropolitan Statistical Area,Outlying
+55049,31540,"Madison, WI",Metropolitan Statistical Area,Outlying
+21107,31580,"Madisonville, KY",Micropolitan Statistical Area,Central
+05027,31620,"Magnolia, AR",Micropolitan Statistical Area,Central
+05059,31680,"Malvern, AR",Micropolitan Statistical Area,Central
+33011,31700,"Manchester-Nashua, NH",Metropolitan Statistical Area,Central
+20061,31740,"Manhattan, KS",Metropolitan Statistical Area,Outlying
+20149,31740,"Manhattan, KS",Metropolitan Statistical Area,Outlying
+20161,31740,"Manhattan, KS",Metropolitan Statistical Area,Central
+55071,31820,"Manitowoc, WI",Micropolitan Statistical Area,Central
+27013,31860,"Mankato, MN",Metropolitan Statistical Area,Central
+27103,31860,"Mankato, MN",Metropolitan Statistical Area,Central
+39139,31900,"Mansfield, OH",Metropolitan Statistical Area,Central
+39167,31930,"Marietta, OH",Micropolitan Statistical Area,Central
+26109,31940,"Marinette, WI-MI",Micropolitan Statistical Area,Central
+55075,31940,"Marinette, WI-MI",Micropolitan Statistical Area,Central
+18053,31980,"Marion, IN",Micropolitan Statistical Area,Central
+37111,32000,"Marion, NC",Micropolitan Statistical Area,Central
+39101,32020,"Marion, OH",Micropolitan Statistical Area,Central
+17199,32060,"Marion-Herrin, IL",Micropolitan Statistical Area,Central
+26103,32100,"Marquette, MI",Micropolitan Statistical Area,Central
+27083,32140,"Marshall, MN",Micropolitan Statistical Area,Central
+29195,32180,"Marshall, MO",Micropolitan Statistical Area,Central
+19127,32260,"Marshalltown, IA",Micropolitan Statistical Area,Central
+47183,32280,"Martin, TN",Micropolitan Statistical Area,Central
+51089,32300,"Martinsville, VA",Micropolitan Statistical Area,Central
+51690,32300,"Martinsville, VA",Micropolitan Statistical Area,Central
+29147,32340,"Maryville, MO",Micropolitan Statistical Area,Central
+19033,32380,"Mason City, IA",Micropolitan Statistical Area,Central
+19195,32380,"Mason City, IA",Micropolitan Statistical Area,Outlying
+36089,32390,"Massena-Ogdensburg, NY",Micropolitan Statistical Area,Central
+72023,32420,"Mayagüez, PR",Metropolitan Statistical Area,Central
+72067,32420,"Mayagüez, PR",Metropolitan Statistical Area,Outlying
+72079,32420,"Mayagüez, PR",Metropolitan Statistical Area,Central
+72097,32420,"Mayagüez, PR",Metropolitan Statistical Area,Outlying
+72121,32420,"Mayagüez, PR",Metropolitan Statistical Area,Central
+72125,32420,"Mayagüez, PR",Metropolitan Statistical Area,Central
+21083,32460,"Mayfield, KY",Micropolitan Statistical Area,Central
+40121,32540,"McAlester, OK",Micropolitan Statistical Area,Central
+48215,32580,"McAllen-Edinburg-Mission, TX",Metropolitan Statistical Area,Central
+28113,32620,"McComb, MS",Micropolitan Statistical Area,Central
+28147,32620,"McComb, MS",Micropolitan Statistical Area,Outlying
+47177,32660,"McMinnville, TN",Micropolitan Statistical Area,Central
+20113,32700,"McPherson, KS",Micropolitan Statistical Area,Central
+42039,32740,"Meadville, PA",Micropolitan Statistical Area,Central
+41029,32780,"Medford, OR",Metropolitan Statistical Area,Central
+05035,32820,"Memphis, TN-MS-AR",Metropolitan Statistical Area,Central
+28009,32820,"Memphis, TN-MS-AR",Metropolitan Statistical Area,Outlying
+28033,32820,"Memphis, TN-MS-AR",Metropolitan Statistical Area,Central
+28093,32820,"Memphis, TN-MS-AR",Metropolitan Statistical Area,Outlying
+28137,32820,"Memphis, TN-MS-AR",Metropolitan Statistical Area,Outlying
+28143,32820,"Memphis, TN-MS-AR",Metropolitan Statistical Area,Outlying
+47047,32820,"Memphis, TN-MS-AR",Metropolitan Statistical Area,Outlying
+47157,32820,"Memphis, TN-MS-AR",Metropolitan Statistical Area,Central
+47167,32820,"Memphis, TN-MS-AR",Metropolitan Statistical Area,Outlying
+55033,32860,"Menomonie, WI",Micropolitan Statistical Area,Central
+06047,32900,"Merced, CA",Metropolitan Statistical Area,Central
+28023,32940,"Meridian, MS",Micropolitan Statistical Area,Outlying
+28075,32940,"Meridian, MS",Micropolitan Statistical Area,Central
+29007,33020,"Mexico, MO",Micropolitan Statistical Area,Central
+40115,33060,"Miami, OK",Micropolitan Statistical Area,Central
+12011,33100,"Miami-Fort Lauderdale-West Palm Beach, FL",Metropolitan Statistical Area,Central
+12086,33100,"Miami-Fort Lauderdale-West Palm Beach, FL",Metropolitan Statistical Area,Central
+12099,33100,"Miami-Fort Lauderdale-West Palm Beach, FL",Metropolitan Statistical Area,Central
+18091,33140,"Michigan City-La Porte, IN",Metropolitan Statistical Area,Central
+21013,33180,"Middlesborough, KY",Micropolitan Statistical Area,Central
+26111,33220,"Midland, MI",Metropolitan Statistical Area,Central
+48317,33260,"Midland, TX",Metropolitan Statistical Area,Outlying
+48329,33260,"Midland, TX",Metropolitan Statistical Area,Central
+13009,33300,"Milledgeville, GA",Micropolitan Statistical Area,Central
+55079,33340,"Milwaukee-Waukesha, WI",Metropolitan Statistical Area,Central
+55089,33340,"Milwaukee-Waukesha, WI",Metropolitan Statistical Area,Outlying
+55131,33340,"Milwaukee-Waukesha, WI",Metropolitan Statistical Area,Outlying
+55133,33340,"Milwaukee-Waukesha, WI",Metropolitan Statistical Area,Central
+22119,33380,"Minden, LA",Micropolitan Statistical Area,Central
+48363,33420,"Mineral Wells, TX",Micropolitan Statistical Area,Central
+27003,33460,"Minneapolis-St. Paul-Bloomington, MN-WI",Metropolitan Statistical Area,Central
+27019,33460,"Minneapolis-St. Paul-Bloomington, MN-WI",Metropolitan Statistical Area,Central
+27025,33460,"Minneapolis-St. Paul-Bloomington, MN-WI",Metropolitan Statistical Area,Outlying
+27037,33460,"Minneapolis-St. Paul-Bloomington, MN-WI",Metropolitan Statistical Area,Central
+27053,33460,"Minneapolis-St. Paul-Bloomington, MN-WI",Metropolitan Statistical Area,Central
+27059,33460,"Minneapolis-St. Paul-Bloomington, MN-WI",Metropolitan Statistical Area,Outlying
+27079,33460,"Minneapolis-St. Paul-Bloomington, MN-WI",Metropolitan Statistical Area,Outlying
+27095,33460,"Minneapolis-St. Paul-Bloomington, MN-WI",Metropolitan Statistical Area,Outlying
+27123,33460,"Minneapolis-St. Paul-Bloomington, MN-WI",Metropolitan Statistical Area,Central
+27139,33460,"Minneapolis-St. Paul-Bloomington, MN-WI",Metropolitan Statistical Area,Central
+27141,33460,"Minneapolis-St. Paul-Bloomington, MN-WI",Metropolitan Statistical Area,Central
+27163,33460,"Minneapolis-St. Paul-Bloomington, MN-WI",Metropolitan Statistical Area,Central
+27171,33460,"Minneapolis-St. Paul-Bloomington, MN-WI",Metropolitan Statistical Area,Central
+55093,33460,"Minneapolis-St. Paul-Bloomington, MN-WI",Metropolitan Statistical Area,Outlying
+55109,33460,"Minneapolis-St. Paul-Bloomington, MN-WI",Metropolitan Statistical Area,Outlying
+38049,33500,"Minot, ND",Metropolitan Statistical Area,Outlying
+38075,33500,"Minot, ND",Metropolitan Statistical Area,Outlying
+38101,33500,"Minot, ND",Metropolitan Statistical Area,Central
+30061,33540,"Missoula, MT",Metropolitan Statistical Area,Outlying
+30063,33540,"Missoula, MT",Metropolitan Statistical Area,Central
+46035,33580,"Mitchell, SD",Micropolitan Statistical Area,Central
+46061,33580,"Mitchell, SD",Micropolitan Statistical Area,Outlying
+46111,33580,"Mitchell, SD",Micropolitan Statistical Area,Outlying
+29175,33620,"Moberly, MO",Micropolitan Statistical Area,Central
+01097,33660,"Mobile, AL",Metropolitan Statistical Area,Central
+06099,33700,"Modesto, CA",Metropolitan Statistical Area,Central
+22067,33740,"Monroe, LA",Metropolitan Statistical Area,Outlying
+22073,33740,"Monroe, LA",Metropolitan Statistical Area,Central
+22083,33740,"Monroe, LA",Metropolitan Statistical Area,Outlying
+22111,33740,"Monroe, LA",Metropolitan Statistical Area,Outlying
+26115,33780,"Monroe, MI",Metropolitan Statistical Area,Central
+01001,33860,"Montgomery, AL",Metropolitan Statistical Area,Central
+01051,33860,"Montgomery, AL",Metropolitan Statistical Area,Central
+01085,33860,"Montgomery, AL",Metropolitan Statistical Area,Outlying
+01101,33860,"Montgomery, AL",Metropolitan Statistical Area,Central
+18181,33900,"Monticello, IN",Micropolitan Statistical Area,Central
+36105,33910,"Monticello, NY",Micropolitan Statistical Area,Central
+08085,33940,"Montrose, CO",Micropolitan Statistical Area,Central
+37031,33980,"Morehead City, NC",Micropolitan Statistical Area,Central
+22101,34020,"Morgan City, LA",Micropolitan Statistical Area,Central
+54061,34060,"Morgantown, WV",Metropolitan Statistical Area,Central
+54077,34060,"Morgantown, WV",Metropolitan Statistical Area,Outlying
+47063,34100,"Morristown, TN",Metropolitan Statistical Area,Central
+47089,34100,"Morristown, TN",Metropolitan Statistical Area,Central
+16057,34140,"Moscow, ID",Micropolitan Statistical Area,Central
+53025,34180,"Moses Lake, WA",Micropolitan Statistical Area,Central
+13071,34220,"Moultrie, GA",Micropolitan Statistical Area,Central
+05005,34260,"Mountain Home, AR",Micropolitan Statistical Area,Central
+16039,34300,"Mountain Home, ID",Micropolitan Statistical Area,Central
+37171,34340,"Mount Airy, NC",Micropolitan Statistical Area,Central
+26073,34380,"Mount Pleasant, MI",Micropolitan Statistical Area,Central
+48063,34420,"Mount Pleasant, TX",Micropolitan Statistical Area,Outlying
+48343,34420,"Mount Pleasant, TX",Micropolitan Statistical Area,Outlying
+48449,34420,"Mount Pleasant, TX",Micropolitan Statistical Area,Central
+21011,34460,"Mount Sterling, KY",Micropolitan Statistical Area,Outlying
+21165,34460,"Mount Sterling, KY",Micropolitan Statistical Area,Outlying
+21173,34460,"Mount Sterling, KY",Micropolitan Statistical Area,Central
+17081,34500,"Mount Vernon, IL",Micropolitan Statistical Area,Central
+39083,34540,"Mount Vernon, OH",Micropolitan Statistical Area,Central
+53057,34580,"Mount Vernon-Anacortes, WA",Metropolitan Statistical Area,Central
+18035,34620,"Muncie, IN",Metropolitan Statistical Area,Central
+21035,34660,"Murray, KY",Micropolitan Statistical Area,Central
+45043,34680,"Murrells Inlet, SC",Micropolitan Statistical Area,Central
+19139,34700,"Muscatine, IA",Micropolitan Statistical Area,Central
+26121,34740,"Muskegon-Norton Shores, MI",Metropolitan Statistical Area,Central
+40101,34780,"Muskogee, OK",Micropolitan Statistical Area,Central
+45051,34820,"Myrtle Beach-Conway-North Myrtle Beach, SC",Metropolitan Statistical Area,Central
+48347,34860,"Nacogdoches, TX",Micropolitan Statistical Area,Central
+25019,34880,"Nantucket, MA",Micropolitan Statistical Area,Central
+06055,34900,"Napa, CA",Metropolitan Statistical Area,Central
+12021,34940,"Naples-Marco Island, FL",Metropolitan Statistical Area,Central
+47015,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN",Metropolitan Statistical Area,Outlying
+47021,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN",Metropolitan Statistical Area,Outlying
+47037,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN",Metropolitan Statistical Area,Central
+47043,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN",Metropolitan Statistical Area,Outlying
+47081,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN",Metropolitan Statistical Area,Outlying
+47111,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN",Metropolitan Statistical Area,Outlying
+47119,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN",Metropolitan Statistical Area,Outlying
+47147,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN",Metropolitan Statistical Area,Outlying
+47149,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN",Metropolitan Statistical Area,Outlying
+47159,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN",Metropolitan Statistical Area,Outlying
+47165,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN",Metropolitan Statistical Area,Central
+47169,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN",Metropolitan Statistical Area,Outlying
+47187,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN",Metropolitan Statistical Area,Central
+47189,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN",Metropolitan Statistical Area,Central
+22029,35020,"Natchez, MS-LA",Micropolitan Statistical Area,Central
+28001,35020,"Natchez, MS-LA",Micropolitan Statistical Area,Central
+28063,35020,"Natchez, MS-LA",Micropolitan Statistical Area,Outlying
+22069,35060,"Natchitoches, LA",Micropolitan Statistical Area,Central
+37049,35100,"New Bern, NC",Micropolitan Statistical Area,Central
+37103,35100,"New Bern, NC",Micropolitan Statistical Area,Outlying
+37137,35100,"New Bern, NC",Micropolitan Statistical Area,Outlying
+45071,35140,"Newberry, SC",Micropolitan Statistical Area,Central
+18065,35220,"New Castle, IN",Micropolitan Statistical Area,Central
+09170,35300,"New Haven, CT",Metropolitan Statistical Area,Central
+22045,35340,"New Iberia, LA",Micropolitan Statistical Area,Central
+22051,35380,"New Orleans-Metairie, LA",Metropolitan Statistical Area,Central
+22071,35380,"New Orleans-Metairie, LA",Metropolitan Statistical Area,Central
+22075,35380,"New Orleans-Metairie, LA",Metropolitan Statistical Area,Central
+22087,35380,"New Orleans-Metairie, LA",Metropolitan Statistical Area,Central
+22089,35380,"New Orleans-Metairie, LA",Metropolitan Statistical Area,Central
+22093,35380,"New Orleans-Metairie, LA",Metropolitan Statistical Area,Central
+22095,35380,"New Orleans-Metairie, LA",Metropolitan Statistical Area,Central
+39157,35420,"New Philadelphia-Dover, OH",Micropolitan Statistical Area,Central
+41041,35440,"Newport, OR",Micropolitan Statistical Area,Central
+47029,35460,"Newport, TN",Micropolitan Statistical Area,Central
+27015,35580,"New Ulm, MN",Micropolitan Statistical Area,Central
+34023,35620,"New York-Newark-Jersey City, NY-NJ",Metropolitan Statistical Area,Central
+34025,35620,"New York-Newark-Jersey City, NY-NJ",Metropolitan Statistical Area,Central
+34029,35620,"New York-Newark-Jersey City, NY-NJ",Metropolitan Statistical Area,Central
+34035,35620,"New York-Newark-Jersey City, NY-NJ",Metropolitan Statistical Area,Central
+36059,35620,"New York-Newark-Jersey City, NY-NJ",Metropolitan Statistical Area,Central
+36103,35620,"New York-Newark-Jersey City, NY-NJ",Metropolitan Statistical Area,Central
+34013,35620,"New York-Newark-Jersey City, NY-NJ",Metropolitan Statistical Area,Central
+34019,35620,"New York-Newark-Jersey City, NY-NJ",Metropolitan Statistical Area,Outlying
+34027,35620,"New York-Newark-Jersey City, NY-NJ",Metropolitan Statistical Area,Central
+34037,35620,"New York-Newark-Jersey City, NY-NJ",Metropolitan Statistical Area,Outlying
+34039,35620,"New York-Newark-Jersey City, NY-NJ",Metropolitan Statistical Area,Central
+34003,35620,"New York-Newark-Jersey City, NY-NJ",Metropolitan Statistical Area,Central
+34017,35620,"New York-Newark-Jersey City, NY-NJ",Metropolitan Statistical Area,Central
+34031,35620,"New York-Newark-Jersey City, NY-NJ",Metropolitan Statistical Area,Central
+36005,35620,"New York-Newark-Jersey City, NY-NJ",Metropolitan Statistical Area,Central
+36047,35620,"New York-Newark-Jersey City, NY-NJ",Metropolitan Statistical Area,Central
+36061,35620,"New York-Newark-Jersey City, NY-NJ",Metropolitan Statistical Area,Central
+36079,35620,"New York-Newark-Jersey City, NY-NJ",Metropolitan Statistical Area,Central
+36081,35620,"New York-Newark-Jersey City, NY-NJ",Metropolitan Statistical Area,Central
+36085,35620,"New York-Newark-Jersey City, NY-NJ",Metropolitan Statistical Area,Central
+36087,35620,"New York-Newark-Jersey City, NY-NJ",Metropolitan Statistical Area,Central
+36119,35620,"New York-Newark-Jersey City, NY-NJ",Metropolitan Statistical Area,Central
+26021,35660,"Niles, MI",Metropolitan Statistical Area,Central
+04023,35700,"Nogales, AZ",Micropolitan Statistical Area,Central
+31119,35740,"Norfolk, NE",Micropolitan Statistical Area,Central
+31139,35740,"Norfolk, NE",Micropolitan Statistical Area,Outlying
+31167,35740,"Norfolk, NE",Micropolitan Statistical Area,Outlying
+31111,35820,"North Platte, NE",Micropolitan Statistical Area,Central
+31113,35820,"North Platte, NE",Micropolitan Statistical Area,Outlying
+12081,35840,"North Port-Bradenton-Sarasota, FL",Metropolitan Statistical Area,Central
+12115,35840,"North Port-Bradenton-Sarasota, FL",Metropolitan Statistical Area,Central
+37193,35900,"North Wilkesboro, NC",Micropolitan Statistical Area,Central
+39077,35940,"Norwalk, OH",Micropolitan Statistical Area,Central
+09180,35980,"Norwich-New London-Willimantic, CT",Metropolitan Statistical Area,Central
+53029,36020,"Oak Harbor, WA",Micropolitan Statistical Area,Central
+12083,36100,"Ocala, FL",Metropolitan Statistical Area,Central
+24047,36180,"Ocean Pines, MD",Micropolitan Statistical Area,Central
+48135,36220,"Odessa, TX",Metropolitan Statistical Area,Central
+49011,36260,"Ogden, UT",Metropolitan Statistical Area,Central
+49029,36260,"Ogden, UT",Metropolitan Statistical Area,Outlying
+49057,36260,"Ogden, UT",Metropolitan Statistical Area,Central
+42121,36340,"Oil City, PA",Micropolitan Statistical Area,Central
+12093,36380,"Okeechobee, FL",Micropolitan Statistical Area,Central
+40017,36420,"Oklahoma City, OK",Metropolitan Statistical Area,Central
+40027,36420,"Oklahoma City, OK",Metropolitan Statistical Area,Central
+40051,36420,"Oklahoma City, OK",Metropolitan Statistical Area,Outlying
+40081,36420,"Oklahoma City, OK",Metropolitan Statistical Area,Outlying
+40083,36420,"Oklahoma City, OK",Metropolitan Statistical Area,Central
+40087,36420,"Oklahoma City, OK",Metropolitan Statistical Area,Outlying
+40109,36420,"Oklahoma City, OK",Metropolitan Statistical Area,Central
+36009,36460,"Olean, NY",Micropolitan Statistical Area,Central
+53067,36500,"Olympia-Lacey-Tumwater, WA",Metropolitan Statistical Area,Central
+19085,36540,"Omaha, NE-IA",Metropolitan Statistical Area,Outlying
+19129,36540,"Omaha, NE-IA",Metropolitan Statistical Area,Outlying
+19155,36540,"Omaha, NE-IA",Metropolitan Statistical Area,Central
+31025,36540,"Omaha, NE-IA",Metropolitan Statistical Area,Outlying
+31055,36540,"Omaha, NE-IA",Metropolitan Statistical Area,Central
+31153,36540,"Omaha, NE-IA",Metropolitan Statistical Area,Central
+31155,36540,"Omaha, NE-IA",Metropolitan Statistical Area,Outlying
+31177,36540,"Omaha, NE-IA",Metropolitan Statistical Area,Outlying
+36077,36580,"Oneonta, NY",Micropolitan Statistical Area,Central
+16075,36620,"Ontario, OR-ID",Micropolitan Statistical Area,Central
+41045,36620,"Ontario, OR-ID",Micropolitan Statistical Area,Central
+22097,36660,"Opelousas, LA",Micropolitan Statistical Area,Central
+45075,36700,"Orangeburg, SC",Micropolitan Statistical Area,Central
+12069,36740,"Orlando-Kissimmee-Sanford, FL",Metropolitan Statistical Area,Outlying
+12095,36740,"Orlando-Kissimmee-Sanford, FL",Metropolitan Statistical Area,Central
+12097,36740,"Orlando-Kissimmee-Sanford, FL",Metropolitan Statistical Area,Outlying
+12117,36740,"Orlando-Kissimmee-Sanford, FL",Metropolitan Statistical Area,Central
+55139,36780,"Oshkosh-Neenah, WI",Metropolitan Statistical Area,Central
+19123,36820,"Oskaloosa, IA",Micropolitan Statistical Area,Central
+53001,36830,"Othello, WA",Micropolitan Statistical Area,Central
+17011,36837,"Ottawa, IL",Micropolitan Statistical Area,Central
+17099,36837,"Ottawa, IL",Micropolitan Statistical Area,Central
+17155,36837,"Ottawa, IL",Micropolitan Statistical Area,Outlying
+20059,36840,"Ottawa, KS",Micropolitan Statistical Area,Central
+19179,36900,"Ottumwa, IA",Micropolitan Statistical Area,Central
+27147,36940,"Owatonna, MN",Micropolitan Statistical Area,Central
+21059,36980,"Owensboro, KY",Metropolitan Statistical Area,Central
+21149,36980,"Owensboro, KY",Metropolitan Statistical Area,Outlying
+26155,37020,"Owosso, MI",Micropolitan Statistical Area,Central
+28071,37060,"Oxford, MS",Micropolitan Statistical Area,Central
+28161,37060,"Oxford, MS",Micropolitan Statistical Area,Outlying
+06111,37100,"Oxnard-Thousand Oaks-Ventura, CA",Metropolitan Statistical Area,Central
+01045,37120,"Ozark, AL",Micropolitan Statistical Area,Central
+17127,37140,"Paducah, KY-IL",Metropolitan Statistical Area,Outlying
+21007,37140,"Paducah, KY-IL",Metropolitan Statistical Area,Outlying
+21039,37140,"Paducah, KY-IL",Metropolitan Statistical Area,Outlying
+21139,37140,"Paducah, KY-IL",Metropolitan Statistical Area,Outlying
+21145,37140,"Paducah, KY-IL",Metropolitan Statistical Area,Central
+32023,37220,"Pahrump, NV",Micropolitan Statistical Area,Central
+12107,37260,"Palatka, FL",Micropolitan Statistical Area,Central
+48001,37300,"Palestine, TX",Micropolitan Statistical Area,Central
+12009,37340,"Palm Bay-Melbourne-Titusville, FL",Metropolitan Statistical Area,Central
+48179,37420,"Pampa, TX",Micropolitan Statistical Area,Central
+48393,37420,"Pampa, TX",Micropolitan Statistical Area,Outlying
+12005,37460,"Panama City-Panama City Beach, FL",Metropolitan Statistical Area,Central
+12133,37460,"Panama City-Panama City Beach, FL",Metropolitan Statistical Area,Outlying
+05055,37500,"Paragould, AR",Micropolitan Statistical Area,Central
+47079,37540,"Paris, TN",Micropolitan Statistical Area,Central
+48277,37580,"Paris, TX",Micropolitan Statistical Area,Central
+48387,37580,"Paris, TX",Micropolitan Statistical Area,Outlying
+54105,37620,"Parkersburg-Vienna, WV",Metropolitan Statistical Area,Outlying
+54107,37620,"Parkersburg-Vienna, WV",Metropolitan Statistical Area,Central
+04007,37740,"Payson, AZ",Micropolitan Statistical Area,Central
+19125,37800,"Pella, IA",Micropolitan Statistical Area,Central
+12033,37860,"Pensacola-Ferry Pass-Brent, FL",Metropolitan Statistical Area,Central
+12113,37860,"Pensacola-Ferry Pass-Brent, FL",Metropolitan Statistical Area,Central
+17123,37900,"Peoria, IL",Metropolitan Statistical Area,Outlying
+17143,37900,"Peoria, IL",Metropolitan Statistical Area,Central
+17175,37900,"Peoria, IL",Metropolitan Statistical Area,Outlying
+17179,37900,"Peoria, IL",Metropolitan Statistical Area,Central
+17203,37900,"Peoria, IL",Metropolitan Statistical Area,Central
+18103,37940,"Peru, IN",Micropolitan Statistical Area,Central
+26047,37950,"Petoskey, MI",Micropolitan Statistical Area,Central
+34005,37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Metropolitan Statistical Area,Central
+34007,37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Metropolitan Statistical Area,Central
+34015,37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Metropolitan Statistical Area,Central
+42017,37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Metropolitan Statistical Area,Central
+42029,37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Metropolitan Statistical Area,Central
+42091,37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Metropolitan Statistical Area,Central
+42045,37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Metropolitan Statistical Area,Central
+42101,37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Metropolitan Statistical Area,Central
+10003,37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Metropolitan Statistical Area,Central
+24015,37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Metropolitan Statistical Area,Central
+34033,37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Metropolitan Statistical Area,Central
+04013,38060,"Phoenix-Mesa-Chandler, AZ",Metropolitan Statistical Area,Central
+04021,38060,"Phoenix-Mesa-Chandler, AZ",Metropolitan Statistical Area,Central
+28109,38100,"Picayune, MS",Micropolitan Statistical Area,Central
+46065,38180,"Pierre, SD",Micropolitan Statistical Area,Central
+46117,38180,"Pierre, SD",Micropolitan Statistical Area,Central
+21071,38210,"Pikeville, KY",Micropolitan Statistical Area,Outlying
+21195,38210,"Pikeville, KY",Micropolitan Statistical Area,Central
+05025,38220,"Pine Bluff, AR",Micropolitan Statistical Area,Outlying
+05069,38220,"Pine Bluff, AR",Micropolitan Statistical Area,Central
+37125,38240,"Pinehurst-Southern Pines, NC",Metropolitan Statistical Area,Central
+20037,38260,"Pittsburg, KS",Micropolitan Statistical Area,Central
+42003,38300,"Pittsburgh, PA",Metropolitan Statistical Area,Central
+42005,38300,"Pittsburgh, PA",Metropolitan Statistical Area,Outlying
+42007,38300,"Pittsburgh, PA",Metropolitan Statistical Area,Central
+42019,38300,"Pittsburgh, PA",Metropolitan Statistical Area,Central
+42051,38300,"Pittsburgh, PA",Metropolitan Statistical Area,Outlying
+42073,38300,"Pittsburgh, PA",Metropolitan Statistical Area,Outlying
+42125,38300,"Pittsburgh, PA",Metropolitan Statistical Area,Central
+42129,38300,"Pittsburgh, PA",Metropolitan Statistical Area,Central
+25003,38340,"Pittsfield, MA",Metropolitan Statistical Area,Central
+48153,38380,"Plainview, TX",Micropolitan Statistical Area,Outlying
+48189,38380,"Plainview, TX",Micropolitan Statistical Area,Central
+55043,38420,"Platteville, WI",Micropolitan Statistical Area,Central
+36019,38460,"Plattsburgh, NY",Micropolitan Statistical Area,Central
+18099,38500,"Plymouth, IN",Micropolitan Statistical Area,Central
+16005,38540,"Pocatello, ID",Metropolitan Statistical Area,Central
+40071,38620,"Ponca City, OK",Micropolitan Statistical Area,Central
+72059,38660,"Ponce, PR",Metropolitan Statistical Area,Outlying
+72075,38660,"Ponce, PR",Metropolitan Statistical Area,Outlying
+72111,38660,"Ponce, PR",Metropolitan Statistical Area,Outlying
+72113,38660,"Ponce, PR",Metropolitan Statistical Area,Central
+72149,38660,"Ponce, PR",Metropolitan Statistical Area,Outlying
+72153,38660,"Ponce, PR",Metropolitan Statistical Area,Outlying
+17105,38700,"Pontiac, IL",Micropolitan Statistical Area,Central
+29023,38740,"Poplar Bluff, MO",Micropolitan Statistical Area,Central
+53009,38820,"Port Angeles, WA",Micropolitan Statistical Area,Central
+23005,38860,"Portland-South Portland, ME",Metropolitan Statistical Area,Central
+23023,38860,"Portland-South Portland, ME",Metropolitan Statistical Area,Outlying
+23031,38860,"Portland-South Portland, ME",Metropolitan Statistical Area,Central
+41005,38900,"Portland-Vancouver-Hillsboro, OR-WA",Metropolitan Statistical Area,Central
+41009,38900,"Portland-Vancouver-Hillsboro, OR-WA",Metropolitan Statistical Area,Outlying
+41051,38900,"Portland-Vancouver-Hillsboro, OR-WA",Metropolitan Statistical Area,Central
+41067,38900,"Portland-Vancouver-Hillsboro, OR-WA",Metropolitan Statistical Area,Central
+41071,38900,"Portland-Vancouver-Hillsboro, OR-WA",Metropolitan Statistical Area,Outlying
+53011,38900,"Portland-Vancouver-Hillsboro, OR-WA",Metropolitan Statistical Area,Central
+53059,38900,"Portland-Vancouver-Hillsboro, OR-WA",Metropolitan Statistical Area,Outlying
+48057,38920,"Port Lavaca, TX",Micropolitan Statistical Area,Central
+12085,38940,"Port St. Lucie, FL",Metropolitan Statistical Area,Central
+12111,38940,"Port St. Lucie, FL",Metropolitan Statistical Area,Central
+39145,39020,"Portsmouth, OH",Micropolitan Statistical Area,Central
+53031,39040,"Port Townsend, WA",Micropolitan Statistical Area,Central
+42107,39060,"Pottsville, PA",Micropolitan Statistical Area,Central
+04025,39150,"Prescott Valley-Prescott, AZ",Metropolitan Statistical Area,Central
+49007,39220,"Price, UT",Micropolitan Statistical Area,Central
+25005,39300,"Providence-Warwick, RI-MA",Metropolitan Statistical Area,Central
+44001,39300,"Providence-Warwick, RI-MA",Metropolitan Statistical Area,Central
+44003,39300,"Providence-Warwick, RI-MA",Metropolitan Statistical Area,Central
+44005,39300,"Providence-Warwick, RI-MA",Metropolitan Statistical Area,Central
+44007,39300,"Providence-Warwick, RI-MA",Metropolitan Statistical Area,Central
+44009,39300,"Providence-Warwick, RI-MA",Metropolitan Statistical Area,Central
+49023,39340,"Provo-Orem-Lehi, UT",Metropolitan Statistical Area,Outlying
+49049,39340,"Provo-Orem-Lehi, UT",Metropolitan Statistical Area,Central
+08101,39380,"Pueblo, CO",Metropolitan Statistical Area,Central
+53075,39420,"Pullman, WA",Micropolitan Statistical Area,Central
+12015,39460,"Punta Gorda, FL",Metropolitan Statistical Area,Central
+09150,39480,"Putnam, CT",Micropolitan Statistical Area,Central
+17001,39500,"Quincy, IL-MO",Micropolitan Statistical Area,Central
+29111,39500,"Quincy, IL-MO",Micropolitan Statistical Area,Outlying
+55101,39540,"Racine-Mount Pleasant, WI",Metropolitan Statistical Area,Central
+37069,39580,"Raleigh-Cary, NC",Metropolitan Statistical Area,Central
+37101,39580,"Raleigh-Cary, NC",Metropolitan Statistical Area,Outlying
+37183,39580,"Raleigh-Cary, NC",Metropolitan Statistical Area,Central
+46033,39660,"Rapid City, SD",Metropolitan Statistical Area,Outlying
+46093,39660,"Rapid City, SD",Metropolitan Statistical Area,Outlying
+46103,39660,"Rapid City, SD",Metropolitan Statistical Area,Central
+48489,39700,"Raymondville, TX",Micropolitan Statistical Area,Central
+42011,39740,"Reading, PA",Metropolitan Statistical Area,Central
+06103,39780,"Red Bluff, CA",Micropolitan Statistical Area,Central
+06089,39820,"Redding, CA",Metropolitan Statistical Area,Central
+27049,39860,"Red Wing, MN",Micropolitan Statistical Area,Central
+32019,39900,"Reno, NV",Metropolitan Statistical Area,Outlying
+32029,39900,"Reno, NV",Metropolitan Statistical Area,Outlying
+32031,39900,"Reno, NV",Metropolitan Statistical Area,Central
+16043,39940,"Rexburg, ID",Micropolitan Statistical Area,Outlying
+16065,39940,"Rexburg, ID",Micropolitan Statistical Area,Central
+55005,39960,"Rice Lake, WI",Micropolitan Statistical Area,Central
+18177,39980,"Richmond, IN",Micropolitan Statistical Area,Central
+51007,40060,"Richmond, VA",Metropolitan Statistical Area,Outlying
+51036,40060,"Richmond, VA",Metropolitan Statistical Area,Outlying
+51041,40060,"Richmond, VA",Metropolitan Statistical Area,Central
+51053,40060,"Richmond, VA",Metropolitan Statistical Area,Central
+51075,40060,"Richmond, VA",Metropolitan Statistical Area,Outlying
+51085,40060,"Richmond, VA",Metropolitan Statistical Area,Central
+51087,40060,"Richmond, VA",Metropolitan Statistical Area,Central
+51097,40060,"Richmond, VA",Metropolitan Statistical Area,Outlying
+51101,40060,"Richmond, VA",Metropolitan Statistical Area,Outlying
+51127,40060,"Richmond, VA",Metropolitan Statistical Area,Outlying
+51145,40060,"Richmond, VA",Metropolitan Statistical Area,Outlying
+51149,40060,"Richmond, VA",Metropolitan Statistical Area,Central
+51183,40060,"Richmond, VA",Metropolitan Statistical Area,Outlying
+51570,40060,"Richmond, VA",Metropolitan Statistical Area,Central
+51670,40060,"Richmond, VA",Metropolitan Statistical Area,Central
+51730,40060,"Richmond, VA",Metropolitan Statistical Area,Central
+51760,40060,"Richmond, VA",Metropolitan Statistical Area,Central
+21065,40080,"Richmond-Berea, KY",Micropolitan Statistical Area,Outlying
+21151,40080,"Richmond-Berea, KY",Micropolitan Statistical Area,Central
+21203,40080,"Richmond-Berea, KY",Micropolitan Statistical Area,Outlying
+08045,40090,"Rifle, CO",Micropolitan Statistical Area,Central
+08097,40090,"Rifle, CO",Micropolitan Statistical Area,Outlying
+48427,40100,"Rio Grande City-Roma, TX",Micropolitan Statistical Area,Central
+06065,40140,"Riverside-San Bernardino-Ontario, CA",Metropolitan Statistical Area,Central
+06071,40140,"Riverside-San Bernardino-Ontario, CA",Metropolitan Statistical Area,Central
+56013,40180,"Riverton, WY",Micropolitan Statistical Area,Central
+51023,40220,"Roanoke, VA",Metropolitan Statistical Area,Central
+51045,40220,"Roanoke, VA",Metropolitan Statistical Area,Outlying
+51067,40220,"Roanoke, VA",Metropolitan Statistical Area,Outlying
+51161,40220,"Roanoke, VA",Metropolitan Statistical Area,Central
+51770,40220,"Roanoke, VA",Metropolitan Statistical Area,Central
+51775,40220,"Roanoke, VA",Metropolitan Statistical Area,Central
+37083,40260,"Roanoke Rapids, NC",Micropolitan Statistical Area,Central
+37131,40260,"Roanoke Rapids, NC",Micropolitan Statistical Area,Outlying
+17141,40300,"Rochelle, IL",Micropolitan Statistical Area,Central
+27039,40340,"Rochester, MN",Metropolitan Statistical Area,Outlying
+27045,40340,"Rochester, MN",Metropolitan Statistical Area,Outlying
+27109,40340,"Rochester, MN",Metropolitan Statistical Area,Central
+27157,40340,"Rochester, MN",Metropolitan Statistical Area,Outlying
+36051,40380,"Rochester, NY",Metropolitan Statistical Area,Outlying
+36055,40380,"Rochester, NY",Metropolitan Statistical Area,Central
+36069,40380,"Rochester, NY",Metropolitan Statistical Area,Central
+36073,40380,"Rochester, NY",Metropolitan Statistical Area,Outlying
+36117,40380,"Rochester, NY",Metropolitan Statistical Area,Outlying
+17007,40420,"Rockford, IL",Metropolitan Statistical Area,Central
+17201,40420,"Rockford, IL",Metropolitan Statistical Area,Central
+37153,40460,"Rockingham, NC",Micropolitan Statistical Area,Central
+56037,40540,"Rock Springs, WY",Micropolitan Statistical Area,Central
+37065,40580,"Rocky Mount, NC",Metropolitan Statistical Area,Central
+37127,40580,"Rocky Mount, NC",Metropolitan Statistical Area,Central
+29161,40620,"Rolla, MO",Micropolitan Statistical Area,Central
+13115,40660,"Rome, GA",Metropolitan Statistical Area,Central
+41019,40700,"Roseburg, OR",Micropolitan Statistical Area,Central
+35005,40740,"Roswell, NM",Micropolitan Statistical Area,Central
+35027,40760,"Ruidoso, NM",Micropolitan Statistical Area,Central
+01059,40770,"Russellville, AL",Micropolitan Statistical Area,Central
+05115,40780,"Russellville, AR",Micropolitan Statistical Area,Central
+05149,40780,"Russellville, AR",Micropolitan Statistical Area,Outlying
+22061,40820,"Ruston, LA",Micropolitan Statistical Area,Central
+50021,40860,"Rutland, VT",Micropolitan Statistical Area,Central
+06017,40900,"Sacramento-Roseville-Folsom, CA",Metropolitan Statistical Area,Central
+06061,40900,"Sacramento-Roseville-Folsom, CA",Metropolitan Statistical Area,Central
+06067,40900,"Sacramento-Roseville-Folsom, CA",Metropolitan Statistical Area,Central
+06113,40900,"Sacramento-Roseville-Folsom, CA",Metropolitan Statistical Area,Outlying
+04009,40940,"Safford, AZ",Micropolitan Statistical Area,Central
+26145,40980,"Saginaw, MI",Metropolitan Statistical Area,Central
+27009,41060,"St. Cloud, MN",Metropolitan Statistical Area,Central
+27145,41060,"St. Cloud, MN",Metropolitan Statistical Area,Central
+49053,41100,"St. George, UT",Metropolitan Statistical Area,Central
+20043,41140,"St. Joseph, MO-KS",Metropolitan Statistical Area,Outlying
+29003,41140,"St. Joseph, MO-KS",Metropolitan Statistical Area,Outlying
+29021,41140,"St. Joseph, MO-KS",Metropolitan Statistical Area,Central
+29063,41140,"St. Joseph, MO-KS",Metropolitan Statistical Area,Outlying
+17005,41180,"St. Louis, MO-IL",Metropolitan Statistical Area,Outlying
+17013,41180,"St. Louis, MO-IL",Metropolitan Statistical Area,Outlying
+17027,41180,"St. Louis, MO-IL",Metropolitan Statistical Area,Outlying
+17083,41180,"St. Louis, MO-IL",Metropolitan Statistical Area,Outlying
+17117,41180,"St. Louis, MO-IL",Metropolitan Statistical Area,Outlying
+17119,41180,"St. Louis, MO-IL",Metropolitan Statistical Area,Central
+17133,41180,"St. Louis, MO-IL",Metropolitan Statistical Area,Central
+17163,41180,"St. Louis, MO-IL",Metropolitan Statistical Area,Central
+29071,41180,"St. Louis, MO-IL",Metropolitan Statistical Area,Outlying
+29099,41180,"St. Louis, MO-IL",Metropolitan Statistical Area,Central
+29113,41180,"St. Louis, MO-IL",Metropolitan Statistical Area,Outlying
+29183,41180,"St. Louis, MO-IL",Metropolitan Statistical Area,Central
+29189,41180,"St. Louis, MO-IL",Metropolitan Statistical Area,Central
+29219,41180,"St. Louis, MO-IL",Metropolitan Statistical Area,Outlying
+29510,41180,"St. Louis, MO-IL",Metropolitan Statistical Area,Central
+42047,41260,"St. Marys, PA",Micropolitan Statistical Area,Central
+39029,41400,"Salem, OH",Micropolitan Statistical Area,Central
+41047,41420,"Salem, OR",Metropolitan Statistical Area,Central
+41053,41420,"Salem, OR",Metropolitan Statistical Area,Central
+20143,41460,"Salina, KS",Micropolitan Statistical Area,Outlying
+20169,41460,"Salina, KS",Micropolitan Statistical Area,Central
+06053,41500,"Salinas, CA",Metropolitan Statistical Area,Central
+24039,41540,"Salisbury, MD",Metropolitan Statistical Area,Outlying
+24045,41540,"Salisbury, MD",Metropolitan Statistical Area,Central
+49035,41620,"Salt Lake City-Murray, UT",Metropolitan Statistical Area,Central
+49045,41620,"Salt Lake City-Murray, UT",Metropolitan Statistical Area,Outlying
+48235,41660,"San Angelo, TX",Metropolitan Statistical Area,Outlying
+48451,41660,"San Angelo, TX",Metropolitan Statistical Area,Central
+48013,41700,"San Antonio-New Braunfels, TX",Metropolitan Statistical Area,Outlying
+48019,41700,"San Antonio-New Braunfels, TX",Metropolitan Statistical Area,Outlying
+48029,41700,"San Antonio-New Braunfels, TX",Metropolitan Statistical Area,Central
+48091,41700,"San Antonio-New Braunfels, TX",Metropolitan Statistical Area,Outlying
+48187,41700,"San Antonio-New Braunfels, TX",Metropolitan Statistical Area,Central
+48259,41700,"San Antonio-New Braunfels, TX",Metropolitan Statistical Area,Outlying
+48325,41700,"San Antonio-New Braunfels, TX",Metropolitan Statistical Area,Outlying
+48493,41700,"San Antonio-New Braunfels, TX",Metropolitan Statistical Area,Outlying
+06073,41740,"San Diego-Chula Vista-Carlsbad, CA",Metropolitan Statistical Area,Central
+16017,41760,"Sandpoint, ID",Micropolitan Statistical Area,Central
+39043,41780,"Sandusky, OH",Metropolitan Statistical Area,Central
+39123,41780,"Sandusky, OH",Metropolitan Statistical Area,Central
+37105,41820,"Sanford, NC",Micropolitan Statistical Area,Central
+06001,41860,"San Francisco-Oakland-Fremont, CA",Metropolitan Statistical Area,Central
+06013,41860,"San Francisco-Oakland-Fremont, CA",Metropolitan Statistical Area,Outlying
+06075,41860,"San Francisco-Oakland-Fremont, CA",Metropolitan Statistical Area,Central
+06081,41860,"San Francisco-Oakland-Fremont, CA",Metropolitan Statistical Area,Central
+06041,41860,"San Francisco-Oakland-Fremont, CA",Metropolitan Statistical Area,Central
+06069,41940,"San Jose-Sunnyvale-Santa Clara, CA",Metropolitan Statistical Area,Outlying
+06085,41940,"San Jose-Sunnyvale-Santa Clara, CA",Metropolitan Statistical Area,Central
+72007,41980,"San Juan-Bayamón-Caguas, PR",Metropolitan Statistical Area,Central
+72009,41980,"San Juan-Bayamón-Caguas, PR",Metropolitan Statistical Area,Outlying
+72017,41980,"San Juan-Bayamón-Caguas, PR",Metropolitan Statistical Area,Outlying
+72019,41980,"San Juan-Bayamón-Caguas, PR",Metropolitan Statistical Area,Central
+72021,41980,"San Juan-Bayamón-Caguas, PR",Metropolitan Statistical Area,Central
+72025,41980,"San Juan-Bayamón-Caguas, PR",Metropolitan Statistical Area,Central
+72029,41980,"San Juan-Bayamón-Caguas, PR",Metropolitan Statistical Area,Central
+72031,41980,"San Juan-Bayamón-Caguas, PR",Metropolitan Statistical Area,Central
+72033,41980,"San Juan-Bayamón-Caguas, PR",Metropolitan Statistical Area,Central
+72035,41980,"San Juan-Bayamón-Caguas, PR",Metropolitan Statistical Area,Central
+72037,41980,"San Juan-Bayamón-Caguas, PR",Metropolitan Statistical Area,Outlying
+72039,41980,"San Juan-Bayamón-Caguas, PR",Metropolitan Statistical Area,Outlying
+72041,41980,"San Juan-Bayamón-Caguas, PR",Metropolitan Statistical Area,Central
+72045,41980,"San Juan-Bayamón-Caguas, PR",Metropolitan Statistical Area,Central
+72047,41980,"San Juan-Bayamón-Caguas, PR",Metropolitan Statistical Area,Central
+72051,41980,"San Juan-Bayamón-Caguas, PR",Metropolitan Statistical Area,Central
+72053,41980,"San Juan-Bayamón-Caguas, PR",Metropolitan Statistical Area,Outlying
+72054,41980,"San Juan-Bayamón-Caguas, PR",Metropolitan Statistical Area,Outlying
+72061,41980,"San Juan-Bayamón-Caguas, PR",Metropolitan Statistical Area,Central
+72063,41980,"San Juan-Bayamón-Caguas, PR",Metropolitan Statistical Area,Central
+72069,41980,"San Juan-Bayamón-Caguas, PR",Metropolitan Statistical Area,Central
+72077,41980,"San Juan-Bayamón-Caguas, PR",Metropolitan Statistical Area,Central
+72085,41980,"San Juan-Bayamón-Caguas, PR",Metropolitan Statistical Area,Central
+72087,41980,"San Juan-Bayamón-Caguas, PR",Metropolitan Statistical Area,Outlying
+72089,41980,"San Juan-Bayamón-Caguas, PR",Metropolitan Statistical Area,Outlying
+72091,41980,"San Juan-Bayamón-Caguas, PR",Metropolitan Statistical Area,Central
+72095,41980,"San Juan-Bayamón-Caguas, PR",Metropolitan Statistical Area,Central
+72101,41980,"San Juan-Bayamón-Caguas, PR",Metropolitan Statistical Area,Central
+72103,41980,"San Juan-Bayamón-Caguas, PR",Metropolitan Statistical Area,Outlying
+72105,41980,"San Juan-Bayamón-Caguas, PR",Metropolitan Statistical Area,Central
+72107,41980,"San Juan-Bayamón-Caguas, PR",Metropolitan Statistical Area,Central
+72119,41980,"San Juan-Bayamón-Caguas, PR",Metropolitan Statistical Area,Central
+72127,41980,"San Juan-Bayamón-Caguas, PR",Metropolitan Statistical Area,Central
+72129,41980,"San Juan-Bayamón-Caguas, PR",Metropolitan Statistical Area,Central
+72135,41980,"San Juan-Bayamón-Caguas, PR",Metropolitan Statistical Area,Central
+72137,41980,"San Juan-Bayamón-Caguas, PR",Metropolitan Statistical Area,Central
+72139,41980,"San Juan-Bayamón-Caguas, PR",Metropolitan Statistical Area,Central
+72143,41980,"San Juan-Bayamón-Caguas, PR",Metropolitan Statistical Area,Central
+72145,41980,"San Juan-Bayamón-Caguas, PR",Metropolitan Statistical Area,Central
+72151,41980,"San Juan-Bayamón-Caguas, PR",Metropolitan Statistical Area,Central
+06079,42020,"San Luis Obispo-Paso Robles, CA",Metropolitan Statistical Area,Central
+06087,42100,"Santa Cruz-Watsonville, CA",Metropolitan Statistical Area,Central
+35049,42140,"Santa Fe, NM",Metropolitan Statistical Area,Central
+06083,42200,"Santa Maria-Santa Barbara, CA",Metropolitan Statistical Area,Central
+06097,42220,"Santa Rosa-Petaluma, CA",Metropolitan Statistical Area,Central
+26033,42300,"Sault Ste. Marie, MI",Micropolitan Statistical Area,Central
+13029,42340,"Savannah, GA",Metropolitan Statistical Area,Central
+13051,42340,"Savannah, GA",Metropolitan Statistical Area,Central
+13103,42340,"Savannah, GA",Metropolitan Statistical Area,Outlying
+42015,42380,"Sayre, PA",Micropolitan Statistical Area,Central
+31007,42420,"Scottsbluff, NE",Micropolitan Statistical Area,Outlying
+31157,42420,"Scottsbluff, NE",Micropolitan Statistical Area,Central
+01071,42460,"Scottsboro, AL",Micropolitan Statistical Area,Central
+42069,42540,"Scranton--Wilkes-Barre, PA",Metropolitan Statistical Area,Central
+42079,42540,"Scranton--Wilkes-Barre, PA",Metropolitan Statistical Area,Central
+42131,42540,"Scranton--Wilkes-Barre, PA",Metropolitan Statistical Area,Outlying
+10005,42580,"Seaford, DE",Micropolitan Statistical Area,Central
+05145,42620,"Searcy, AR",Micropolitan Statistical Area,Central
+53061,42660,"Seattle-Tacoma-Bellevue, WA",Metropolitan Statistical Area,Central
+53033,42660,"Seattle-Tacoma-Bellevue, WA",Metropolitan Statistical Area,Central
+53053,42660,"Seattle-Tacoma-Bellevue, WA",Metropolitan Statistical Area,Central
+12061,42680,"Sebastian-Vero Beach-West Vero Corridor, FL",Metropolitan Statistical Area,Central
+12055,42700,"Sebring, FL",Metropolitan Statistical Area,Central
+29159,42740,"Sedalia, MO",Micropolitan Statistical Area,Central
+42109,42780,"Selinsgrove, PA",Micropolitan Statistical Area,Central
+01047,42820,"Selma, AL",Micropolitan Statistical Area,Central
+45073,42860,"Seneca, SC",Micropolitan Statistical Area,Central
+36099,42900,"Seneca Falls, NY",Micropolitan Statistical Area,Central
+47155,42940,"Sevierville, TN",Micropolitan Statistical Area,Central
+18071,42980,"Seymour, IN",Micropolitan Statistical Area,Central
+55078,43020,"Shawano, WI",Micropolitan Statistical Area,Outlying
+55115,43020,"Shawano, WI",Micropolitan Statistical Area,Central
+40125,43060,"Shawnee, OK",Micropolitan Statistical Area,Central
+55117,43100,"Sheboygan, WI",Metropolitan Statistical Area,Central
+37045,43140,"Shelby-Kings Mountain, NC",Micropolitan Statistical Area,Central
+47003,43180,"Shelbyville, TN",Micropolitan Statistical Area,Central
+53045,43220,"Shelton, WA",Micropolitan Statistical Area,Central
+56033,43260,"Sheridan, WY",Micropolitan Statistical Area,Central
+48181,43300,"Sherman-Denison, TX",Metropolitan Statistical Area,Central
+04017,43320,"Show Low, AZ",Micropolitan Statistical Area,Central
+22015,43340,"Shreveport-Bossier City, LA",Metropolitan Statistical Area,Central
+22017,43340,"Shreveport-Bossier City, LA",Metropolitan Statistical Area,Central
+22031,43340,"Shreveport-Bossier City, LA",Metropolitan Statistical Area,Outlying
+39149,43380,"Sidney, OH",Micropolitan Statistical Area,Central
+04003,43420,"Sierra Vista-Douglas, AZ",Metropolitan Statistical Area,Central
+29133,43460,"Sikeston, MO",Micropolitan Statistical Area,Outlying
+29201,43460,"Sikeston, MO",Micropolitan Statistical Area,Central
+35017,43500,"Silver City, NM",Micropolitan Statistical Area,Central
+19193,43580,"Sioux City, IA-NE-SD",Metropolitan Statistical Area,Central
+31043,43580,"Sioux City, IA-NE-SD",Metropolitan Statistical Area,Central
+46127,43580,"Sioux City, IA-NE-SD",Metropolitan Statistical Area,Central
+27133,43620,"Sioux Falls, SD-MN",Metropolitan Statistical Area,Outlying
+46083,43620,"Sioux Falls, SD-MN",Metropolitan Statistical Area,Central
+46087,43620,"Sioux Falls, SD-MN",Metropolitan Statistical Area,Outlying
+46099,43620,"Sioux Falls, SD-MN",Metropolitan Statistical Area,Central
+46125,43620,"Sioux Falls, SD-MN",Metropolitan Statistical Area,Outlying
+22103,43640,"Slidell-Mandeville-Covington, LA",Metropolitan Statistical Area,Central
+48415,43660,"Snyder, TX",Micropolitan Statistical Area,Central
+21199,43700,"Somerset, KY",Micropolitan Statistical Area,Central
+42111,43740,"Somerset, PA",Micropolitan Statistical Area,Central
+06109,43760,"Sonora, CA",Micropolitan Statistical Area,Central
+18141,43780,"South Bend-Mishawaka, IN-MI",Metropolitan Statistical Area,Central
+26027,43780,"South Bend-Mishawaka, IN-MI",Metropolitan Statistical Area,Central
+55081,43890,"Sparta, WI",Micropolitan Statistical Area,Central
+45083,43900,"Spartanburg, SC",Metropolitan Statistical Area,Central
+45087,43900,"Spartanburg, SC",Metropolitan Statistical Area,Outlying
+46081,43940,"Spearfish, SD",Micropolitan Statistical Area,Central
+19041,43980,"Spencer, IA",Micropolitan Statistical Area,Central
+19059,44020,"Spirit Lake, IA",Micropolitan Statistical Area,Central
+53063,44060,"Spokane-Spokane Valley, WA",Metropolitan Statistical Area,Central
+53065,44060,"Spokane-Spokane Valley, WA",Metropolitan Statistical Area,Outlying
+17129,44100,"Springfield, IL",Metropolitan Statistical Area,Outlying
+17167,44100,"Springfield, IL",Metropolitan Statistical Area,Central
+25013,44140,"Springfield, MA",Metropolitan Statistical Area,Central
+29043,44180,"Springfield, MO",Metropolitan Statistical Area,Central
+29059,44180,"Springfield, MO",Metropolitan Statistical Area,Outlying
+29077,44180,"Springfield, MO",Metropolitan Statistical Area,Central
+29167,44180,"Springfield, MO",Metropolitan Statistical Area,Outlying
+29225,44180,"Springfield, MO",Metropolitan Statistical Area,Outlying
+39023,44220,"Springfield, OH",Metropolitan Statistical Area,Central
+28105,44260,"Starkville, MS",Micropolitan Statistical Area,Central
+28155,44260,"Starkville, MS",Micropolitan Statistical Area,Outlying
+42027,44300,"State College, PA",Metropolitan Statistical Area,Central
+13031,44340,"Statesboro, GA",Micropolitan Statistical Area,Central
+13109,44340,"Statesboro, GA",Micropolitan Statistical Area,Outlying
+51015,44420,"Staunton-Stuarts Draft, VA",Metropolitan Statistical Area,Central
+51790,44420,"Staunton-Stuarts Draft, VA",Metropolitan Statistical Area,Central
+51820,44420,"Staunton-Stuarts Draft, VA",Metropolitan Statistical Area,Central
+08081,44460,"Steamboat Springs, CO",Micropolitan Statistical Area,Outlying
+08107,44460,"Steamboat Springs, CO",Micropolitan Statistical Area,Central
+48143,44500,"Stephenville, TX",Micropolitan Statistical Area,Central
+08075,44540,"Sterling, CO",Micropolitan Statistical Area,Central
+17195,44580,"Sterling, IL",Micropolitan Statistical Area,Central
+55097,44620,"Stevens Point-Plover, WI",Micropolitan Statistical Area,Central
+40119,44660,"Stillwater, OK",Micropolitan Statistical Area,Central
+06077,44700,"Stockton-Lodi, CA",Metropolitan Statistical Area,Central
+19021,44740,"Storm Lake, IA",Micropolitan Statistical Area,Central
+26149,44780,"Sturgis, MI",Micropolitan Statistical Area,Central
+48223,44860,"Sulphur Springs, TX",Micropolitan Statistical Area,Central
+13055,44900,"Summerville, GA",Micropolitan Statistical Area,Central
+45085,44940,"Sumter, SC",Metropolitan Statistical Area,Central
+42093,44980,"Sunbury, PA",Micropolitan Statistical Area,Outlying
+42097,44980,"Sunbury, PA",Micropolitan Statistical Area,Central
+06035,45000,"Susanville, CA",Micropolitan Statistical Area,Central
+48353,45020,"Sweetwater, TX",Micropolitan Statistical Area,Central
+36053,45060,"Syracuse, NY",Metropolitan Statistical Area,Outlying
+36067,45060,"Syracuse, NY",Metropolitan Statistical Area,Central
+36075,45060,"Syracuse, NY",Metropolitan Statistical Area,Outlying
+40021,45140,"Tahlequah, OK",Micropolitan Statistical Area,Central
+01037,45180,"Talladega-Sylacauga, AL",Micropolitan Statistical Area,Outlying
+01121,45180,"Talladega-Sylacauga, AL",Micropolitan Statistical Area,Central
+12039,45220,"Tallahassee, FL",Metropolitan Statistical Area,Outlying
+12065,45220,"Tallahassee, FL",Metropolitan Statistical Area,Outlying
+12073,45220,"Tallahassee, FL",Metropolitan Statistical Area,Central
+12129,45220,"Tallahassee, FL",Metropolitan Statistical Area,Outlying
+12103,45300,"Tampa-St. Petersburg-Clearwater, FL",Metropolitan Statistical Area,Central
+12053,45300,"Tampa-St. Petersburg-Clearwater, FL",Metropolitan Statistical Area,Outlying
+12057,45300,"Tampa-St. Petersburg-Clearwater, FL",Metropolitan Statistical Area,Central
+12101,45300,"Tampa-St. Petersburg-Clearwater, FL",Metropolitan Statistical Area,Central
+35055,45340,"Taos, NM",Micropolitan Statistical Area,Central
+17021,45380,"Taylorville, IL",Micropolitan Statistical Area,Central
+18021,45460,"Terre Haute, IN",Metropolitan Statistical Area,Outlying
+18153,45460,"Terre Haute, IN",Metropolitan Statistical Area,Outlying
+18165,45460,"Terre Haute, IN",Metropolitan Statistical Area,Outlying
+18167,45460,"Terre Haute, IN",Metropolitan Statistical Area,Central
+05081,45500,"Texarkana, TX-AR",Metropolitan Statistical Area,Outlying
+05091,45500,"Texarkana, TX-AR",Metropolitan Statistical Area,Central
+48037,45500,"Texarkana, TX-AR",Metropolitan Statistical Area,Central
+41065,45520,"The Dalles, OR",Micropolitan Statistical Area,Central
+13293,45580,"Thomaston, GA",Micropolitan Statistical Area,Central
+13131,45620,"Thomasville, GA",Micropolitan Statistical Area,Outlying
+13275,45620,"Thomasville, GA",Micropolitan Statistical Area,Central
+39147,45660,"Tiffin, OH",Micropolitan Statistical Area,Central
+13277,45700,"Tifton, GA",Micropolitan Statistical Area,Central
+13287,45700,"Tifton, GA",Micropolitan Statistical Area,Outlying
+13257,45740,"Toccoa, GA",Micropolitan Statistical Area,Central
+39051,45780,"Toledo, OH",Metropolitan Statistical Area,Outlying
+39095,45780,"Toledo, OH",Metropolitan Statistical Area,Central
+39173,45780,"Toledo, OH",Metropolitan Statistical Area,Central
+20085,45820,"Topeka, KS",Metropolitan Statistical Area,Outlying
+20087,45820,"Topeka, KS",Metropolitan Statistical Area,Outlying
+20139,45820,"Topeka, KS",Metropolitan Statistical Area,Outlying
+20177,45820,"Topeka, KS",Metropolitan Statistical Area,Central
+20197,45820,"Topeka, KS",Metropolitan Statistical Area,Outlying
+09160,45860,"Torrington, CT",Micropolitan Statistical Area,Central
+48389,45880,"Town of Pecos, TX",Micropolitan Statistical Area,Central
+26019,45900,"Traverse City, MI",Metropolitan Statistical Area,Outlying
+26055,45900,"Traverse City, MI",Metropolitan Statistical Area,Central
+26079,45900,"Traverse City, MI",Metropolitan Statistical Area,Outlying
+26089,45900,"Traverse City, MI",Metropolitan Statistical Area,Outlying
+34021,45940,"Trenton-Princeton, NJ",Metropolitan Statistical Area,Central
+01109,45980,"Troy, AL",Micropolitan Statistical Area,Central
+06057,46020,"Truckee-Grass Valley, CA",Micropolitan Statistical Area,Central
+04019,46060,"Tucson, AZ",Metropolitan Statistical Area,Central
+47031,46100,"Tullahoma-Manchester, TN",Micropolitan Statistical Area,Central
+47127,46100,"Tullahoma-Manchester, TN",Micropolitan Statistical Area,Outlying
+40037,46140,"Tulsa, OK",Metropolitan Statistical Area,Central
+40111,46140,"Tulsa, OK",Metropolitan Statistical Area,Outlying
+40113,46140,"Tulsa, OK",Metropolitan Statistical Area,Central
+40117,46140,"Tulsa, OK",Metropolitan Statistical Area,Outlying
+40131,46140,"Tulsa, OK",Metropolitan Statistical Area,Outlying
+40143,46140,"Tulsa, OK",Metropolitan Statistical Area,Central
+40145,46140,"Tulsa, OK",Metropolitan Statistical Area,Central
+28057,46180,"Tupelo, MS",Micropolitan Statistical Area,Outlying
+28081,46180,"Tupelo, MS",Micropolitan Statistical Area,Central
+28117,46180,"Tupelo, MS",Micropolitan Statistical Area,Outlying
+01063,46220,"Tuscaloosa, AL",Metropolitan Statistical Area,Outlying
+01065,46220,"Tuscaloosa, AL",Metropolitan Statistical Area,Outlying
+01107,46220,"Tuscaloosa, AL",Metropolitan Statistical Area,Outlying
+01125,46220,"Tuscaloosa, AL",Metropolitan Statistical Area,Central
+16053,46300,"Twin Falls, ID",Metropolitan Statistical Area,Outlying
+16083,46300,"Twin Falls, ID",Metropolitan Statistical Area,Central
+48423,46340,"Tyler, TX",Metropolitan Statistical Area,Central
+06045,46380,"Ukiah, CA",Micropolitan Statistical Area,Central
+47131,46460,"Union City, TN",Micropolitan Statistical Area,Central
+39021,46500,"Urbana, OH",Micropolitan Statistical Area,Central
+15003,46520,"Urban Honolulu, HI",Metropolitan Statistical Area,Central
+36043,46540,"Utica-Rome, NY",Metropolitan Statistical Area,Outlying
+36065,46540,"Utica-Rome, NY",Metropolitan Statistical Area,Central
+72141,46580,"Utuado, PR",Micropolitan Statistical Area,Central
+48463,46620,"Uvalde, TX",Micropolitan Statistical Area,Central
+13027,46660,"Valdosta, GA",Metropolitan Statistical Area,Outlying
+13101,46660,"Valdosta, GA",Metropolitan Statistical Area,Outlying
+13173,46660,"Valdosta, GA",Metropolitan Statistical Area,Outlying
+13185,46660,"Valdosta, GA",Metropolitan Statistical Area,Central
+06095,46700,"Vallejo, CA",Metropolitan Statistical Area,Central
+39161,46780,"Van Wert, OH",Micropolitan Statistical Area,Central
+46027,46820,"Vermillion, SD",Micropolitan Statistical Area,Central
+49047,46860,"Vernal, UT",Micropolitan Statistical Area,Central
+48487,46900,"Vernon, TX",Micropolitan Statistical Area,Central
+28149,46980,"Vicksburg, MS",Micropolitan Statistical Area,Central
+48175,47020,"Victoria, TX",Metropolitan Statistical Area,Outlying
+48469,47020,"Victoria, TX",Metropolitan Statistical Area,Central
+13209,47080,"Vidalia, GA",Micropolitan Statistical Area,Outlying
+13279,47080,"Vidalia, GA",Micropolitan Statistical Area,Central
+18083,47180,"Vincennes, IN",Micropolitan Statistical Area,Central
+34011,47220,"Vineland, NJ",Metropolitan Statistical Area,Central
+25007,47240,"Vineyard Haven, MA",Micropolitan Statistical Area,Central
+37029,47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC",Metropolitan Statistical Area,Outlying
+37053,47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC",Metropolitan Statistical Area,Outlying
+37073,47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC",Metropolitan Statistical Area,Outlying
+51073,47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC",Metropolitan Statistical Area,Central
+51093,47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC",Metropolitan Statistical Area,Central
+51095,47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC",Metropolitan Statistical Area,Outlying
+51115,47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC",Metropolitan Statistical Area,Outlying
+51181,47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC",Metropolitan Statistical Area,Outlying
+51199,47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC",Metropolitan Statistical Area,Central
+51550,47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC",Metropolitan Statistical Area,Central
+51650,47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC",Metropolitan Statistical Area,Central
+51700,47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC",Metropolitan Statistical Area,Central
+51710,47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC",Metropolitan Statistical Area,Central
+51735,47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC",Metropolitan Statistical Area,Central
+51740,47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC",Metropolitan Statistical Area,Central
+51800,47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC",Metropolitan Statistical Area,Outlying
+51810,47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC",Metropolitan Statistical Area,Central
+51830,47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC",Metropolitan Statistical Area,Outlying
+06107,47300,"Visalia, CA",Metropolitan Statistical Area,Central
+18169,47340,"Wabash, IN",Micropolitan Statistical Area,Central
+48035,47380,"Waco, TX",Metropolitan Statistical Area,Outlying
+48145,47380,"Waco, TX",Metropolitan Statistical Area,Outlying
+48309,47380,"Waco, TX",Metropolitan Statistical Area,Central
+27167,47420,"Wahpeton, ND-MN",Micropolitan Statistical Area,Central
+38077,47420,"Wahpeton, ND-MN",Micropolitan Statistical Area,Central
+53071,47460,"Walla Walla, WA",Metropolitan Statistical Area,Central
+39011,47540,"Wapakoneta, OH",Micropolitan Statistical Area,Central
+13153,47580,"Warner Robins, GA",Metropolitan Statistical Area,Central
+13225,47580,"Warner Robins, GA",Metropolitan Statistical Area,Central
+42123,47620,"Warren, PA",Micropolitan Statistical Area,Central
+29101,47660,"Warrensburg, MO",Micropolitan Statistical Area,Central
+18085,47700,"Warsaw, IN",Micropolitan Statistical Area,Central
+18027,47780,"Washington, IN",Micropolitan Statistical Area,Central
+37013,47820,"Washington, NC",Micropolitan Statistical Area,Central
+51013,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metropolitan Statistical Area,Central
+51043,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metropolitan Statistical Area,Outlying
+51047,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metropolitan Statistical Area,Outlying
+51059,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metropolitan Statistical Area,Central
+51061,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metropolitan Statistical Area,Outlying
+51107,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metropolitan Statistical Area,Central
+51153,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metropolitan Statistical Area,Central
+51157,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metropolitan Statistical Area,Outlying
+51177,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metropolitan Statistical Area,Outlying
+51179,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metropolitan Statistical Area,Central
+51187,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metropolitan Statistical Area,Outlying
+51510,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metropolitan Statistical Area,Central
+51600,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metropolitan Statistical Area,Central
+51610,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metropolitan Statistical Area,Central
+51630,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metropolitan Statistical Area,Outlying
+51683,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metropolitan Statistical Area,Central
+51685,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metropolitan Statistical Area,Central
+54037,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metropolitan Statistical Area,Outlying
+24021,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metropolitan Statistical Area,Outlying
+24031,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metropolitan Statistical Area,Central
+11001,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metropolitan Statistical Area,Central
+24017,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metropolitan Statistical Area,Outlying
+24033,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metropolitan Statistical Area,Central
+39047,47920,"Washington Court House, OH",Micropolitan Statistical Area,Central
+09140,47930,"Waterbury-Shelton, CT",Metropolitan Statistical Area,Central
+19013,47940,"Waterloo-Cedar Falls, IA",Metropolitan Statistical Area,Central
+19017,47940,"Waterloo-Cedar Falls, IA",Metropolitan Statistical Area,Outlying
+19075,47940,"Waterloo-Cedar Falls, IA",Metropolitan Statistical Area,Outlying
+46029,47980,"Watertown, SD",Micropolitan Statistical Area,Central
+55055,48020,"Watertown-Fort Atkinson, WI",Micropolitan Statistical Area,Central
+36045,48060,"Watertown-Fort Drum, NY",Metropolitan Statistical Area,Central
+55073,48140,"Wausau, WI",Metropolitan Statistical Area,Central
+13229,48180,"Waycross, GA",Micropolitan Statistical Area,Outlying
+13299,48180,"Waycross, GA",Micropolitan Statistical Area,Central
+37087,48200,"Waynesville, NC",Micropolitan Statistical Area,Central
+40039,48220,"Weatherford, OK",Micropolitan Statistical Area,Central
+40149,48220,"Weatherford, OK",Micropolitan Statistical Area,Outlying
+39081,48260,"Weirton-Steubenville, WV-OH",Metropolitan Statistical Area,Central
+54009,48260,"Weirton-Steubenville, WV-OH",Metropolitan Statistical Area,Central
+54029,48260,"Weirton-Steubenville, WV-OH",Metropolitan Statistical Area,Central
+53007,48300,"Wenatchee-East Wenatchee, WA",Metropolitan Statistical Area,Central
+53017,48300,"Wenatchee-East Wenatchee, WA",Metropolitan Statistical Area,Central
+29091,48460,"West Plains, MO",Micropolitan Statistical Area,Central
+39013,48540,"Wheeling, WV-OH",Metropolitan Statistical Area,Central
+54051,48540,"Wheeling, WV-OH",Metropolitan Statistical Area,Outlying
+54069,48540,"Wheeling, WV-OH",Metropolitan Statistical Area,Central
+55127,48580,"Whitewater-Elkhorn, WI",Micropolitan Statistical Area,Central
+20015,48620,"Wichita, KS",Metropolitan Statistical Area,Central
+20079,48620,"Wichita, KS",Metropolitan Statistical Area,Outlying
+20173,48620,"Wichita, KS",Metropolitan Statistical Area,Central
+20191,48620,"Wichita, KS",Metropolitan Statistical Area,Outlying
+48009,48660,"Wichita Falls, TX",Metropolitan Statistical Area,Outlying
+48077,48660,"Wichita Falls, TX",Metropolitan Statistical Area,Outlying
+48485,48660,"Wichita Falls, TX",Metropolitan Statistical Area,Central
+12119,48680,"Wildwood-The Villages, FL",Metropolitan Statistical Area,Central
+42081,48700,"Williamsport, PA",Metropolitan Statistical Area,Central
+38105,48780,"Williston, ND",Micropolitan Statistical Area,Central
+27067,48820,"Willmar, MN",Micropolitan Statistical Area,Central
+37019,48900,"Wilmington, NC",Metropolitan Statistical Area,Central
+37129,48900,"Wilmington, NC",Metropolitan Statistical Area,Central
+37141,48900,"Wilmington, NC",Metropolitan Statistical Area,Outlying
+39027,48940,"Wilmington, OH",Micropolitan Statistical Area,Central
+37195,48980,"Wilson, NC",Micropolitan Statistical Area,Central
+47051,49010,"Winchester, TN",Micropolitan Statistical Area,Central
+51069,49020,"Winchester, VA-WV",Metropolitan Statistical Area,Central
+51840,49020,"Winchester, VA-WV",Metropolitan Statistical Area,Central
+54027,49020,"Winchester, VA-WV",Metropolitan Statistical Area,Outlying
+32013,49080,"Winnemucca, NV",Micropolitan Statistical Area,Central
+27169,49100,"Winona, MN",Micropolitan Statistical Area,Central
+37057,49180,"Winston-Salem, NC",Metropolitan Statistical Area,Central
+37059,49180,"Winston-Salem, NC",Metropolitan Statistical Area,Central
+37067,49180,"Winston-Salem, NC",Metropolitan Statistical Area,Central
+37169,49180,"Winston-Salem, NC",Metropolitan Statistical Area,Central
+37197,49180,"Winston-Salem, NC",Metropolitan Statistical Area,Outlying
+55141,49220,"Wisconsin Rapids-Marshfield, WI",Micropolitan Statistical Area,Central
+40153,49260,"Woodward, OK",Micropolitan Statistical Area,Central
+39169,49300,"Wooster, OH",Micropolitan Statistical Area,Central
+25027,49340,"Worcester, MA",Metropolitan Statistical Area,Central
+27105,49380,"Worthington, MN",Micropolitan Statistical Area,Central
+53077,49420,"Yakima, WA",Metropolitan Statistical Area,Central
+46135,49460,"Yankton, SD",Micropolitan Statistical Area,Central
+42133,49620,"York-Hanover, PA",Metropolitan Statistical Area,Central
+39099,49660,"Youngstown-Warren, OH",Metropolitan Statistical Area,Central
+39155,49660,"Youngstown-Warren, OH",Metropolitan Statistical Area,Central
+06101,49700,"Yuba City, CA",Metropolitan Statistical Area,Central
+06115,49700,"Yuba City, CA",Metropolitan Statistical Area,Central
+04027,49740,"Yuma, AZ",Metropolitan Statistical Area,Central
+39119,49780,"Zanesville, OH",Micropolitan Statistical Area,Central
+48505,49820,"Zapata, TX",Micropolitan Statistical Area,Central

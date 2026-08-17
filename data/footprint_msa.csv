@@ -1,0 +1,82 @@
+cbsa_code,cbsa_title,metro_micro,county_fips,branches,branches_acquired,deposits_2025_kusd,deposits_2020_kusd,states,in_footprint_states
+29300,"LaGrange, GA-AL",Micropolitan,,2,2,427968,280702,GA,True
+34820,"Myrtle Beach-Conway-North Myrtle Beach, SC",Metropolitan,,6,3,875372,602559,SC,True
+13820,"Birmingham, AL",Metropolitan,,15,13,4110409,2462690,AL,True
+17500,"Clewiston, FL",Micropolitan,,1,1,99853,90523,FL,True
+20020,"Dothan, AL",Metropolitan,,1,1,189383,164194,AL,True
+44940,"Sumter, SC",Metropolitan,,2,2,390991,335511,SC,True
+12060,"Atlanta-Sandy Springs-Roswell, GA",Metropolitan,,48,41,15331595,6257726,GA,True
+37860,"Pensacola-Ferry Pass-Brent, FL",Metropolitan,,7,7,1086916,798524,FL,True
+16860,"Chattanooga, TN-GA",Metropolitan,,7,3,2519276,1446165,GA|TN,True
+33860,"Montgomery, AL",Metropolitan,,3,3,881825,963457,AL,True
+11140,"Americus, GA",Micropolitan,,1,1,190396,177585,GA,True
+15980,"Cape Coral-Fort Myers, FL",Metropolitan,,4,4,383686,423649,FL,True
+45620,"Thomasville, GA",Micropolitan,,3,3,303013,248060,GA,True
+24660,"Greensboro-High Point, NC",Metropolitan,,13,0,2144815,1690314,NC,True
+26620,"Huntsville, AL",Metropolitan,,6,4,1439085,762123,AL,True
+17980,"Columbus, GA-AL",Metropolitan,,14,14,5699765,945431,AL|GA,True
+17900,"Columbia, SC",Metropolitan,,9,9,1608550,1247269,SC,True
+RURAL,"Clarendon, SC",Rural,45027,1,1,111499,95402,SC,True
+RURAL,"Lee, SC",Rural,45061,1,1,112271,75163,SC,True
+16700,"Charleston-North Charleston, SC",Metropolitan,,22,9,2000187,1270997,SC,True
+25940,"Hilton Head Island-Bluffton-Port Royal, SC",Metropolitan,,3,2,167688,156558,SC,True
+24860,"Greenville-Anderson-Greer, SC",Metropolitan,,7,3,644725,454179,SC,True
+22500,"Florence, SC",Metropolitan,,1,1,95887,99741,SC,True
+39460,"Punta Gorda, FL",Metropolitan,,3,3,280612,345742,FL,True
+44340,"Statesboro, GA",Micropolitan,,3,3,809518,511084,GA,True
+46660,"Valdosta, GA",Metropolitan,,3,3,556329,550463,GA,True
+18880,"Crestview-Fort Walton Beach-Destin, FL",Metropolitan,,5,5,806525,489471,FL,True
+21460,"Enterprise, AL",Micropolitan,,1,1,308270,175349,AL,True
+37120,"Ozark, AL",Micropolitan,,1,1,113704,85064,AL,True
+10500,"Albany, GA",Metropolitan,,3,3,351371,324286,GA,True
+45220,"Tallahassee, FL",Metropolitan,,5,5,351483,333457,FL,True
+45300,"Tampa-St. Petersburg-Clearwater, FL",Metropolitan,,14,14,2357167,1349982,FL,True
+47580,"Warner Robins, GA",Metropolitan,,4,4,696805,474703,GA,True
+36740,"Orlando-Kissimmee-Sanford, FL",Metropolitan,,6,6,1121753,961691,FL,True
+35840,"North Port-Bradenton-Sarasota, FL",Metropolitan,,6,6,441298,699521,FL,True
+33100,"Miami-Fort Lauderdale-West Palm Beach, FL",Metropolitan,,18,18,2956608,2633246,FL,True
+27260,"Jacksonville, FL",Metropolitan,,7,5,804394,579192,FL,True
+46220,"Tuscaloosa, AL",Metropolitan,,3,3,553313,423953,AL,True
+12020,"Athens-Clarke County, GA",Metropolitan,,6,6,1400910,1159766,GA,True
+RURAL,"Hart, GA",Rural,13147,1,1,156021,109802,GA,True
+15260,"Brunswick-St. Simons, GA",Metropolitan,,3,3,269568,277559,GA,True
+43180,"Shelbyville, TN",Micropolitan,,1,0,172443,97854,TN,True
+34980,"Nashville-Davidson--Murfreesboro--Franklin, TN",Metropolitan,,38,3,21627566,13105149,TN,True
+10620,"Albemarle, NC",Micropolitan,,2,0,234935,251464,NC,True
+49180,"Winston-Salem, NC",Metropolitan,,7,0,1110521,1011085,NC,True
+40220,"Roanoke, VA",Metropolitan,,9,0,890670,732381,VA,True
+19660,"Deltona-Daytona Beach-Ormond Beach, FL",Metropolitan,,3,3,219358,342247,FL,True
+20500,"Durham-Chapel Hill, NC",Metropolitan,,5,0,325769,259566,NC,True
+19140,"Dalton, GA",Metropolitan,,2,2,255026,247653,GA,True
+RURAL,"Candler, GA",Rural,13043,1,1,122400,92911,GA,True
+34940,"Naples-Marco Island, FL",Metropolitan,,3,3,569308,690624,FL,True
+15660,"Calhoun, GA",Micropolitan,,1,1,341389,312460,GA,True
+43900,"Spartanburg, SC",Metropolitan,,2,1,280353,207810,SC,True
+40660,"Rome, GA",Metropolitan,,1,1,274118,316205,GA,True
+38940,"Port St. Lucie, FL",Metropolitan,,4,4,281944,319363,FL,True
+37340,"Palm Bay-Melbourne-Titusville, FL",Metropolitan,,1,1,81298,103456,FL,True
+42340,"Savannah, GA",Metropolitan,,3,3,452830,444979,GA,True
+16740,"Charlotte-Concord-Gastonia, NC-SC",Metropolitan,,17,0,1733350,891354,NC|SC,True
+42680,"Sebastian-Vero Beach-West Vero Corridor, FL",Metropolitan,,1,1,46162,76324,FL,True
+12260,"Augusta-Richmond County, GA-SC",Metropolitan,,5,2,334622,281678,GA,True
+28940,"Knoxville, TN",Metropolitan,,7,0,3363821,2134914,TN,True
+15500,"Burlington, NC",Metropolitan,,1,0,143305,70424,NC,True
+19300,"Daphne-Fairhope-Foley, AL",Metropolitan,,2,1,35278,62992,AL,True
+32820,"Memphis, TN-MS-AR",Metropolitan,,13,0,2468134,1182010,MS|TN,True
+39580,"Raleigh-Cary, NC",Metropolitan,,7,0,928326,485810,NC,True
+28680,"Kingsland, GA",Micropolitan,,1,1,87901,77974,GA,True
+17420,"Cleveland, TN",Metropolitan,,1,0,512307,168104,TN,True
+11700,"Asheville, NC",Metropolitan,,1,0,62425,39058,NC,True
+21780,"Evansville, IN",Metropolitan,,1,0,0,0,IN,False
+24780,"Greenville, NC",Metropolitan,,1,0,0,0,NC,True
+19100,"Dallas-Fort Worth-Arlington, TX",Metropolitan,,2,0,0,0,TX,False
+31340,"Lynchburg, VA",Metropolitan,,2,0,85498,0,VA,True
+31420,"Macon-Bibb County, GA",Metropolitan,,2,2,129232,67214,GA,True
+31080,"Los Angeles-Long Beach-Anaheim, CA",Metropolitan,,1,0,0,0,CA,False
+33660,"Mobile, AL",Metropolitan,,1,1,73519,0,AL,True
+47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metropolitan,,4,0,2191341,0,MD|VA,True
+14540,"Bowling Green, KY",Metropolitan,,2,0,0,0,KY,True
+31140,"Louisville/Jefferson County, KY-IN",Metropolitan,,2,0,262666,0,KY,True
+12580,"Baltimore-Columbia-Towson, MD",Metropolitan,,1,0,55524,0,MD,False
+19460,"Decatur, AL",Metropolitan,,1,0,0,0,AL,True
+45700,"Tifton, GA",Micropolitan,,1,1,410265,347720,GA,True
