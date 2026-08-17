@@ -16,10 +16,9 @@ Market categorization engine and supporting data for analyzing a regional bank f
 ## Quick start
 
 ```bash
+pip install -r requirements.txt
 python market_categorizer.py
 ```
-
-Requires Python 3.10+ and dependencies listed in the script header. All source data is local under `data/` — the script does not call external APIs at runtime.
 
 ## Framework
 
